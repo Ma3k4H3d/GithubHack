@@ -20,7 +20,10 @@ Github leaked patrol为一款github泄露巡航工具：
 4. 支持github token管理和用户管理
 5. 支持在WEB中对扫描结果审核
 
-![x-patrol](https://camo.githubusercontent.com/ce1d58d8c71735f2b6f1d2688fe5b13fc214f500/687474703a2f2f646f63732e787365632e696f2f696d616765732f6769746875622f7265706f7274312e706e67)
+![x-patrol](https://camo.githubusercontent.com/ce1d58d8c71735f2b6f1d2688fe5b13fc214f500/687474703a2f2f646f63732e787365632e696f2f696d616765732f6769746875622f7265706f7274312e706e67)  
+## 0x05 Github Dorks  
+[README.md](github-dorks/README.md)  
+Github search is quite powerful and useful feature and can be used to search sensitive data on the repositories. Collection of github dorks that can reveal sensitive personal and/or organizational information such as private keys, credentials, authentication tokens, etc. This list is supposed to be useful for assessing security and performing pen-testing of systems.
  
   
   
