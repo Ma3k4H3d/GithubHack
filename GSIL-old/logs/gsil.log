@@ -1,0 +1,1601 @@
+[32m2018-10-03 10:44:24,237 [GSIL] [INFO] start monitor github information leakage: butian[0m
+[32m2018-10-03 10:48:16,297 [GSIL] [INFO] rules length: 1[0m
+[32m2018-10-03 10:48:26,089 [GSIL] [INFO] >>>>>>>>>>>>> sc.hnssczx.com > ".hnssczx." >>>>>>[0m
+[32m2018-10-03 10:48:37,932 [GSIL] [INFO] ----------------------------[0m
+[32m2018-10-03 10:48:37,935 [GSIL] [INFO] Search keyword: ".hnssczx." extension:bak extension:json extension:txt extension:sql extension:ini extension:php extension:java extension:python extension:go extension:js extension:properties [0m
+[32m2018-10-03 10:48:37,938 [GSIL] [INFO] [".hnssczx."] Speed Limit Results (Remaining Times / Total Times): (5000, 5000)  Speed limit reset time: 1538538517[0m
+[32m2018-10-03 10:48:37,940 [GSIL] [INFO] [".hnssczx."] The expected number of acquisitions: 4(Pages) * 50(Per Page) = 200(Total)[0m
+[32m2018-10-03 10:48:38,645 [GSIL] [INFO] [".hnssczx."] The actual number: 15[0m
+[32m2018-10-03 10:48:39,652 [GSIL] [INFO] [".hnssczx."] Get page 0 data for 15[0m
+[32m2018-10-03 10:48:40,177 [GSIL] [INFO] [".hnssczx."] [0/15] Did not match the code, skip![0m
+[32m2018-10-03 10:48:40,180 [GSIL] [INFO] [".hnssczx."] [1/15] Excluded because of the path, skip![0m
+[32m2018-10-03 10:48:40,183 [GSIL] [INFO] [".hnssczx."] [2/15] Excluded because of the path, skip![0m
+[32m2018-10-03 10:48:41,069 [GSIL] [INFO] [".hnssczx."] [3/15] Processing is complete, the next one![0m
+[32m2018-10-03 10:48:41,426 [GSIL] [INFO] [".hnssczx."] [4/15] Processing is complete, the next one![0m
+[32m2018-10-03 10:48:42,632 [GSIL] [INFO] [".hnssczx."] [5/15] Processing is complete, the next one![0m
+[32m2018-10-03 10:48:42,978 [GSIL] [INFO] [".hnssczx."] [6/15] Processing is complete, the next one![0m
+[32m2018-10-03 10:48:43,365 [GSIL] [INFO] [".hnssczx."] [7/15] Processing is complete, the next one![0m
+[32m2018-10-03 10:48:43,775 [GSIL] [INFO] [".hnssczx."] [8/15] Processing is complete, the next one![0m
+[32m2018-10-03 10:48:44,175 [GSIL] [INFO] [".hnssczx."] [9/15] Processing is complete, the next one![0m
+[32m2018-10-03 10:48:44,179 [GSIL] [INFO] [".hnssczx."] [10/15] Excluded because of the path, skip![0m
+[32m2018-10-03 10:48:44,596 [GSIL] [INFO] [".hnssczx."] [11/15] Processing is complete, the next one![0m
+[32m2018-10-03 10:48:45,002 [GSIL] [INFO] [".hnssczx."] [12/15] Did not match the code, skip![0m
+[32m2018-10-03 10:48:45,005 [GSIL] [INFO] [".hnssczx."] [13/15] Excluded because of the path, skip![0m
+[32m2018-10-03 10:48:45,416 [GSIL] [INFO] [".hnssczx."] [14/15] Processing is complete, the next one![0m
+[32m2018-10-03 10:48:45,419 [GSIL] [INFO] Process count: 9[0m
+[32m2018-10-03 10:52:02,689 [GSIL] [INFO] start monitor github information leakage: butian[0m
+[32m2018-10-03 10:52:02,690 [GSIL] [INFO] rules length: 1[0m
+[32m2018-10-03 10:52:02,703 [GSIL] [INFO] >>>>>>>>>>>>> sc.hnssczx.com > ".hnssczx." >>>>>>[0m
+[32m2018-10-03 10:52:03,839 [GSIL] [INFO] ----------------------------[0m
+[32m2018-10-03 10:52:03,840 [GSIL] [INFO] Search keyword: ".hnssczx." extension:bak extension:json extension:txt extension:sql extension:ini extension:php extension:java extension:python extension:go extension:js extension:properties [0m
+[32m2018-10-03 10:52:03,841 [GSIL] [INFO] [".hnssczx."] Speed Limit Results (Remaining Times / Total Times): (4989, 5000)  Speed limit reset time: 1538538520[0m
+[32m2018-10-03 10:52:03,842 [GSIL] [INFO] [".hnssczx."] The expected number of acquisitions: 4(Pages) * 50(Per Page) = 200(Total)[0m
+[32m2018-10-03 10:52:04,323 [GSIL] [INFO] [".hnssczx."] The actual number: 15[0m
+[32m2018-10-03 10:52:04,976 [GSIL] [INFO] [".hnssczx."] Get page 0 data for 15[0m
+[32m2018-10-03 10:52:05,291 [GSIL] [INFO] [".hnssczx."] [0/15] Did not match the code, skip![0m
+[32m2018-10-03 10:52:05,292 [GSIL] [INFO] [".hnssczx."] [1/15] Excluded because of the path, skip![0m
+[32m2018-10-03 10:52:05,292 [GSIL] [INFO] [".hnssczx."] [2/15] Excluded because of the path, skip![0m
+[32m2018-10-03 10:52:06,101 [GSIL] [INFO] [".hnssczx."] [3/15] Processing is complete, the next one![0m
+[32m2018-10-03 10:52:06,381 [GSIL] [INFO] [".hnssczx."] [4/15] Processing is complete, the next one![0m
+[32m2018-10-03 10:52:07,938 [GSIL] [INFO] [".hnssczx."] [5/15] Processing is complete, the next one![0m
+[32m2018-10-03 10:52:08,238 [GSIL] [INFO] [".hnssczx."] [6/15] Processing is complete, the next one![0m
+[32m2018-10-03 10:52:08,510 [GSIL] [INFO] [".hnssczx."] [7/15] Processing is complete, the next one![0m
+[32m2018-10-03 10:52:08,808 [GSIL] [INFO] [".hnssczx."] [8/15] Processing is complete, the next one![0m
+[32m2018-10-03 10:52:09,085 [GSIL] [INFO] [".hnssczx."] [9/15] Processing is complete, the next one![0m
+[32m2018-10-03 10:52:09,086 [GSIL] [INFO] [".hnssczx."] [10/15] Excluded because of the path, skip![0m
+[32m2018-10-03 10:52:09,376 [GSIL] [INFO] [".hnssczx."] [11/15] Processing is complete, the next one![0m
+[32m2018-10-03 10:52:09,659 [GSIL] [INFO] [".hnssczx."] [12/15] Did not match the code, skip![0m
+[32m2018-10-03 10:52:09,660 [GSIL] [INFO] [".hnssczx."] [13/15] Excluded because of the path, skip![0m
+[32m2018-10-03 10:52:09,988 [GSIL] [INFO] [".hnssczx."] [14/15] Processing is complete, the next one![0m
+[32m2018-10-03 10:52:09,989 [GSIL] [INFO] Process count: 9[0m
+[32m2018-10-03 10:52:42,836 [GSIL] [INFO] start monitor github information leakage: butian[0m
+[32m2018-10-03 10:52:42,837 [GSIL] [INFO] rules length: 1[0m
+[32m2018-10-03 10:52:42,852 [GSIL] [INFO] >>>>>>>>>>>>> sc.hnssczx.com > ".hnssczx." >>>>>>[0m
+[32m2018-10-03 10:52:43,983 [GSIL] [INFO] ----------------------------[0m
+[32m2018-10-03 10:52:43,984 [GSIL] [INFO] Search keyword: ".hnssczx." extension:bak extension:json extension:txt extension:sql extension:ini extension:php extension:java extension:python extension:go extension:js extension:properties [0m
+[32m2018-10-03 10:52:43,985 [GSIL] [INFO] [".hnssczx."] Speed Limit Results (Remaining Times / Total Times): (4978, 5000)  Speed limit reset time: 1538538520[0m
+[32m2018-10-03 10:52:43,986 [GSIL] [INFO] [".hnssczx."] The expected number of acquisitions: 4(Pages) * 50(Per Page) = 200(Total)[0m
+[32m2018-10-03 10:52:44,377 [GSIL] [INFO] [".hnssczx."] The actual number: 15[0m
+[32m2018-10-03 10:52:45,006 [GSIL] [INFO] [".hnssczx."] Get page 0 data for 15[0m
+[32m2018-10-03 10:52:45,325 [GSIL] [INFO] [".hnssczx."] [0/15] Did not match the code, skip![0m
+[32m2018-10-03 10:52:45,327 [GSIL] [INFO] [".hnssczx."] [1/15] Excluded because of the path, skip![0m
+[32m2018-10-03 10:52:45,327 [GSIL] [INFO] [".hnssczx."] [2/15] Excluded because of the path, skip![0m
+[32m2018-10-03 10:52:46,170 [GSIL] [INFO] [".hnssczx."] [3/15] Processing is complete, the next one![0m
+[32m2018-10-03 10:52:46,491 [GSIL] [INFO] [".hnssczx."] [4/15] Processing is complete, the next one![0m
+[32m2018-10-03 10:52:48,385 [GSIL] [INFO] [".hnssczx."] [5/15] Processing is complete, the next one![0m
+[32m2018-10-03 10:52:48,692 [GSIL] [INFO] [".hnssczx."] [6/15] Processing is complete, the next one![0m
+[32m2018-10-03 10:52:48,999 [GSIL] [INFO] [".hnssczx."] [7/15] Processing is complete, the next one![0m
+[32m2018-10-03 10:52:49,310 [GSIL] [INFO] [".hnssczx."] [8/15] Processing is complete, the next one![0m
+[32m2018-10-03 10:52:49,610 [GSIL] [INFO] [".hnssczx."] [9/15] Processing is complete, the next one![0m
+[32m2018-10-03 10:52:49,611 [GSIL] [INFO] [".hnssczx."] [10/15] Excluded because of the path, skip![0m
+[32m2018-10-03 10:52:49,908 [GSIL] [INFO] [".hnssczx."] [11/15] Processing is complete, the next one![0m
+[32m2018-10-03 10:52:50,191 [GSIL] [INFO] [".hnssczx."] [12/15] Did not match the code, skip![0m
+[32m2018-10-03 10:52:50,192 [GSIL] [INFO] [".hnssczx."] [13/15] Excluded because of the path, skip![0m
+[32m2018-10-03 10:52:50,490 [GSIL] [INFO] [".hnssczx."] [14/15] Processing is complete, the next one![0m
+[32m2018-10-03 10:52:50,491 [GSIL] [INFO] Process count: 9[0m
+[32m2018-10-03 10:52:54,047 [GSIL] [INFO] [".hnssczx."] The current rules are processed, the process of normal exit![0m
+[32m2018-10-03 10:56:24,490 [GSIL] [INFO] start monitor github information leakage: butian[0m
+[32m2018-10-03 10:56:24,491 [GSIL] [INFO] rules length: 1[0m
+[32m2018-10-03 10:56:24,504 [GSIL] [INFO] >>>>>>>>>>>>> .hnssczx. > "password" >>>>>>[0m
+[32m2018-10-03 10:56:25,885 [GSIL] [INFO] ----------------------------[0m
+[32m2018-10-03 10:56:25,886 [GSIL] [INFO] Search keyword: "password" extension:bak extension:json extension:txt extension:sql extension:ini extension:php extension:java extension:python extension:go extension:js extension:properties [0m
+[32m2018-10-03 10:56:25,887 [GSIL] [INFO] ["password"] Speed Limit Results (Remaining Times / Total Times): (4967, 5000)  Speed limit reset time: 1538538520[0m
+[32m2018-10-03 10:56:25,888 [GSIL] [INFO] ["password"] The expected number of acquisitions: 4(Pages) * 50(Per Page) = 200(Total)[0m
+[32m2018-10-03 10:56:26,882 [GSIL] [INFO] ["password"] The actual number: 1000[0m
+[32m2018-10-03 10:56:27,941 [GSIL] [INFO] ["password"] Get page 0 data for 50[0m
+[32m2018-10-03 10:56:28,852 [GSIL] [INFO] ["password"] [0/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:56:29,166 [GSIL] [INFO] ["password"] [1/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:56:29,167 [GSIL] [INFO] ["password"] [2/1000] Excluded because of the path, skip![0m
+[32m2018-10-03 10:56:29,466 [GSIL] [INFO] ["password"] [3/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:56:29,774 [GSIL] [INFO] ["password"] [4/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:56:29,775 [GSIL] [INFO] ["password"] [5/1000] Excluded because of the path, skip![0m
+[32m2018-10-03 10:56:30,082 [GSIL] [INFO] ["password"] [6/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:56:30,389 [GSIL] [INFO] ["password"] [7/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:56:30,693 [GSIL] [INFO] ["password"] [8/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:56:31,001 [GSIL] [INFO] ["password"] [9/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:56:31,002 [GSIL] [INFO] ["password"] [10/1000] Excluded because of the path, skip![0m
+[32m2018-10-03 10:56:31,307 [GSIL] [INFO] ["password"] [11/1000] Did not match the code, skip![0m
+[32m2018-10-03 10:56:31,619 [GSIL] [INFO] ["password"] [12/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:56:31,923 [GSIL] [INFO] ["password"] [13/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:56:32,231 [GSIL] [INFO] ["password"] [14/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:56:32,545 [GSIL] [INFO] ["password"] [15/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:56:32,545 [GSIL] [INFO] ["password"] [16/1000] Excluded because of the path, skip![0m
+[32m2018-10-03 10:56:32,546 [GSIL] [INFO] ["password"] [17/1000] Excluded because of the path, skip![0m
+[32m2018-10-03 10:56:32,843 [GSIL] [INFO] ["password"] [18/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:56:33,156 [GSIL] [INFO] ["password"] [19/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:56:33,459 [GSIL] [INFO] ["password"] [20/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:56:33,765 [GSIL] [INFO] ["password"] [21/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:56:33,766 [GSIL] [INFO] ["password"] [22/1000] Excluded because of the path, skip![0m
+[32m2018-10-03 10:56:34,072 [GSIL] [INFO] ["password"] [23/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:56:34,381 [GSIL] [INFO] ["password"] [24/1000] Did not match the code, skip![0m
+[32m2018-10-03 10:56:34,689 [GSIL] [INFO] ["password"] [25/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:56:34,996 [GSIL] [INFO] ["password"] [26/1000] Did not match the code, skip![0m
+[32m2018-10-03 10:56:35,303 [GSIL] [INFO] ["password"] [27/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:56:35,621 [GSIL] [INFO] ["password"] [28/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:56:35,916 [GSIL] [INFO] ["password"] [29/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:56:36,448 [GSIL] [INFO] ["password"] [30/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:56:36,736 [GSIL] [INFO] ["password"] [31/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:56:37,248 [GSIL] [INFO] ["password"] [32/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:56:37,555 [GSIL] [INFO] ["password"] [33/1000] Did not match the code, skip![0m
+[32m2018-10-03 10:56:37,869 [GSIL] [INFO] ["password"] [34/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:56:38,169 [GSIL] [INFO] ["password"] [35/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:56:38,448 [GSIL] [INFO] ["password"] [36/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:56:38,724 [GSIL] [INFO] ["password"] [37/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:56:39,000 [GSIL] [INFO] ["password"] [38/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:56:39,299 [GSIL] [INFO] ["password"] [39/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:56:39,606 [GSIL] [INFO] ["password"] [40/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:56:39,890 [GSIL] [INFO] ["password"] [41/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:56:40,162 [GSIL] [INFO] ["password"] [42/1000] Did not match the code, skip![0m
+[32m2018-10-03 10:56:40,440 [GSIL] [INFO] ["password"] [43/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:56:40,741 [GSIL] [INFO] ["password"] [44/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:56:41,051 [GSIL] [INFO] ["password"] [45/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:56:41,353 [GSIL] [INFO] ["password"] [46/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:56:41,654 [GSIL] [INFO] ["password"] [47/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:56:41,958 [GSIL] [INFO] ["password"] [48/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:56:42,267 [GSIL] [INFO] ["password"] [49/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:56:42,268 [GSIL] [INFO] Process count: 39[0m
+[32m2018-10-03 10:56:44,938 [GSIL] [INFO] ["password"] Get page 1 data for 50[0m
+[32m2018-10-03 10:56:45,748 [GSIL] [INFO] ["password"] [50/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:56:46,017 [GSIL] [INFO] ["password"] [51/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:56:46,272 [GSIL] [INFO] ["password"] [52/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:56:46,538 [GSIL] [INFO] ["password"] [53/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:56:48,410 [GSIL] [INFO] ["password"] [54/1000] Did not match the code, skip![0m
+[32m2018-10-03 10:56:48,720 [GSIL] [INFO] ["password"] [55/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:56:49,024 [GSIL] [INFO] ["password"] [56/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:56:49,292 [GSIL] [INFO] ["password"] [57/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:56:49,569 [GSIL] [INFO] ["password"] [58/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:56:49,837 [GSIL] [INFO] ["password"] [59/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:56:50,105 [GSIL] [INFO] ["password"] [60/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:56:50,383 [GSIL] [INFO] ["password"] [61/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:56:50,663 [GSIL] [INFO] ["password"] [62/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:56:50,969 [GSIL] [INFO] ["password"] [63/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:56:51,297 [GSIL] [INFO] ["password"] [64/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:56:51,298 [GSIL] [INFO] ["password"] [65/1000] Excluded because of the path, skip![0m
+[32m2018-10-03 10:56:51,299 [GSIL] [INFO] ["password"] [66/1000] Excluded because of the path, skip![0m
+[32m2018-10-03 10:56:51,299 [GSIL] [INFO] ["password"] [67/1000] Excluded because of the path, skip![0m
+[32m2018-10-03 10:56:51,300 [GSIL] [INFO] ["password"] [68/1000] Excluded because of the path, skip![0m
+[32m2018-10-03 10:56:51,300 [GSIL] [INFO] ["password"] [69/1000] Excluded because of the path, skip![0m
+[32m2018-10-03 10:56:51,301 [GSIL] [INFO] ["password"] [70/1000] Excluded because of the path, skip![0m
+[32m2018-10-03 10:56:51,302 [GSIL] [INFO] ["password"] [71/1000] Excluded because of the path, skip![0m
+[32m2018-10-03 10:56:51,302 [GSIL] [INFO] ["password"] [72/1000] Excluded because of the path, skip![0m
+[32m2018-10-03 10:56:51,303 [GSIL] [INFO] ["password"] [73/1000] Excluded because of the path, skip![0m
+[32m2018-10-03 10:56:51,303 [GSIL] [INFO] ["password"] [74/1000] Excluded because of the path, skip![0m
+[32m2018-10-03 10:56:51,304 [GSIL] [INFO] ["password"] [75/1000] Excluded because of the path, skip![0m
+[32m2018-10-03 10:56:51,305 [GSIL] [INFO] ["password"] [76/1000] Excluded because of the path, skip![0m
+[32m2018-10-03 10:56:51,305 [GSIL] [INFO] ["password"] [77/1000] Excluded because of the path, skip![0m
+[32m2018-10-03 10:56:51,584 [GSIL] [INFO] ["password"] [78/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:56:51,891 [GSIL] [INFO] ["password"] [79/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:56:52,198 [GSIL] [INFO] ["password"] [80/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:56:52,465 [GSIL] [INFO] ["password"] [81/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:56:52,737 [GSIL] [INFO] ["password"] [82/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:56:53,016 [GSIL] [INFO] ["password"] [83/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:56:53,327 [GSIL] [INFO] ["password"] [84/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:56:53,632 [GSIL] [INFO] ["password"] [85/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:56:53,938 [GSIL] [INFO] ["password"] [86/1000] Did not match the code, skip![0m
+[32m2018-10-03 10:56:54,245 [GSIL] [INFO] ["password"] [87/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:56:54,553 [GSIL] [INFO] ["password"] [88/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:56:54,981 [GSIL] [INFO] ["password"] [89/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:56:55,271 [GSIL] [INFO] ["password"] [90/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:56:55,577 [GSIL] [INFO] ["password"] [91/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:56:55,846 [GSIL] [INFO] ["password"] [92/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:56:56,114 [GSIL] [INFO] ["password"] [93/1000] Did not match the code, skip![0m
+[32m2018-10-03 10:56:56,379 [GSIL] [INFO] ["password"] [94/1000] Did not match the code, skip![0m
+[32m2018-10-03 10:56:56,650 [GSIL] [INFO] ["password"] [95/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:56:57,145 [GSIL] [INFO] ["password"] [96/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:56:57,421 [GSIL] [INFO] ["password"] [97/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:56:57,729 [GSIL] [INFO] ["password"] [98/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:56:58,034 [GSIL] [INFO] ["password"] [99/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:56:58,035 [GSIL] [INFO] Process count: 33[0m
+[32m2018-10-03 10:57:02,053 [GSIL] [INFO] ["password"] Get page 2 data for 50[0m
+[32m2018-10-03 10:57:02,319 [GSIL] [INFO] ["password"] [100/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:57:02,646 [GSIL] [INFO] ["password"] [101/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:57:02,948 [GSIL] [INFO] ["password"] [102/1000] Did not match the code, skip![0m
+[32m2018-10-03 10:57:03,258 [GSIL] [INFO] ["password"] [103/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:57:03,568 [GSIL] [INFO] ["password"] [104/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:57:04,696 [GSIL] [INFO] ["password"] [105/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:57:05,000 [GSIL] [INFO] ["password"] [106/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:57:05,330 [GSIL] [INFO] ["password"] [107/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:57:05,607 [GSIL] [INFO] ["password"] [108/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:57:06,139 [GSIL] [INFO] ["password"] [109/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:57:06,432 [GSIL] [INFO] ["password"] [110/1000] Did not match the code, skip![0m
+[32m2018-10-03 10:57:06,711 [GSIL] [INFO] ["password"] [111/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:57:07,047 [GSIL] [INFO] ["password"] [112/1000] Did not match the code, skip![0m
+[32m2018-10-03 10:57:07,355 [GSIL] [INFO] ["password"] [113/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:57:07,661 [GSIL] [INFO] ["password"] [114/1000] Did not match the code, skip![0m
+[32m2018-10-03 10:57:07,968 [GSIL] [INFO] ["password"] [115/1000] Did not match the code, skip![0m
+[32m2018-10-03 10:57:08,275 [GSIL] [INFO] ["password"] [116/1000] Did not match the code, skip![0m
+[32m2018-10-03 10:57:08,583 [GSIL] [INFO] ["password"] [117/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:57:08,867 [GSIL] [INFO] ["password"] [118/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:57:09,197 [GSIL] [INFO] ["password"] [119/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:57:09,503 [GSIL] [INFO] ["password"] [120/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:57:09,811 [GSIL] [INFO] ["password"] [121/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:57:10,097 [GSIL] [INFO] ["password"] [122/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:57:10,448 [GSIL] [INFO] ["password"] [123/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:57:10,732 [GSIL] [INFO] ["password"] [124/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:57:11,040 [GSIL] [INFO] ["password"] [125/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:57:11,347 [GSIL] [INFO] ["password"] [126/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:57:11,655 [GSIL] [INFO] ["password"] [127/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:57:11,962 [GSIL] [INFO] ["password"] [128/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:57:12,269 [GSIL] [INFO] ["password"] [129/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:57:12,576 [GSIL] [INFO] ["password"] [130/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:57:12,883 [GSIL] [INFO] ["password"] [131/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:57:13,192 [GSIL] [INFO] ["password"] [132/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:57:13,498 [GSIL] [INFO] ["password"] [133/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:57:13,806 [GSIL] [INFO] ["password"] [134/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:57:14,112 [GSIL] [INFO] ["password"] [135/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:57:14,419 [GSIL] [INFO] ["password"] [136/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:57:14,725 [GSIL] [INFO] ["password"] [137/1000] Did not match the code, skip![0m
+[32m2018-10-03 10:57:15,032 [GSIL] [INFO] ["password"] [138/1000] Did not match the code, skip![0m
+[32m2018-10-03 10:57:15,296 [GSIL] [INFO] ["password"] [139/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:57:15,650 [GSIL] [INFO] ["password"] [140/1000] Did not match the code, skip![0m
+[32m2018-10-03 10:57:15,961 [GSIL] [INFO] ["password"] [141/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:57:16,263 [GSIL] [INFO] ["password"] [142/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:57:16,568 [GSIL] [INFO] ["password"] [143/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:57:16,851 [GSIL] [INFO] ["password"] [144/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:57:17,184 [GSIL] [INFO] ["password"] [145/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:57:17,492 [GSIL] [INFO] ["password"] [146/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:57:17,493 [GSIL] [INFO] ["password"] [147/1000] Excluded because of the path, skip![0m
+[32m2018-10-03 10:57:17,494 [GSIL] [INFO] ["password"] [148/1000] Excluded because of the path, skip![0m
+[32m2018-10-03 10:57:17,494 [GSIL] [INFO] ["password"] [149/1000] Excluded because of the path, skip![0m
+[32m2018-10-03 10:57:17,495 [GSIL] [INFO] Process count: 38[0m
+[32m2018-10-03 10:57:19,908 [GSIL] [INFO] ["password"] Get page 3 data for 50[0m
+[32m2018-10-03 10:57:20,181 [GSIL] [INFO] ["password"] [150/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:57:20,463 [GSIL] [INFO] ["password"] [151/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:57:20,770 [GSIL] [INFO] ["password"] [152/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:57:20,770 [GSIL] [INFO] ["password"] [153/1000] Excluded because of the path, skip![0m
+[32m2018-10-03 10:57:21,076 [GSIL] [INFO] ["password"] [154/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:57:21,905 [GSIL] [INFO] ["password"] [155/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:57:22,202 [GSIL] [INFO] ["password"] [156/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:57:22,510 [GSIL] [INFO] ["password"] [157/1000] Code may be useless, do not skip, add to list to be reviewed![0m
+[32m2018-10-03 10:57:22,511 [GSIL] [INFO] ["password"] [157/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:57:22,816 [GSIL] [INFO] ["password"] [158/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:57:23,123 [GSIL] [INFO] ["password"] [159/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:57:23,431 [GSIL] [INFO] ["password"] [160/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:57:23,736 [GSIL] [INFO] ["password"] [161/1000] Did not match the code, skip![0m
+[32m2018-10-03 10:57:25,196 [GSIL] [INFO] ["password"] [162/1000] Code may be useless, do not skip, add to list to be reviewed![0m
+[32m2018-10-03 10:57:25,198 [GSIL] [INFO] ["password"] [162/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:57:25,198 [GSIL] [INFO] ["password"] [163/1000] Excluded because of the path, skip![0m
+[32m2018-10-03 10:57:25,478 [GSIL] [INFO] ["password"] [164/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:57:25,478 [GSIL] [INFO] ["password"] [165/1000] Excluded because of the path, skip![0m
+[32m2018-10-03 10:57:27,226 [GSIL] [INFO] ["password"] [166/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:57:27,526 [GSIL] [INFO] ["password"] [167/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:57:28,449 [GSIL] [INFO] ["password"] [168/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:57:28,755 [GSIL] [INFO] ["password"] [169/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:57:29,062 [GSIL] [INFO] ["password"] [170/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:57:29,370 [GSIL] [INFO] ["password"] [171/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:57:29,675 [GSIL] [INFO] ["password"] [172/1000] Did not match the code, skip![0m
+[32m2018-10-03 10:57:29,939 [GSIL] [INFO] ["password"] [173/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:57:30,213 [GSIL] [INFO] ["password"] [174/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:57:30,495 [GSIL] [INFO] ["password"] [175/1000] Did not match the code, skip![0m
+[32m2018-10-03 10:57:30,802 [GSIL] [INFO] ["password"] [176/1000] Did not match the code, skip![0m
+[32m2018-10-03 10:57:31,109 [GSIL] [INFO] ["password"] [177/1000] Did not match the code, skip![0m
+[32m2018-10-03 10:57:31,418 [GSIL] [INFO] ["password"] [178/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:57:31,725 [GSIL] [INFO] ["password"] [179/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:57:32,032 [GSIL] [INFO] ["password"] [180/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:57:32,344 [GSIL] [INFO] ["password"] [181/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:57:32,647 [GSIL] [INFO] ["password"] [182/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:57:32,954 [GSIL] [INFO] ["password"] [183/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:57:33,261 [GSIL] [INFO] ["password"] [184/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:57:33,568 [GSIL] [INFO] ["password"] [185/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:57:33,876 [GSIL] [INFO] ["password"] [186/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:57:34,183 [GSIL] [INFO] ["password"] [187/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:57:34,489 [GSIL] [INFO] ["password"] [188/1000] Did not match the code, skip![0m
+[32m2018-10-03 10:57:34,796 [GSIL] [INFO] ["password"] [189/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:57:35,104 [GSIL] [INFO] ["password"] [190/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:57:35,412 [GSIL] [INFO] ["password"] [191/1000] Did not match the code, skip![0m
+[32m2018-10-03 10:57:35,413 [GSIL] [INFO] ["password"] [192/1000] Excluded because of the path, skip![0m
+[32m2018-10-03 10:57:35,414 [GSIL] [INFO] ["password"] [193/1000] Excluded because of the path, skip![0m
+[32m2018-10-03 10:57:35,718 [GSIL] [INFO] ["password"] [194/1000] Code may be useless, do not skip, add to list to be reviewed![0m
+[32m2018-10-03 10:57:35,720 [GSIL] [INFO] ["password"] [194/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:57:36,030 [GSIL] [INFO] ["password"] [195/1000] Processing is complete, the next one![0m
+[32m2018-10-03 10:57:36,031 [GSIL] [INFO] ["password"] [196/1000] Excluded because of the path, skip![0m
+[32m2018-10-03 10:57:36,031 [GSIL] [INFO] ["password"] [197/1000] Excluded because of the path, skip![0m
+[32m2018-10-03 10:57:36,032 [GSIL] [INFO] ["password"] [198/1000] Excluded because of the path, skip![0m
+[32m2018-10-03 10:57:36,032 [GSIL] [INFO] ["password"] [199/1000] Excluded because of the path, skip![0m
+[32m2018-10-03 10:57:36,033 [GSIL] [INFO] Process count: 31[0m
+[32m2018-10-03 10:57:38,116 [GSIL] [INFO] ["password"] The current rules are processed, the process of normal exit![0m
+[32m2018-10-03 19:27:17,178 [GSIL] [INFO] start monitor github information leakage: butian[0m
+[32m2018-10-03 19:27:17,179 [GSIL] [INFO] rules length: 1[0m
+[32m2018-10-03 19:27:17,194 [GSIL] [INFO] >>>>>>>>>>>>> hnssczx.com > ".hnssczx." password >>>>>>[0m
+[32m2018-10-03 19:27:19,787 [GSIL] [INFO] ----------------------------[0m
+[32m2018-10-03 19:27:19,789 [GSIL] [INFO] Search keyword: ".hnssczx." password extension:bak extension:json extension:txt extension:sql extension:ini extension:php extension:java extension:python extension:go extension:js extension:properties [0m
+[32m2018-10-03 19:27:19,789 [GSIL] [INFO] [".hnssczx." password] Speed Limit Results (Remaining Times / Total Times): (5000, 5000)  Speed limit reset time: 1538569639[0m
+[32m2018-10-03 19:27:19,790 [GSIL] [INFO] [".hnssczx." password] The expected number of acquisitions: 4(Pages) * 50(Per Page) = 200(Total)[0m
+[32m2018-10-03 19:27:20,480 [GSIL] [INFO] [".hnssczx." password] The actual number: 3[0m
+[32m2018-10-03 19:27:22,447 [GSIL] [INFO] [".hnssczx." password] Get page 0 data for 0[0m
+[32m2018-10-03 19:27:22,448 [GSIL] [INFO] Process count: 0[0m
+[32m2018-10-03 19:27:22,449 [GSIL] [INFO] none content for send mail[0m
+[32m2018-10-03 19:27:22,449 [GSIL] [INFO] [".hnssczx." password] The current rules are processed, the process of normal exit![0m
+[31m[47m2018-10-03 20:11:19,809 [GSIL] [CRITICAL] please config GSIL/rules.gsil![0m
+[31m[47m2018-10-03 20:11:19,811 [GSIL] [CRITICAL] Traceback (most recent call last):
+  File "/Users/xiaohan/GitRepository/GSIL/gsil/config.py", line 145, in <module>
+    rules_dict = json.load(f)
+  File "/usr/local/Cellar/python3/3.6.2/Frameworks/Python.framework/Versions/3.6/lib/python3.6/json/__init__.py", line 296, in load
+    return loads(fp.read(),
+  File "/usr/local/Cellar/python3/3.6.2/Frameworks/Python.framework/Versions/3.6/lib/python3.6/encodings/ascii.py", line 26, in decode
+    return codecs.ascii_decode(input, self.errors)[0]
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xe6 in position 28: ordinal not in range(128)
+[0m
+[32m2018-10-03 20:11:19,854 [GSIL] [INFO] start monitor github information leakage: butian[0m
+[32m2018-10-03 20:12:55,319 [GSIL] [INFO] start monitor github information leakage: butian[0m
+[32m2018-10-03 20:12:55,319 [GSIL] [INFO] rules length: 3[0m
+[32m2018-10-03 20:12:55,335 [GSIL] [INFO] >>>>>>>>>>>>> sc.hnssczx.com > ".hnssczx." >>>>>>[0m
+[32m2018-10-03 20:12:55,336 [GSIL] [INFO] >>>>>>>>>>>>> www.diyou.cn > ".diyou." password >>>>>>[0m
+[32m2018-10-03 20:12:55,336 [GSIL] [INFO] >>>>>>>>>>>>> www.aiyoumi.com > ".aiyoumi." password >>>>>>[0m
+[32m2018-10-03 20:12:57,463 [GSIL] [INFO] ----------------------------[0m
+[32m2018-10-03 20:12:57,464 [GSIL] [INFO] ----------------------------[0m
+[32m2018-10-03 20:12:57,464 [GSIL] [INFO] ----------------------------[0m
+[32m2018-10-03 20:12:57,465 [GSIL] [INFO] Search keyword: ".diyou." password extension:bak extension:json extension:txt extension:sql extension:ini extension:php extension:java extension:python extension:go extension:js extension:properties [0m
+[32m2018-10-03 20:12:57,465 [GSIL] [INFO] Search keyword: ".aiyoumi." password extension:bak extension:json extension:txt extension:sql extension:ini extension:php extension:java extension:python extension:go extension:js extension:properties [0m
+[32m2018-10-03 20:12:57,465 [GSIL] [INFO] Search keyword: ".hnssczx." extension:bak extension:json extension:txt extension:sql extension:ini extension:php extension:java extension:python extension:go extension:js extension:properties [0m
+[32m2018-10-03 20:12:57,466 [GSIL] [INFO] [".diyou." password] Speed Limit Results (Remaining Times / Total Times): (5000, 5000)  Speed limit reset time: 1538572377[0m
+[32m2018-10-03 20:12:57,466 [GSIL] [INFO] [".aiyoumi." password] Speed Limit Results (Remaining Times / Total Times): (5000, 5000)  Speed limit reset time: 1538572377[0m
+[32m2018-10-03 20:12:57,466 [GSIL] [INFO] [".hnssczx."] Speed Limit Results (Remaining Times / Total Times): (5000, 5000)  Speed limit reset time: 1538572377[0m
+[32m2018-10-03 20:12:57,466 [GSIL] [INFO] [".diyou." password] The expected number of acquisitions: 4(Pages) * 50(Per Page) = 200(Total)[0m
+[32m2018-10-03 20:12:57,467 [GSIL] [INFO] [".aiyoumi." password] The expected number of acquisitions: 4(Pages) * 50(Per Page) = 200(Total)[0m
+[32m2018-10-03 20:12:57,467 [GSIL] [INFO] [".hnssczx."] The expected number of acquisitions: 4(Pages) * 50(Per Page) = 200(Total)[0m
+[32m2018-10-03 20:12:57,975 [GSIL] [INFO] [".diyou." password] The actual number: 84[0m
+[32m2018-10-03 20:12:57,975 [GSIL] [INFO] [".aiyoumi." password] The actual number: 3[0m
+[32m2018-10-03 20:12:57,976 [GSIL] [INFO] [".hnssczx."] The actual number: 15[0m
+[32m2018-10-03 20:12:58,517 [GSIL] [INFO] [".aiyoumi." password] Get page 0 data for 1[0m
+[32m2018-10-03 20:12:58,680 [GSIL] [INFO] [".hnssczx."] Get page 0 data for 15[0m
+[32m2018-10-03 20:12:58,857 [GSIL] [INFO] [".diyou." password] Get page 0 data for 50[0m
+[32m2018-10-03 20:12:58,858 [GSIL] [INFO] [".diyou." password] [0/84] Excluded because of the path, skip![0m
+[32m2018-10-03 20:12:58,896 [GSIL] [INFO] [".aiyoumi." password] [0/3] Did not match the code, skip![0m
+[32m2018-10-03 20:12:58,898 [GSIL] [INFO] Process count: 0[0m
+[32m2018-10-03 20:12:58,898 [GSIL] [INFO] none content for send mail[0m
+[32m2018-10-03 20:12:58,899 [GSIL] [INFO] [".aiyoumi." password] The current rules are processed, the process of normal exit![0m
+[32m2018-10-03 20:12:59,202 [GSIL] [INFO] [".hnssczx."] [0/15] Did not match the code, skip![0m
+[32m2018-10-03 20:12:59,203 [GSIL] [INFO] [".hnssczx."] [1/15] Excluded because of the path, skip![0m
+[32m2018-10-03 20:12:59,204 [GSIL] [INFO] [".hnssczx."] [2/15] Excluded because of the path, skip![0m
+[32m2018-10-03 20:12:59,205 [GSIL] [INFO] [".hnssczx."] [3/15] Processed, skip! (0)[0m
+[32m2018-10-03 20:12:59,205 [GSIL] [INFO] [".hnssczx."] [4/15] Processed, skip! (1)[0m
+[32m2018-10-03 20:12:59,206 [GSIL] [INFO] [".hnssczx."] [5/15] Processed, skip! (2)[0m
+[32m2018-10-03 20:12:59,206 [GSIL] [INFO] [".hnssczx."] [6/15] Processed, skip! (3)[0m
+[32m2018-10-03 20:12:59,207 [GSIL] [INFO] [".hnssczx."] [7/15] Has encountered 4 has been processed, skip the current rules![0m
+[32m2018-10-03 20:12:59,208 [GSIL] [INFO] [".hnssczx."] The current rules are processed, the process of normal exit![0m
+[32m2018-10-03 20:12:59,220 [GSIL] [INFO] [".diyou." password] [1/84] Did not match the code, skip![0m
+[32m2018-10-03 20:12:59,599 [GSIL] [INFO] [".diyou." password] [2/84] Did not match the code, skip![0m
+[32m2018-10-03 20:13:00,024 [GSIL] [INFO] [".diyou." password] [3/84] Did not match the code, skip![0m
+[32m2018-10-03 20:13:00,416 [GSIL] [INFO] [".diyou." password] [4/84] Did not match the code, skip![0m
+[32m2018-10-03 20:13:00,772 [GSIL] [INFO] [".diyou." password] [5/84] Did not match the code, skip![0m
+[32m2018-10-03 20:13:01,207 [GSIL] [INFO] [".diyou." password] [6/84] Did not match the code, skip![0m
+[32m2018-10-03 20:13:01,560 [GSIL] [INFO] [".diyou." password] [7/84] Did not match the code, skip![0m
+[32m2018-10-03 20:13:01,560 [GSIL] [INFO] [".diyou." password] [8/84] Excluded because of the path, skip![0m
+[32m2018-10-03 20:13:01,969 [GSIL] [INFO] [".diyou." password] [9/84] Did not match the code, skip![0m
+[32m2018-10-03 20:13:02,786 [GSIL] [INFO] [".diyou." password] [10/84] Did not match the code, skip![0m
+[32m2018-10-03 20:13:03,197 [GSIL] [INFO] [".diyou." password] [11/84] Did not match the code, skip![0m
+[32m2018-10-03 20:13:03,636 [GSIL] [INFO] [".diyou." password] [12/84] Did not match the code, skip![0m
+[32m2018-10-03 20:13:04,028 [GSIL] [INFO] [".diyou." password] [13/84] Did not match the code, skip![0m
+[32m2018-10-03 20:13:04,426 [GSIL] [INFO] [".diyou." password] [14/84] Did not match the code, skip![0m
+[32m2018-10-03 20:13:04,835 [GSIL] [INFO] [".diyou." password] [15/84] Did not match the code, skip![0m
+[32m2018-10-03 20:13:05,244 [GSIL] [INFO] [".diyou." password] [16/84] Did not match the code, skip![0m
+[32m2018-10-03 20:13:05,766 [GSIL] [INFO] [".diyou." password] [17/84] Did not match the code, skip![0m
+[32m2018-10-03 20:13:06,473 [GSIL] [INFO] [".diyou." password] [18/84] Did not match the code, skip![0m
+[32m2018-10-03 20:13:07,109 [GSIL] [INFO] [".diyou." password] [19/84] Did not match the code, skip![0m
+[32m2018-10-03 20:13:07,533 [GSIL] [INFO] [".diyou." password] [20/84] Did not match the code, skip![0m
+[32m2018-10-03 20:13:08,009 [GSIL] [INFO] [".diyou." password] [21/84] Did not match the code, skip![0m
+[32m2018-10-03 20:13:08,380 [GSIL] [INFO] [".diyou." password] [22/84] Did not match the code, skip![0m
+[32m2018-10-03 20:13:08,775 [GSIL] [INFO] [".diyou." password] [23/84] Did not match the code, skip![0m
+[32m2018-10-03 20:13:09,159 [GSIL] [INFO] [".diyou." password] [24/84] Did not match the code, skip![0m
+[32m2018-10-03 20:13:09,568 [GSIL] [INFO] [".diyou." password] [25/84] Did not match the code, skip![0m
+[32m2018-10-03 20:13:09,977 [GSIL] [INFO] [".diyou." password] [26/84] Did not match the code, skip![0m
+[32m2018-10-03 20:13:10,881 [GSIL] [INFO] [".diyou." password] [27/84] Did not match the code, skip![0m
+[32m2018-10-03 20:13:11,306 [GSIL] [INFO] [".diyou." password] [28/84] Did not match the code, skip![0m
+[32m2018-10-03 20:13:11,736 [GSIL] [INFO] [".diyou." password] [29/84] Did not match the code, skip![0m
+[32m2018-10-03 20:13:12,149 [GSIL] [INFO] [".diyou." password] [30/84] Did not match the code, skip![0m
+[32m2018-10-03 20:13:12,542 [GSIL] [INFO] [".diyou." password] [31/84] Did not match the code, skip![0m
+[32m2018-10-03 20:13:12,951 [GSIL] [INFO] [".diyou." password] [32/84] Did not match the code, skip![0m
+[32m2018-10-03 20:13:13,339 [GSIL] [INFO] [".diyou." password] [33/84] Did not match the code, skip![0m
+[32m2018-10-03 20:13:13,760 [GSIL] [INFO] [".diyou." password] [34/84] Did not match the code, skip![0m
+[32m2018-10-03 20:13:14,173 [GSIL] [INFO] [".diyou." password] [35/84] Did not match the code, skip![0m
+[32m2018-10-03 20:13:14,598 [GSIL] [INFO] [".diyou." password] [36/84] Did not match the code, skip![0m
+[32m2018-10-03 20:13:16,059 [GSIL] [INFO] [".diyou." password] [37/84] Did not match the code, skip![0m
+[32m2018-10-03 20:13:16,059 [GSIL] [INFO] [".diyou." password] [38/84] Excluded because of the path, skip![0m
+[32m2018-10-03 20:13:16,060 [GSIL] [INFO] [".diyou." password] [39/84] Excluded because of the path, skip![0m
+[32m2018-10-03 20:13:16,060 [GSIL] [INFO] [".diyou." password] [40/84] Excluded because of the path, skip![0m
+[32m2018-10-03 20:13:16,061 [GSIL] [INFO] [".diyou." password] [41/84] Excluded because of the path, skip![0m
+[32m2018-10-03 20:13:16,062 [GSIL] [INFO] [".diyou." password] [42/84] Excluded because of the path, skip![0m
+[32m2018-10-03 20:13:16,062 [GSIL] [INFO] [".diyou." password] [43/84] Excluded because of the path, skip![0m
+[32m2018-10-03 20:13:16,063 [GSIL] [INFO] [".diyou." password] [44/84] Excluded because of the path, skip![0m
+[32m2018-10-03 20:13:16,063 [GSIL] [INFO] [".diyou." password] [45/84] Excluded because of the path, skip![0m
+[32m2018-10-03 20:13:16,064 [GSIL] [INFO] [".diyou." password] [46/84] Excluded because of the path, skip![0m
+[32m2018-10-03 20:13:16,064 [GSIL] [INFO] [".diyou." password] [47/84] Excluded because of the path, skip![0m
+[32m2018-10-03 20:13:16,065 [GSIL] [INFO] [".diyou." password] [48/84] Excluded because of the path, skip![0m
+[32m2018-10-03 20:13:16,065 [GSIL] [INFO] [".diyou." password] [49/84] Excluded because of the path, skip![0m
+[32m2018-10-03 20:13:16,066 [GSIL] [INFO] Process count: 0[0m
+[32m2018-10-03 20:13:16,066 [GSIL] [INFO] none content for send mail[0m
+[32m2018-10-03 20:13:16,926 [GSIL] [INFO] [".diyou." password] Get page 1 data for 34[0m
+[32m2018-10-03 20:13:16,927 [GSIL] [INFO] [".diyou." password] [50/84] Excluded because of the path, skip![0m
+[32m2018-10-03 20:13:16,928 [GSIL] [INFO] [".diyou." password] [51/84] Excluded because of the path, skip![0m
+[32m2018-10-03 20:13:16,928 [GSIL] [INFO] [".diyou." password] [52/84] Excluded because of the path, skip![0m
+[32m2018-10-03 20:13:16,929 [GSIL] [INFO] [".diyou." password] [53/84] Excluded because of the path, skip![0m
+[32m2018-10-03 20:13:16,929 [GSIL] [INFO] [".diyou." password] [54/84] Excluded because of the path, skip![0m
+[32m2018-10-03 20:13:16,930 [GSIL] [INFO] [".diyou." password] [55/84] Excluded because of the path, skip![0m
+[32m2018-10-03 20:13:16,930 [GSIL] [INFO] [".diyou." password] [56/84] Excluded because of the path, skip![0m
+[32m2018-10-03 20:13:16,931 [GSIL] [INFO] [".diyou." password] [57/84] Excluded because of the path, skip![0m
+[32m2018-10-03 20:13:16,931 [GSIL] [INFO] [".diyou." password] [58/84] Excluded because of the path, skip![0m
+[32m2018-10-03 20:13:16,932 [GSIL] [INFO] [".diyou." password] [59/84] Excluded because of the path, skip![0m
+[32m2018-10-03 20:13:16,932 [GSIL] [INFO] [".diyou." password] [60/84] Excluded because of the path, skip![0m
+[32m2018-10-03 20:13:16,932 [GSIL] [INFO] [".diyou." password] [61/84] Excluded because of the path, skip![0m
+[32m2018-10-03 20:13:16,933 [GSIL] [INFO] [".diyou." password] [62/84] Excluded because of the path, skip![0m
+[32m2018-10-03 20:13:16,933 [GSIL] [INFO] [".diyou." password] [63/84] Excluded because of the path, skip![0m
+[32m2018-10-03 20:13:16,934 [GSIL] [INFO] [".diyou." password] [64/84] Excluded because of the path, skip![0m
+[32m2018-10-03 20:13:16,934 [GSIL] [INFO] [".diyou." password] [65/84] Excluded because of the path, skip![0m
+[32m2018-10-03 20:13:17,333 [GSIL] [INFO] [".diyou." password] [66/84] Did not match the code, skip![0m
+[32m2018-10-03 20:13:18,095 [GSIL] [INFO] [".diyou." password] [67/84] Did not match the code, skip![0m
+[32m2018-10-03 20:13:18,788 [GSIL] [INFO] [".diyou." password] [68/84] Did not match the code, skip![0m
+[32m2018-10-03 20:13:22,046 [GSIL] [INFO] [".diyou." password] [69/84] Did not match the code, skip![0m
+[32m2018-10-03 20:13:22,856 [GSIL] [INFO] [".diyou." password] [70/84] Did not match the code, skip![0m
+[32m2018-10-03 20:13:23,574 [GSIL] [INFO] [".diyou." password] [71/84] Did not match the code, skip![0m
+[32m2018-10-03 20:13:24,050 [GSIL] [INFO] [".diyou." password] [72/84] Did not match the code, skip![0m
+[32m2018-10-03 20:13:24,414 [GSIL] [INFO] [".diyou." password] [73/84] Did not match the code, skip![0m
+[32m2018-10-03 20:13:24,804 [GSIL] [INFO] [".diyou." password] [74/84] Did not match the code, skip![0m
+[32m2018-10-03 20:13:25,225 [GSIL] [INFO] [".diyou." password] [75/84] Did not match the code, skip![0m
+[32m2018-10-03 20:13:25,623 [GSIL] [INFO] [".diyou." password] [76/84] Did not match the code, skip![0m
+[32m2018-10-03 20:13:25,965 [GSIL] [INFO] [".diyou." password] [77/84] Did not match the code, skip![0m
+[32m2018-10-03 20:13:26,362 [GSIL] [INFO] [".diyou." password] [78/84] Did not match the code, skip![0m
+[32m2018-10-03 20:13:26,787 [GSIL] [INFO] [".diyou." password] [79/84] Did not match the code, skip![0m
+[32m2018-10-03 20:13:27,216 [GSIL] [INFO] [".diyou." password] [80/84] Did not match the code, skip![0m
+[32m2018-10-03 20:13:27,634 [GSIL] [INFO] [".diyou." password] [81/84] Did not match the code, skip![0m
+[32m2018-10-03 20:13:27,635 [GSIL] [INFO] [".diyou." password] [82/84] Excluded because of the path, skip![0m
+[32m2018-10-03 20:13:27,636 [GSIL] [INFO] [".diyou." password] [83/84] Excluded because of the path, skip![0m
+[32m2018-10-03 20:13:27,636 [GSIL] [INFO] Process count: 0[0m
+[32m2018-10-03 20:13:27,637 [GSIL] [INFO] none content for send mail[0m
+[32m2018-10-03 20:13:28,096 [GSIL] [INFO] [".diyou." password] Get page 2 data for 0[0m
+[32m2018-10-03 20:13:28,097 [GSIL] [INFO] Process count: 0[0m
+[32m2018-10-03 20:13:28,098 [GSIL] [INFO] none content for send mail[0m
+[32m2018-10-03 20:13:28,530 [GSIL] [INFO] [".diyou." password] Get page 3 data for 0[0m
+[32m2018-10-03 20:13:28,531 [GSIL] [INFO] Process count: 0[0m
+[32m2018-10-03 20:13:28,532 [GSIL] [INFO] none content for send mail[0m
+[32m2018-10-03 20:13:28,532 [GSIL] [INFO] [".diyou." password] The current rules are processed, the process of normal exit![0m
+[32m2018-10-03 20:13:55,576 [GSIL] [INFO] start monitor github information leakage: butian[0m
+[32m2018-10-03 20:13:55,576 [GSIL] [INFO] rules length: 3[0m
+[32m2018-10-03 20:13:55,590 [GSIL] [INFO] >>>>>>>>>>>>> sc.hnssczx.com > ".hnssczx." >>>>>>[0m
+[32m2018-10-03 20:13:55,591 [GSIL] [INFO] >>>>>>>>>>>>> www.diyou.cn > ".diyou." password >>>>>>[0m
+[32m2018-10-03 20:13:55,592 [GSIL] [INFO] >>>>>>>>>>>>> www.aiyoumi.com > ".aiyoumi." >>>>>>[0m
+[32m2018-10-03 20:13:57,266 [GSIL] [INFO] ----------------------------[0m
+[32m2018-10-03 20:13:57,266 [GSIL] [INFO] ----------------------------[0m
+[32m2018-10-03 20:13:57,269 [GSIL] [INFO] Search keyword: ".hnssczx." extension:bak extension:json extension:txt extension:sql extension:ini extension:php extension:java extension:python extension:go extension:js extension:properties [0m
+[32m2018-10-03 20:13:57,269 [GSIL] [INFO] Search keyword: ".aiyoumi." extension:bak extension:json extension:txt extension:sql extension:ini extension:php extension:java extension:python extension:go extension:js extension:properties [0m
+[32m2018-10-03 20:13:57,270 [GSIL] [INFO] [".hnssczx."] Speed Limit Results (Remaining Times / Total Times): (4946, 5000)  Speed limit reset time: 1538572378[0m
+[32m2018-10-03 20:13:57,270 [GSIL] [INFO] [".aiyoumi."] Speed Limit Results (Remaining Times / Total Times): (4946, 5000)  Speed limit reset time: 1538572378[0m
+[32m2018-10-03 20:13:57,271 [GSIL] [INFO] [".hnssczx."] The expected number of acquisitions: 4(Pages) * 50(Per Page) = 200(Total)[0m
+[32m2018-10-03 20:13:57,271 [GSIL] [INFO] [".aiyoumi."] The expected number of acquisitions: 4(Pages) * 50(Per Page) = 200(Total)[0m
+[32m2018-10-03 20:13:57,827 [GSIL] [INFO] [".hnssczx."] The actual number: 15[0m
+[32m2018-10-03 20:13:57,838 [GSIL] [INFO] [".aiyoumi."] The actual number: 45[0m
+[32m2018-10-03 20:13:58,603 [GSIL] [INFO] [".hnssczx."] Get page 0 data for 15[0m
+[32m2018-10-03 20:13:59,020 [GSIL] [INFO] [".hnssczx."] [0/15] Did not match the code, skip![0m
+[32m2018-10-03 20:13:59,021 [GSIL] [INFO] [".hnssczx."] [1/15] Excluded because of the path, skip![0m
+[32m2018-10-03 20:13:59,022 [GSIL] [INFO] [".hnssczx."] [2/15] Excluded because of the path, skip![0m
+[32m2018-10-03 20:13:59,022 [GSIL] [INFO] [".hnssczx."] [3/15] Processed, skip! (0)[0m
+[32m2018-10-03 20:13:59,023 [GSIL] [INFO] [".hnssczx."] [4/15] Processed, skip! (1)[0m
+[32m2018-10-03 20:13:59,024 [GSIL] [INFO] [".hnssczx."] [5/15] Processed, skip! (2)[0m
+[32m2018-10-03 20:13:59,024 [GSIL] [INFO] [".hnssczx."] [6/15] Processed, skip! (3)[0m
+[32m2018-10-03 20:13:59,025 [GSIL] [INFO] [".hnssczx."] [7/15] Has encountered 4 has been processed, skip the current rules![0m
+[32m2018-10-03 20:13:59,025 [GSIL] [INFO] [".hnssczx."] The current rules are processed, the process of normal exit![0m
+[32m2018-10-03 20:13:59,092 [GSIL] [INFO] [".aiyoumi."] Get page 0 data for 45[0m
+[32m2018-10-03 20:13:59,094 [GSIL] [INFO] [".aiyoumi."] [0/45] Excluded because of the path, skip![0m
+[32m2018-10-03 20:13:59,446 [GSIL] [INFO] ----------------------------[0m
+[32m2018-10-03 20:13:59,447 [GSIL] [INFO] Search keyword: ".diyou." password extension:bak extension:json extension:txt extension:sql extension:ini extension:php extension:java extension:python extension:go extension:js extension:properties [0m
+[32m2018-10-03 20:13:59,448 [GSIL] [INFO] [".diyou." password] Speed Limit Results (Remaining Times / Total Times): (4945, 5000)  Speed limit reset time: 1538572378[0m
+[32m2018-10-03 20:13:59,449 [GSIL] [INFO] [".diyou." password] The expected number of acquisitions: 4(Pages) * 50(Per Page) = 200(Total)[0m
+[32m2018-10-03 20:13:59,495 [GSIL] [INFO] [".aiyoumi."] [1/45] Did not match the code, skip![0m
+[32m2018-10-03 20:13:59,892 [GSIL] [INFO] [".aiyoumi."] [2/45] Did not match the code, skip![0m
+[32m2018-10-03 20:14:00,031 [GSIL] [INFO] [".diyou." password] The actual number: 84[0m
+[32m2018-10-03 20:14:00,336 [GSIL] [INFO] [".aiyoumi."] [3/45] Did not match the code, skip![0m
+[32m2018-10-03 20:14:00,746 [GSIL] [INFO] [".aiyoumi."] [4/45] Did not match the code, skip![0m
+[32m2018-10-03 20:14:00,747 [GSIL] [INFO] [".aiyoumi."] [5/45] Excluded because of the path, skip![0m
+[32m2018-10-03 20:14:00,748 [GSIL] [INFO] [".aiyoumi."] [6/45] Excluded because of the path, skip![0m
+[32m2018-10-03 20:14:00,749 [GSIL] [INFO] [".aiyoumi."] [7/45] Excluded because of the path, skip![0m
+[32m2018-10-03 20:14:00,749 [GSIL] [INFO] [".aiyoumi."] [8/45] Excluded because of the path, skip![0m
+[32m2018-10-03 20:14:01,183 [GSIL] [INFO] [".aiyoumi."] [9/45] Processing is complete, the next one![0m
+[32m2018-10-03 20:14:01,362 [GSIL] [INFO] [".diyou." password] Get page 0 data for 50[0m
+[32m2018-10-03 20:14:01,363 [GSIL] [INFO] [".diyou." password] [0/84] Excluded because of the path, skip![0m
+[32m2018-10-03 20:14:01,596 [GSIL] [INFO] [".aiyoumi."] [10/45] Processing is complete, the next one![0m
+[32m2018-10-03 20:14:01,992 [GSIL] [INFO] [".aiyoumi."] [11/45] Processing is complete, the next one![0m
+[32m2018-10-03 20:14:02,234 [GSIL] [INFO] [".diyou." password] [1/84] Did not match the code, skip![0m
+[32m2018-10-03 20:14:02,393 [GSIL] [INFO] [".aiyoumi."] [12/45] Processing is complete, the next one![0m
+[32m2018-10-03 20:14:02,812 [GSIL] [INFO] [".aiyoumi."] [13/45] Processing is complete, the next one![0m
+[32m2018-10-03 20:14:03,065 [GSIL] [INFO] [".diyou." password] [2/84] Did not match the code, skip![0m
+[32m2018-10-03 20:14:03,511 [GSIL] [INFO] [".aiyoumi."] [14/45] Did not match the code, skip![0m
+[32m2018-10-03 20:14:03,920 [GSIL] [INFO] [".diyou." password] [3/84] Did not match the code, skip![0m
+[32m2018-10-03 20:14:03,922 [GSIL] [INFO] [".aiyoumi."] [15/45] Did not match the code, skip![0m
+[32m2018-10-03 20:14:04,340 [GSIL] [INFO] [".aiyoumi."] [16/45] Processing is complete, the next one![0m
+[32m2018-10-03 20:14:04,362 [GSIL] [INFO] [".diyou." password] [4/84] Did not match the code, skip![0m
+[32m2018-10-03 20:14:04,743 [GSIL] [INFO] [".aiyoumi."] [17/45] Processing is complete, the next one![0m
+[32m2018-10-03 20:14:04,814 [GSIL] [INFO] [".diyou." password] [5/84] Did not match the code, skip![0m
+[32m2018-10-03 20:14:05,150 [GSIL] [INFO] [".aiyoumi."] [18/45] Processing is complete, the next one![0m
+[32m2018-10-03 20:14:05,252 [GSIL] [INFO] [".diyou." password] [6/84] Did not match the code, skip![0m
+[32m2018-10-03 20:14:06,039 [GSIL] [INFO] [".diyou." password] [7/84] Did not match the code, skip![0m
+[32m2018-10-03 20:14:06,040 [GSIL] [INFO] [".diyou." password] [8/84] Excluded because of the path, skip![0m
+[32m2018-10-03 20:14:08,016 [GSIL] [INFO] [".diyou." password] [9/84] Did not match the code, skip![0m
+[32m2018-10-03 20:14:08,021 [GSIL] [INFO] [".aiyoumi."] [19/45] Did not match the code, skip![0m
+[32m2018-10-03 20:14:08,022 [GSIL] [INFO] [".aiyoumi."] [20/45] Excluded because of the path, skip![0m
+[32m2018-10-03 20:14:08,445 [GSIL] [INFO] [".aiyoumi."] [21/45] Did not match the code, skip![0m
+[32m2018-10-03 20:14:08,837 [GSIL] [INFO] [".aiyoumi."] [22/45] Did not match the code, skip![0m
+[32m2018-10-03 20:14:09,236 [GSIL] [INFO] [".aiyoumi."] [23/45] Did not match the code, skip![0m
+[32m2018-10-03 20:14:09,237 [GSIL] [INFO] [".aiyoumi."] [24/45] Excluded because of the path, skip![0m
+[32m2018-10-03 20:14:09,656 [GSIL] [INFO] [".aiyoumi."] [25/45] Did not match the code, skip![0m
+[32m2018-10-03 20:14:10,065 [GSIL] [INFO] [".aiyoumi."] [26/45] Did not match the code, skip![0m
+[32m2018-10-03 20:14:10,072 [GSIL] [INFO] [".diyou." password] [10/84] Did not match the code, skip![0m
+[32m2018-10-03 20:14:10,474 [GSIL] [INFO] [".aiyoumi."] [27/45] Did not match the code, skip![0m
+[32m2018-10-03 20:14:10,536 [GSIL] [INFO] [".diyou." password] [11/84] Did not match the code, skip![0m
+[32m2018-10-03 20:14:10,903 [GSIL] [INFO] [".aiyoumi."] [28/45] Did not match the code, skip![0m
+[32m2018-10-03 20:14:11,300 [GSIL] [INFO] [".aiyoumi."] [29/45] Did not match the code, skip![0m
+[32m2018-10-03 20:14:11,374 [GSIL] [INFO] [".diyou." password] [12/84] Did not match the code, skip![0m
+[32m2018-10-03 20:14:11,753 [GSIL] [INFO] [".aiyoumi."] [30/45] Did not match the code, skip![0m
+[32m2018-10-03 20:14:11,831 [GSIL] [INFO] [".diyou." password] [13/84] Did not match the code, skip![0m
+[32m2018-10-03 20:14:12,169 [GSIL] [INFO] [".aiyoumi."] [31/45] Processing is complete, the next one![0m
+[32m2018-10-03 20:14:12,625 [GSIL] [INFO] [".aiyoumi."] [32/45] Processing is complete, the next one![0m
+[32m2018-10-03 20:14:12,679 [GSIL] [INFO] [".diyou." password] [14/84] Did not match the code, skip![0m
+[32m2018-10-03 20:14:13,035 [GSIL] [INFO] [".aiyoumi."] [33/45] Processing is complete, the next one![0m
+[32m2018-10-03 20:14:13,444 [GSIL] [INFO] [".diyou." password] [15/84] Did not match the code, skip![0m
+[32m2018-10-03 20:14:13,445 [GSIL] [INFO] [".aiyoumi."] [34/45] Processing is complete, the next one![0m
+[32m2018-10-03 20:14:13,858 [GSIL] [INFO] [".aiyoumi."] [35/45] Did not match the code, skip![0m
+[32m2018-10-03 20:14:13,884 [GSIL] [INFO] [".diyou." password] [16/84] Did not match the code, skip![0m
+[32m2018-10-03 20:14:14,263 [GSIL] [INFO] [".aiyoumi."] [36/45] Did not match the code, skip![0m
+[32m2018-10-03 20:14:14,264 [GSIL] [INFO] [".aiyoumi."] [37/45] Excluded because of the path, skip![0m
+[32m2018-10-03 20:14:14,349 [GSIL] [INFO] [".diyou." password] [17/84] Did not match the code, skip![0m
+[32m2018-10-03 20:14:14,676 [GSIL] [INFO] [".aiyoumi."] [38/45] Did not match the code, skip![0m
+[32m2018-10-03 20:14:14,677 [GSIL] [INFO] [".aiyoumi."] [39/45] Excluded because of the path, skip![0m
+[32m2018-10-03 20:14:14,790 [GSIL] [INFO] [".diyou." password] [18/84] Did not match the code, skip![0m
+[32m2018-10-03 20:14:15,208 [GSIL] [INFO] [".diyou." password] [19/84] Did not match the code, skip![0m
+[32m2018-10-03 20:14:16,202 [GSIL] [INFO] [".aiyoumi."] [40/45] Processing is complete, the next one![0m
+[32m2018-10-03 20:14:16,518 [GSIL] [INFO] [".diyou." password] [20/84] Did not match the code, skip![0m
+[32m2018-10-03 20:14:16,599 [GSIL] [INFO] [".aiyoumi."] [41/45] Processing is complete, the next one![0m
+[32m2018-10-03 20:14:17,021 [GSIL] [INFO] [".aiyoumi."] [42/45] Processing is complete, the next one![0m
+[32m2018-10-03 20:14:17,438 [GSIL] [INFO] [".diyou." password] [21/84] Did not match the code, skip![0m
+[32m2018-10-03 20:14:17,439 [GSIL] [INFO] [".aiyoumi."] [43/45] Processing is complete, the next one![0m
+[32m2018-10-03 20:14:17,848 [GSIL] [INFO] [".aiyoumi."] [44/45] Did not match the code, skip![0m
+[32m2018-10-03 20:14:17,849 [GSIL] [INFO] Process count: 16[0m
+[32m2018-10-03 20:14:19,843 [GSIL] [INFO] [".diyou." password] [22/84] Did not match the code, skip![0m
+[32m2018-10-03 20:14:21,328 [GSIL] [INFO] [".diyou." password] [23/84] Did not match the code, skip![0m
+[32m2018-10-03 20:14:21,545 [GSIL] [INFO] [".aiyoumi."] The current rules are processed, the process of normal exit![0m
+[32m2018-10-03 20:14:23,582 [GSIL] [INFO] [".diyou." password] [24/84] Did not match the code, skip![0m
+[32m2018-10-03 20:14:25,591 [GSIL] [INFO] [".diyou." password] [25/84] Did not match the code, skip![0m
+[32m2018-10-03 20:14:28,092 [GSIL] [INFO] [".diyou." password] [26/84] Did not match the code, skip![0m
+[32m2018-10-03 20:14:29,356 [GSIL] [INFO] [".diyou." password] [27/84] Did not match the code, skip![0m
+[32m2018-10-03 20:14:30,651 [GSIL] [INFO] [".diyou." password] [28/84] Did not match the code, skip![0m
+[32m2018-10-03 20:14:31,469 [GSIL] [INFO] [".diyou." password] [29/84] Did not match the code, skip![0m
+[32m2018-10-03 20:14:31,883 [GSIL] [INFO] [".diyou." password] [30/84] Did not match the code, skip![0m
+[32m2018-10-03 20:14:32,301 [GSIL] [INFO] [".diyou." password] [31/84] Did not match the code, skip![0m
+[32m2018-10-03 20:14:33,107 [GSIL] [INFO] [".diyou." password] [32/84] Did not match the code, skip![0m
+[32m2018-10-03 20:14:34,027 [GSIL] [INFO] [".diyou." password] [33/84] Did not match the code, skip![0m
+[32m2018-10-03 20:14:35,463 [GSIL] [INFO] [".diyou." password] [34/84] Did not match the code, skip![0m
+[32m2018-10-03 20:14:36,693 [GSIL] [INFO] [".diyou." password] [35/84] Did not match the code, skip![0m
+[32m2018-10-03 20:14:37,205 [GSIL] [INFO] [".diyou." password] [36/84] Did not match the code, skip![0m
+[32m2018-10-03 20:14:42,534 [GSIL] [INFO] [".diyou." password] [37/84] Did not match the code, skip![0m
+[32m2018-10-03 20:14:42,535 [GSIL] [INFO] [".diyou." password] [38/84] Excluded because of the path, skip![0m
+[32m2018-10-03 20:14:42,536 [GSIL] [INFO] [".diyou." password] [39/84] Excluded because of the path, skip![0m
+[32m2018-10-03 20:14:42,536 [GSIL] [INFO] [".diyou." password] [40/84] Excluded because of the path, skip![0m
+[32m2018-10-03 20:14:42,537 [GSIL] [INFO] [".diyou." password] [41/84] Excluded because of the path, skip![0m
+[32m2018-10-03 20:14:42,537 [GSIL] [INFO] [".diyou." password] [42/84] Excluded because of the path, skip![0m
+[32m2018-10-03 20:14:42,538 [GSIL] [INFO] [".diyou." password] [43/84] Excluded because of the path, skip![0m
+[32m2018-10-03 20:14:42,538 [GSIL] [INFO] [".diyou." password] [44/84] Excluded because of the path, skip![0m
+[32m2018-10-03 20:14:42,539 [GSIL] [INFO] [".diyou." password] [45/84] Excluded because of the path, skip![0m
+[32m2018-10-03 20:14:42,539 [GSIL] [INFO] [".diyou." password] [46/84] Excluded because of the path, skip![0m
+[32m2018-10-03 20:14:42,540 [GSIL] [INFO] [".diyou." password] [47/84] Excluded because of the path, skip![0m
+[32m2018-10-03 20:14:42,540 [GSIL] [INFO] [".diyou." password] [48/84] Excluded because of the path, skip![0m
+[32m2018-10-03 20:14:42,541 [GSIL] [INFO] [".diyou." password] [49/84] Excluded because of the path, skip![0m
+[32m2018-10-03 20:14:42,542 [GSIL] [INFO] Process count: 0[0m
+[32m2018-10-03 20:14:42,542 [GSIL] [INFO] none content for send mail[0m
+[32m2018-10-03 20:14:43,253 [GSIL] [INFO] [".diyou." password] Get page 1 data for 34[0m
+[32m2018-10-03 20:14:43,254 [GSIL] [INFO] [".diyou." password] [50/84] Excluded because of the path, skip![0m
+[32m2018-10-03 20:14:43,255 [GSIL] [INFO] [".diyou." password] [51/84] Excluded because of the path, skip![0m
+[32m2018-10-03 20:14:43,255 [GSIL] [INFO] [".diyou." password] [52/84] Excluded because of the path, skip![0m
+[32m2018-10-03 20:14:43,256 [GSIL] [INFO] [".diyou." password] [53/84] Excluded because of the path, skip![0m
+[32m2018-10-03 20:14:43,256 [GSIL] [INFO] [".diyou." password] [54/84] Excluded because of the path, skip![0m
+[32m2018-10-03 20:14:43,257 [GSIL] [INFO] [".diyou." password] [55/84] Excluded because of the path, skip![0m
+[32m2018-10-03 20:14:43,257 [GSIL] [INFO] [".diyou." password] [56/84] Excluded because of the path, skip![0m
+[32m2018-10-03 20:14:43,257 [GSIL] [INFO] [".diyou." password] [57/84] Excluded because of the path, skip![0m
+[32m2018-10-03 20:14:43,258 [GSIL] [INFO] [".diyou." password] [58/84] Excluded because of the path, skip![0m
+[32m2018-10-03 20:14:43,258 [GSIL] [INFO] [".diyou." password] [59/84] Excluded because of the path, skip![0m
+[32m2018-10-03 20:14:43,259 [GSIL] [INFO] [".diyou." password] [60/84] Excluded because of the path, skip![0m
+[32m2018-10-03 20:14:43,259 [GSIL] [INFO] [".diyou." password] [61/84] Excluded because of the path, skip![0m
+[32m2018-10-03 20:14:43,260 [GSIL] [INFO] [".diyou." password] [62/84] Excluded because of the path, skip![0m
+[32m2018-10-03 20:14:43,260 [GSIL] [INFO] [".diyou." password] [63/84] Excluded because of the path, skip![0m
+[32m2018-10-03 20:14:43,261 [GSIL] [INFO] [".diyou." password] [64/84] Excluded because of the path, skip![0m
+[32m2018-10-03 20:14:43,261 [GSIL] [INFO] [".diyou." password] [65/84] Excluded because of the path, skip![0m
+[32m2018-10-03 20:14:43,759 [GSIL] [INFO] [".diyou." password] [66/84] Did not match the code, skip![0m
+[32m2018-10-03 20:14:45,294 [GSIL] [INFO] [".diyou." password] [67/84] Did not match the code, skip![0m
+[32m2018-10-03 20:14:49,154 [GSIL] [INFO] [".diyou." password] [68/84] Did not match the code, skip![0m
+[32m2018-10-03 20:14:51,443 [GSIL] [INFO] [".diyou." password] [69/84] Did not match the code, skip![0m
+[32m2018-10-03 20:14:51,952 [GSIL] [INFO] [".diyou." password] [70/84] Did not match the code, skip![0m
+[32m2018-10-03 20:14:52,389 [GSIL] [INFO] [".diyou." password] [71/84] Did not match the code, skip![0m
+[32m2018-10-03 20:14:52,845 [GSIL] [INFO] [".diyou." password] [72/84] Did not match the code, skip![0m
+[32m2018-10-03 20:14:53,288 [GSIL] [INFO] [".diyou." password] [73/84] Did not match the code, skip![0m
+[32m2018-10-03 20:14:54,942 [GSIL] [INFO] [".diyou." password] [74/84] Did not match the code, skip![0m
+[32m2018-10-03 20:14:56,046 [GSIL] [INFO] [".diyou." password] [75/84] Did not match the code, skip![0m
+[32m2018-10-03 20:14:56,559 [GSIL] [INFO] [".diyou." password] [76/84] Did not match the code, skip![0m
+[32m2018-10-03 20:14:56,985 [GSIL] [INFO] [".diyou." password] [77/84] Did not match the code, skip![0m
+[32m2018-10-03 20:14:59,015 [GSIL] [INFO] [".diyou." password] [78/84] Did not match the code, skip![0m
+[32m2018-10-03 20:15:00,962 [GSIL] [INFO] [".diyou." password] [79/84] Did not match the code, skip![0m
+[32m2018-10-03 20:15:02,396 [GSIL] [INFO] [".diyou." password] [80/84] Did not match the code, skip![0m
+[32m2018-10-03 20:15:03,073 [GSIL] [INFO] [".diyou." password] [81/84] Did not match the code, skip![0m
+[32m2018-10-03 20:15:03,074 [GSIL] [INFO] [".diyou." password] [82/84] Excluded because of the path, skip![0m
+[32m2018-10-03 20:15:03,075 [GSIL] [INFO] [".diyou." password] [83/84] Excluded because of the path, skip![0m
+[32m2018-10-03 20:15:03,075 [GSIL] [INFO] Process count: 0[0m
+[32m2018-10-03 20:15:03,076 [GSIL] [INFO] none content for send mail[0m
+[32m2018-10-03 20:15:03,676 [GSIL] [INFO] [".diyou." password] Get page 2 data for 0[0m
+[32m2018-10-03 20:15:03,677 [GSIL] [INFO] Process count: 0[0m
+[32m2018-10-03 20:15:03,678 [GSIL] [INFO] none content for send mail[0m
+[32m2018-10-03 20:15:04,955 [GSIL] [INFO] [".diyou." password] Get page 3 data for 0[0m
+[32m2018-10-03 20:15:04,956 [GSIL] [INFO] Process count: 0[0m
+[32m2018-10-03 20:15:04,957 [GSIL] [INFO] none content for send mail[0m
+[32m2018-10-03 20:15:04,957 [GSIL] [INFO] [".diyou." password] The current rules are processed, the process of normal exit![0m
+[32m2018-10-03 20:19:58,183 [GSIL] [INFO] start monitor github information leakage: butian[0m
+[32m2018-10-03 20:19:58,184 [GSIL] [INFO] rules length: 3[0m
+[32m2018-10-03 20:19:58,231 [GSIL] [INFO] >>>>>>>>>>>>> sc.hnssczx.com > ".hnssczx." >>>>>>[0m
+[32m2018-10-03 20:19:58,237 [GSIL] [INFO] >>>>>>>>>>>>> www.diyou.cn > ".diyou." password >>>>>>[0m
+[32m2018-10-03 20:19:58,246 [GSIL] [INFO] >>>>>>>>>>>>> www.aiyoumi.com > ".aiyoumi." >>>>>>[0m
+[32m2018-10-03 20:20:00,264 [GSIL] [INFO] ----------------------------[0m
+[32m2018-10-03 20:20:00,267 [GSIL] [INFO] Search keyword: ".hnssczx." extension:bak extension:json extension:txt extension:sql extension:ini extension:php extension:java extension:python extension:go extension:js extension:properties [0m
+[32m2018-10-03 20:20:00,269 [GSIL] [INFO] [".hnssczx."] Speed Limit Results (Remaining Times / Total Times): (4857, 5000)  Speed limit reset time: 1538572378[0m
+[32m2018-10-03 20:20:00,270 [GSIL] [INFO] [".hnssczx."] The expected number of acquisitions: 4(Pages) * 50(Per Page) = 200(Total)[0m
+[32m2018-10-03 20:20:00,307 [GSIL] [INFO] ----------------------------[0m
+[32m2018-10-03 20:20:00,309 [GSIL] [INFO] Search keyword: ".aiyoumi." extension:bak extension:json extension:txt extension:sql extension:ini extension:php extension:java extension:python extension:go extension:js extension:properties [0m
+[32m2018-10-03 20:20:00,312 [GSIL] [INFO] [".aiyoumi."] Speed Limit Results (Remaining Times / Total Times): (4857, 5000)  Speed limit reset time: 1538572378[0m
+[32m2018-10-03 20:20:00,314 [GSIL] [INFO] [".aiyoumi."] The expected number of acquisitions: 4(Pages) * 50(Per Page) = 200(Total)[0m
+[32m2018-10-03 20:20:00,316 [GSIL] [INFO] ----------------------------[0m
+[32m2018-10-03 20:20:00,318 [GSIL] [INFO] Search keyword: ".diyou." password extension:bak extension:json extension:txt extension:sql extension:ini extension:php extension:java extension:python extension:go extension:js extension:properties [0m
+[32m2018-10-03 20:20:00,320 [GSIL] [INFO] [".diyou." password] Speed Limit Results (Remaining Times / Total Times): (4857, 5000)  Speed limit reset time: 1538572378[0m
+[32m2018-10-03 20:20:00,322 [GSIL] [INFO] [".diyou." password] The expected number of acquisitions: 4(Pages) * 50(Per Page) = 200(Total)[0m
+[32m2018-10-03 20:20:00,865 [GSIL] [INFO] [".hnssczx."] The actual number: 15[0m
+[32m2018-10-03 20:20:00,885 [GSIL] [INFO] [".diyou." password] The actual number: 84[0m
+[32m2018-10-03 20:20:00,972 [GSIL] [INFO] [".aiyoumi."] The actual number: 45[0m
+[32m2018-10-03 20:20:01,873 [GSIL] [INFO] [".diyou." password] Get page 0 data for 50[0m
+[32m2018-10-03 20:20:02,147 [GSIL] [INFO] [".hnssczx."] Get page 0 data for 15[0m
+[32m2018-10-03 20:20:02,623 [GSIL] [INFO] [".aiyoumi."] Get page 0 data for 45[0m
+[32m2018-10-03 20:21:53,337 [GSIL] [INFO] [".aiyoumi."] [0/45] Excluded because of the path, skip![0m
+[32m2018-10-03 20:22:45,950 [GSIL] [INFO] [".aiyoumi."] [1/45] Did not match the code, skip![0m
+[32m2018-10-03 20:23:15,177 [GSIL] [INFO] [".aiyoumi."] [2/45] Did not match the code, skip![0m
+[32m2018-10-03 20:23:22,931 [GSIL] [INFO] [".diyou." password] [0/84] Excluded because of the path, skip![0m
+[32m2018-10-03 20:23:24,153 [GSIL] [INFO] [".aiyoumi."] [3/45] Did not match the code, skip![0m
+[32m2018-10-03 20:23:25,551 [GSIL] [INFO] [".diyou." password] [1/84] Did not match the code, skip![0m
+[32m2018-10-03 20:23:25,567 [GSIL] [INFO] [".hnssczx."] [0/15] Did not match the code, skip![0m
+[32m2018-10-03 20:23:25,829 [GSIL] [INFO] [".aiyoumi."] [4/45] Did not match the code, skip![0m
+[32m2018-10-03 20:23:26,933 [GSIL] [INFO] [".hnssczx."] [1/15] Excluded because of the path, skip![0m
+[32m2018-10-03 20:23:26,934 [GSIL] [INFO] [".aiyoumi."] [5/45] Excluded because of the path, skip![0m
+[32m2018-10-03 20:23:27,628 [GSIL] [INFO] [".aiyoumi."] [6/45] Excluded because of the path, skip![0m
+[32m2018-10-03 20:23:27,633 [GSIL] [INFO] [".hnssczx."] [2/15] Excluded because of the path, skip![0m
+[32m2018-10-03 20:23:28,180 [GSIL] [INFO] [".hnssczx."] [3/15] Processed, skip! (0)[0m
+[32m2018-10-03 20:23:28,180 [GSIL] [INFO] [".aiyoumi."] [7/45] Excluded because of the path, skip![0m
+[32m2018-10-03 20:23:28,921 [GSIL] [INFO] [".hnssczx."] [4/15] Processed, skip! (1)[0m
+[32m2018-10-03 20:23:28,922 [GSIL] [INFO] [".aiyoumi."] [8/45] Excluded because of the path, skip![0m
+[32m2018-10-03 20:23:29,484 [GSIL] [INFO] [".aiyoumi."] [9/45] Processed, skip! (0)[0m
+[32m2018-10-03 20:23:29,485 [GSIL] [INFO] [".hnssczx."] [5/15] Processed, skip! (2)[0m
+[32m2018-10-03 20:23:30,173 [GSIL] [INFO] [".aiyoumi."] [10/45] Processed, skip! (1)[0m
+[32m2018-10-03 20:23:30,173 [GSIL] [INFO] [".hnssczx."] [6/15] Processed, skip! (3)[0m
+[32m2018-10-03 20:23:30,178 [GSIL] [INFO] [".hnssczx."] [7/15] Has encountered 4 has been processed, skip the current rules![0m
+[32m2018-10-03 20:23:30,180 [GSIL] [INFO] [".hnssczx."] The current rules are processed, the process of normal exit![0m
+[32m2018-10-03 20:23:30,766 [GSIL] [INFO] [".aiyoumi."] [11/45] Processed, skip! (2)[0m
+[32m2018-10-03 20:23:31,403 [GSIL] [INFO] [".aiyoumi."] [12/45] Processed, skip! (3)[0m
+[32m2018-10-03 20:23:31,407 [GSIL] [INFO] [".aiyoumi."] [13/45] Has encountered 4 has been processed, skip the current rules![0m
+[32m2018-10-03 20:23:31,410 [GSIL] [INFO] [".aiyoumi."] The current rules are processed, the process of normal exit![0m
+[32m2018-10-03 20:23:32,259 [GSIL] [INFO] [".diyou." password] [2/84] Did not match the code, skip![0m
+[32m2018-10-03 20:23:43,420 [GSIL] [INFO] [".diyou." password] [3/84] Did not match the code, skip![0m
+[32m2018-10-03 20:23:46,634 [GSIL] [INFO] [".diyou." password] [4/84] Did not match the code, skip![0m
+[32m2018-10-03 20:23:48,345 [GSIL] [INFO] [".diyou." password] [5/84] Did not match the code, skip![0m
+[32m2018-10-03 20:23:50,383 [GSIL] [INFO] [".diyou." password] [6/84] Did not match the code, skip![0m
+[32m2018-10-03 20:23:53,701 [GSIL] [INFO] [".diyou." password] [7/84] Did not match the code, skip![0m
+[32m2018-10-03 20:23:55,623 [GSIL] [INFO] [".diyou." password] [8/84] Excluded because of the path, skip![0m
+[32m2018-10-03 20:23:58,574 [GSIL] [INFO] [".diyou." password] [9/84] Did not match the code, skip![0m
+[32m2018-10-03 20:24:01,445 [GSIL] [INFO] [".diyou." password] [10/84] Did not match the code, skip![0m
+[32m2018-10-03 20:24:03,399 [GSIL] [INFO] [".diyou." password] [11/84] Did not match the code, skip![0m
+[32m2018-10-03 20:24:04,904 [GSIL] [INFO] [".diyou." password] [12/84] Did not match the code, skip![0m
+[32m2018-10-03 20:24:06,674 [GSIL] [INFO] [".diyou." password] [13/84] Did not match the code, skip![0m
+[32m2018-10-03 20:24:07,903 [GSIL] [INFO] [".diyou." password] [14/84] Did not match the code, skip![0m
+[32m2018-10-03 20:24:09,132 [GSIL] [INFO] [".diyou." password] [15/84] Did not match the code, skip![0m
+[32m2018-10-03 20:24:10,188 [GSIL] [INFO] [".diyou." password] [16/84] Did not match the code, skip![0m
+[32m2018-10-03 20:24:11,383 [GSIL] [INFO] [".diyou." password] [17/84] Did not match the code, skip![0m
+[32m2018-10-03 20:24:12,647 [GSIL] [INFO] [".diyou." password] [18/84] Did not match the code, skip![0m
+[32m2018-10-03 20:24:14,046 [GSIL] [INFO] [".diyou." password] [19/84] Did not match the code, skip![0m
+[32m2018-10-03 20:24:16,188 [GSIL] [INFO] [".diyou." password] [20/84] Did not match the code, skip![0m
+[32m2018-10-03 20:24:17,323 [GSIL] [INFO] [".diyou." password] [21/84] Did not match the code, skip![0m
+[32m2018-10-03 20:24:18,476 [GSIL] [INFO] [".diyou." password] [22/84] Did not match the code, skip![0m
+[32m2018-10-03 20:24:19,781 [GSIL] [INFO] [".diyou." password] [23/84] Did not match the code, skip![0m
+[32m2018-10-03 20:24:21,011 [GSIL] [INFO] [".diyou." password] [24/84] Did not match the code, skip![0m
+[32m2018-10-03 20:24:23,152 [GSIL] [INFO] [".diyou." password] [25/84] Did not match the code, skip![0m
+[32m2018-10-03 20:24:26,223 [GSIL] [INFO] [".diyou." password] [26/84] Did not match the code, skip![0m
+[32m2018-10-03 20:24:28,069 [GSIL] [INFO] [".diyou." password] [27/84] Did not match the code, skip![0m
+[32m2018-10-03 20:24:30,425 [GSIL] [INFO] [".diyou." password] [28/84] Did not match the code, skip![0m
+[32m2018-10-03 20:24:32,883 [GSIL] [INFO] [".diyou." password] [29/84] Did not match the code, skip![0m
+[32m2018-10-03 20:24:34,929 [GSIL] [INFO] [".diyou." password] [30/84] Did not match the code, skip![0m
+[32m2018-10-03 20:24:38,820 [GSIL] [INFO] [".diyou." password] [31/84] Did not match the code, skip![0m
+[32m2018-10-03 20:24:40,539 [GSIL] [INFO] [".diyou." password] [32/84] Did not match the code, skip![0m
+[32m2018-10-03 20:24:43,122 [GSIL] [INFO] [".diyou." password] [33/84] Did not match the code, skip![0m
+[32m2018-10-03 20:24:47,625 [GSIL] [INFO] [".diyou." password] [34/84] Did not match the code, skip![0m
+[32m2018-10-03 20:24:51,724 [GSIL] [INFO] [".diyou." password] [35/84] Did not match the code, skip![0m
+[32m2018-10-03 20:24:55,815 [GSIL] [INFO] [".diyou." password] [36/84] Did not match the code, skip![0m
+[32m2018-10-03 20:25:11,182 [GSIL] [INFO] [".diyou." password] [37/84] Did not match the code, skip![0m
+[32m2018-10-03 20:25:13,701 [GSIL] [INFO] start monitor github information leakage: butian[0m
+[32m2018-10-03 20:25:13,702 [GSIL] [INFO] rules length: 3[0m
+[32m2018-10-03 20:25:13,716 [GSIL] [INFO] >>>>>>>>>>>>> sc.hnssczx.com > ".hnssczx." >>>>>>[0m
+[32m2018-10-03 20:25:13,716 [GSIL] [INFO] >>>>>>>>>>>>> www.diyou.cn > ".diyou." password >>>>>>[0m
+[32m2018-10-03 20:25:13,717 [GSIL] [INFO] >>>>>>>>>>>>> www.aiyoumi.com > ".aiyoumi." >>>>>>[0m
+[32m2018-10-03 20:25:15,301 [GSIL] [INFO] ----------------------------[0m
+[32m2018-10-03 20:25:15,302 [GSIL] [INFO] Search keyword: ".diyou." password extension:bak extension:json extension:txt extension:sql extension:ini extension:php extension:java extension:python extension:go extension:js extension:properties [0m
+[32m2018-10-03 20:25:15,303 [GSIL] [INFO] [".diyou." password] Speed Limit Results (Remaining Times / Total Times): (4816, 5000)  Speed limit reset time: 1538572378[0m
+[32m2018-10-03 20:25:15,303 [GSIL] [INFO] [".diyou." password] The expected number of acquisitions: 4(Pages) * 50(Per Page) = 200(Total)[0m
+[32m2018-10-03 20:25:15,319 [GSIL] [INFO] ----------------------------[0m
+[32m2018-10-03 20:25:15,319 [GSIL] [INFO] ----------------------------[0m
+[32m2018-10-03 20:25:15,320 [GSIL] [INFO] Search keyword: ".aiyoumi." extension:bak extension:json extension:txt extension:sql extension:ini extension:php extension:java extension:python extension:go extension:js extension:properties [0m
+[32m2018-10-03 20:25:15,320 [GSIL] [INFO] Search keyword: ".hnssczx." extension:bak extension:json extension:txt extension:sql extension:ini extension:php extension:java extension:python extension:go extension:js extension:properties [0m
+[32m2018-10-03 20:25:15,321 [GSIL] [INFO] [".aiyoumi."] Speed Limit Results (Remaining Times / Total Times): (4816, 5000)  Speed limit reset time: 1538572378[0m
+[32m2018-10-03 20:25:15,321 [GSIL] [INFO] [".hnssczx."] Speed Limit Results (Remaining Times / Total Times): (4816, 5000)  Speed limit reset time: 1538572378[0m
+[32m2018-10-03 20:25:15,321 [GSIL] [INFO] [".aiyoumi."] The expected number of acquisitions: 4(Pages) * 50(Per Page) = 200(Total)[0m
+[32m2018-10-03 20:25:15,321 [GSIL] [INFO] [".hnssczx."] The expected number of acquisitions: 4(Pages) * 50(Per Page) = 200(Total)[0m
+[32m2018-10-03 20:25:15,781 [GSIL] [INFO] [".hnssczx."] The actual number: 15[0m
+[32m2018-10-03 20:25:15,790 [GSIL] [INFO] [".diyou." password] The actual number: 84[0m
+[32m2018-10-03 20:25:15,823 [GSIL] [INFO] [".aiyoumi."] The actual number: 45[0m
+[32m2018-10-03 20:25:16,477 [GSIL] [INFO] [".diyou." password] Get page 0 data for 50[0m
+[32m2018-10-03 20:25:16,478 [GSIL] [INFO] [".diyou." password] [0/84] Excluded because of the path, skip![0m
+[32m2018-10-03 20:25:16,535 [GSIL] [INFO] [".hnssczx."] Get page 0 data for 15[0m
+[32m2018-10-03 20:25:16,830 [GSIL] [INFO] [".diyou." password] [1/84] Did not match the code, skip![0m
+[32m2018-10-03 20:25:16,963 [GSIL] [INFO] [".hnssczx."] [0/15] Did not match the code, skip![0m
+[32m2018-10-03 20:25:16,964 [GSIL] [INFO] [".hnssczx."] [1/15] Excluded because of the path, skip![0m
+[32m2018-10-03 20:25:16,965 [GSIL] [INFO] [".hnssczx."] [2/15] Excluded because of the path, skip![0m
+[32m2018-10-03 20:25:16,965 [GSIL] [INFO] [".hnssczx."] [3/15] Processed, skip! (0)[0m
+[32m2018-10-03 20:25:16,966 [GSIL] [INFO] [".hnssczx."] [4/15] Processed, skip! (1)[0m
+[32m2018-10-03 20:25:16,967 [GSIL] [INFO] [".hnssczx."] [5/15] Processed, skip! (2)[0m
+[32m2018-10-03 20:25:16,967 [GSIL] [INFO] [".hnssczx."] [6/15] Processed, skip! (3)[0m
+[32m2018-10-03 20:25:16,968 [GSIL] [INFO] [".hnssczx."] [7/15] Has encountered 4 has been processed, skip the current rules![0m
+[32m2018-10-03 20:25:16,968 [GSIL] [INFO] [".hnssczx."] The current rules are processed, the process of normal exit![0m
+[32m2018-10-03 20:25:17,051 [GSIL] [INFO] [".aiyoumi."] Get page 0 data for 45[0m
+[32m2018-10-03 20:25:17,052 [GSIL] [INFO] [".aiyoumi."] [0/45] Excluded because of the path, skip![0m
+[32m2018-10-03 20:25:17,201 [GSIL] [INFO] [".diyou." password] [2/84] Did not match the code, skip![0m
+[32m2018-10-03 20:25:17,416 [GSIL] [INFO] [".aiyoumi."] [1/45] Did not match the code, skip![0m
+[32m2018-10-03 20:25:17,573 [GSIL] [INFO] [".diyou." password] [3/84] Did not match the code, skip![0m
+[32m2018-10-03 20:25:17,799 [GSIL] [INFO] [".aiyoumi."] [2/45] Did not match the code, skip![0m
+[32m2018-10-03 20:25:17,952 [GSIL] [INFO] [".diyou." password] [4/84] Did not match the code, skip![0m
+[32m2018-10-03 20:25:18,193 [GSIL] [INFO] [".aiyoumi."] [3/45] Did not match the code, skip![0m
+[32m2018-10-03 20:25:18,314 [GSIL] [INFO] [".diyou." password] [5/84] Did not match the code, skip![0m
+[32m2018-10-03 20:25:18,565 [GSIL] [INFO] [".aiyoumi."] [4/45] Did not match the code, skip![0m
+[32m2018-10-03 20:25:18,566 [GSIL] [INFO] [".aiyoumi."] [5/45] Excluded because of the path, skip![0m
+[32m2018-10-03 20:25:18,566 [GSIL] [INFO] [".aiyoumi."] [6/45] Excluded because of the path, skip![0m
+[32m2018-10-03 20:25:18,567 [GSIL] [INFO] [".aiyoumi."] [7/45] Excluded because of the path, skip![0m
+[32m2018-10-03 20:25:18,568 [GSIL] [INFO] [".aiyoumi."] [8/45] Excluded because of the path, skip![0m
+[32m2018-10-03 20:25:18,568 [GSIL] [INFO] [".aiyoumi."] [9/45] Processed, skip! (0)[0m
+[32m2018-10-03 20:25:18,569 [GSIL] [INFO] [".aiyoumi."] [10/45] Processed, skip! (1)[0m
+[32m2018-10-03 20:25:18,570 [GSIL] [INFO] [".aiyoumi."] [11/45] Processed, skip! (2)[0m
+[32m2018-10-03 20:25:18,570 [GSIL] [INFO] [".aiyoumi."] [12/45] Processed, skip! (3)[0m
+[32m2018-10-03 20:25:18,571 [GSIL] [INFO] [".aiyoumi."] [13/45] Has encountered 4 has been processed, skip the current rules![0m
+[32m2018-10-03 20:25:18,571 [GSIL] [INFO] [".aiyoumi."] The current rules are processed, the process of normal exit![0m
+[32m2018-10-03 20:25:18,692 [GSIL] [INFO] [".diyou." password] [6/84] Did not match the code, skip![0m
+[32m2018-10-03 20:25:19,364 [GSIL] [INFO] [".diyou." password] [7/84] Did not match the code, skip![0m
+[32m2018-10-03 20:25:19,365 [GSIL] [INFO] [".diyou." password] [8/84] Excluded because of the path, skip![0m
+[32m2018-10-03 20:25:19,722 [GSIL] [INFO] [".diyou." password] [9/84] Did not match the code, skip![0m
+[32m2018-10-03 20:25:20,394 [GSIL] [INFO] [".diyou." password] [10/84] Did not match the code, skip![0m
+[32m2018-10-03 20:25:20,798 [GSIL] [INFO] [".diyou." password] [11/84] Did not match the code, skip![0m
+[32m2018-10-03 20:25:21,208 [GSIL] [INFO] [".diyou." password] [12/84] Did not match the code, skip![0m
+[32m2018-10-03 20:25:21,616 [GSIL] [INFO] [".diyou." password] [13/84] Did not match the code, skip![0m
+[32m2018-10-03 20:25:22,028 [GSIL] [INFO] [".diyou." password] [14/84] Did not match the code, skip![0m
+[32m2018-10-03 20:25:22,437 [GSIL] [INFO] [".diyou." password] [15/84] Did not match the code, skip![0m
+[32m2018-10-03 20:25:22,846 [GSIL] [INFO] [".diyou." password] [16/84] Did not match the code, skip![0m
+[32m2018-10-03 20:25:23,255 [GSIL] [INFO] [".diyou." password] [17/84] Did not match the code, skip![0m
+[32m2018-10-03 20:25:23,664 [GSIL] [INFO] [".diyou." password] [18/84] Did not match the code, skip![0m
+[32m2018-10-03 20:25:24,074 [GSIL] [INFO] [".diyou." password] [19/84] Did not match the code, skip![0m
+[32m2018-10-03 20:25:24,586 [GSIL] [INFO] [".diyou." password] [20/84] Did not match the code, skip![0m
+[32m2018-10-03 20:25:24,996 [GSIL] [INFO] [".diyou." password] [21/84] Did not match the code, skip![0m
+[32m2018-10-03 20:25:25,381 [GSIL] [INFO] [".diyou." password] [22/84] Did not match the code, skip![0m
+[32m2018-10-03 20:25:25,779 [GSIL] [INFO] [".diyou." password] [23/84] Did not match the code, skip![0m
+[32m2018-10-03 20:25:26,225 [GSIL] [INFO] [".diyou." password] [24/84] Did not match the code, skip![0m
+[32m2018-10-03 20:25:26,594 [GSIL] [INFO] [".diyou." password] [25/84] Did not match the code, skip![0m
+[32m2018-10-03 20:25:27,116 [GSIL] [INFO] [".diyou." password] [26/84] Did not match the code, skip![0m
+[32m2018-10-03 20:25:27,483 [GSIL] [INFO] [".diyou." password] [27/84] Did not match the code, skip![0m
+[32m2018-10-03 20:25:27,868 [GSIL] [INFO] [".diyou." password] [28/84] Did not match the code, skip![0m
+[32m2018-10-03 20:25:28,887 [GSIL] [INFO] [".diyou." password] [29/84] Did not match the code, skip![0m
+[32m2018-10-03 20:25:29,503 [GSIL] [INFO] [".diyou." password] [30/84] Did not match the code, skip![0m
+[32m2018-10-03 20:25:29,914 [GSIL] [INFO] [".diyou." password] [31/84] Did not match the code, skip![0m
+[32m2018-10-03 20:25:30,277 [GSIL] [INFO] [".diyou." password] [32/84] Did not match the code, skip![0m
+[32m2018-10-03 20:25:30,810 [GSIL] [INFO] [".diyou." password] [33/84] Did not match the code, skip![0m
+[32m2018-10-03 20:25:31,169 [GSIL] [INFO] [".diyou." password] [34/84] Did not match the code, skip![0m
+[32m2018-10-03 20:25:31,550 [GSIL] [INFO] [".diyou." password] [35/84] Did not match the code, skip![0m
+[32m2018-10-03 20:25:31,965 [GSIL] [INFO] [".diyou." password] [36/84] Did not match the code, skip![0m
+[32m2018-10-03 20:25:35,364 [GSIL] [INFO] [".diyou." password] [37/84] Did not match the code, skip![0m
+[32m2018-10-03 20:25:35,365 [GSIL] [INFO] [".diyou." password] [38/84] Excluded because of the path, skip![0m
+[32m2018-10-03 20:25:35,366 [GSIL] [INFO] [".diyou." password] [39/84] Excluded because of the path, skip![0m
+[32m2018-10-03 20:25:35,366 [GSIL] [INFO] [".diyou." password] [40/84] Excluded because of the path, skip![0m
+[32m2018-10-03 20:25:35,367 [GSIL] [INFO] [".diyou." password] [41/84] Excluded because of the path, skip![0m
+[32m2018-10-03 20:25:35,367 [GSIL] [INFO] [".diyou." password] [42/84] Excluded because of the path, skip![0m
+[32m2018-10-03 20:25:35,368 [GSIL] [INFO] [".diyou." password] [43/84] Excluded because of the path, skip![0m
+[32m2018-10-03 20:25:35,369 [GSIL] [INFO] [".diyou." password] [44/84] Excluded because of the path, skip![0m
+[32m2018-10-03 20:25:35,369 [GSIL] [INFO] [".diyou." password] [45/84] Excluded because of the path, skip![0m
+[32m2018-10-03 20:25:35,370 [GSIL] [INFO] [".diyou." password] [46/84] Excluded because of the path, skip![0m
+[32m2018-10-03 20:25:35,370 [GSIL] [INFO] [".diyou." password] [47/84] Excluded because of the path, skip![0m
+[32m2018-10-03 20:25:35,371 [GSIL] [INFO] [".diyou." password] [48/84] Excluded because of the path, skip![0m
+[32m2018-10-03 20:25:35,371 [GSIL] [INFO] [".diyou." password] [49/84] Excluded because of the path, skip![0m
+[32m2018-10-03 20:25:35,372 [GSIL] [INFO] Process count: 0[0m
+[32m2018-10-03 20:25:35,372 [GSIL] [INFO] none content for send mail[0m
+[32m2018-10-03 20:25:36,370 [GSIL] [INFO] [".diyou." password] Get page 1 data for 34[0m
+[32m2018-10-03 20:25:36,371 [GSIL] [INFO] [".diyou." password] [50/84] Excluded because of the path, skip![0m
+[32m2018-10-03 20:25:36,372 [GSIL] [INFO] [".diyou." password] [51/84] Excluded because of the path, skip![0m
+[32m2018-10-03 20:25:36,372 [GSIL] [INFO] [".diyou." password] [52/84] Excluded because of the path, skip![0m
+[32m2018-10-03 20:25:36,373 [GSIL] [INFO] [".diyou." password] [53/84] Excluded because of the path, skip![0m
+[32m2018-10-03 20:25:36,373 [GSIL] [INFO] [".diyou." password] [54/84] Excluded because of the path, skip![0m
+[32m2018-10-03 20:25:36,374 [GSIL] [INFO] [".diyou." password] [55/84] Excluded because of the path, skip![0m
+[32m2018-10-03 20:25:36,374 [GSIL] [INFO] [".diyou." password] [56/84] Excluded because of the path, skip![0m
+[32m2018-10-03 20:25:36,375 [GSIL] [INFO] [".diyou." password] [57/84] Excluded because of the path, skip![0m
+[32m2018-10-03 20:25:36,375 [GSIL] [INFO] [".diyou." password] [58/84] Excluded because of the path, skip![0m
+[32m2018-10-03 20:25:36,376 [GSIL] [INFO] [".diyou." password] [59/84] Excluded because of the path, skip![0m
+[32m2018-10-03 20:25:36,376 [GSIL] [INFO] [".diyou." password] [60/84] Excluded because of the path, skip![0m
+[32m2018-10-03 20:25:36,377 [GSIL] [INFO] [".diyou." password] [61/84] Excluded because of the path, skip![0m
+[32m2018-10-03 20:25:36,377 [GSIL] [INFO] [".diyou." password] [62/84] Excluded because of the path, skip![0m
+[32m2018-10-03 20:25:36,378 [GSIL] [INFO] [".diyou." password] [63/84] Excluded because of the path, skip![0m
+[32m2018-10-03 20:25:36,378 [GSIL] [INFO] [".diyou." password] [64/84] Excluded because of the path, skip![0m
+[32m2018-10-03 20:25:36,379 [GSIL] [INFO] [".diyou." password] [65/84] Excluded because of the path, skip![0m
+[32m2018-10-03 20:25:37,073 [GSIL] [INFO] [".diyou." password] [66/84] Did not match the code, skip![0m
+[32m2018-10-03 20:25:37,696 [GSIL] [INFO] [".diyou." password] [67/84] Did not match the code, skip![0m
+[32m2018-10-03 20:25:39,081 [GSIL] [INFO] [".diyou." password] [68/84] Did not match the code, skip![0m
+[32m2018-10-03 20:25:40,771 [GSIL] [INFO] [".diyou." password] [69/84] Did not match the code, skip![0m
+[32m2018-10-03 20:25:41,175 [GSIL] [INFO] [".diyou." password] [70/84] Did not match the code, skip![0m
+[32m2018-10-03 20:25:41,586 [GSIL] [INFO] [".diyou." password] [71/84] Did not match the code, skip![0m
+[32m2018-10-03 20:25:42,098 [GSIL] [INFO] [".diyou." password] [72/84] Did not match the code, skip![0m
+[32m2018-10-03 20:25:42,469 [GSIL] [INFO] [".diyou." password] [73/84] Did not match the code, skip![0m
+[32m2018-10-03 20:25:42,866 [GSIL] [INFO] [".diyou." password] [74/84] Did not match the code, skip![0m
+[32m2018-10-03 20:25:43,243 [GSIL] [INFO] [".diyou." password] [75/84] Did not match the code, skip![0m
+[32m2018-10-03 20:25:44,050 [GSIL] [INFO] [".diyou." password] [76/84] Did not match the code, skip![0m
+[32m2018-10-03 20:25:45,987 [GSIL] [INFO] [".diyou." password] [77/84] Did not match the code, skip![0m
+[32m2018-10-03 20:25:46,405 [GSIL] [INFO] [".diyou." password] [78/84] Did not match the code, skip![0m
+[32m2018-10-03 20:25:54,712 [GSIL] [INFO] [".diyou." password] [79/84] Did not match the code, skip![0m
+[32m2018-10-03 20:25:56,101 [GSIL] [INFO] [".diyou." password] [80/84] Did not match the code, skip![0m
+[32m2018-10-03 20:25:56,740 [GSIL] [INFO] [".diyou." password] [81/84] Did not match the code, skip![0m
+[32m2018-10-03 20:25:56,743 [GSIL] [INFO] [".diyou." password] [82/84] Excluded because of the path, skip![0m
+[32m2018-10-03 20:25:56,744 [GSIL] [INFO] [".diyou." password] [83/84] Excluded because of the path, skip![0m
+[32m2018-10-03 20:25:56,745 [GSIL] [INFO] Process count: 0[0m
+[32m2018-10-03 20:25:56,745 [GSIL] [INFO] none content for send mail[0m
+[32m2018-10-03 20:25:57,229 [GSIL] [INFO] [".diyou." password] Get page 2 data for 0[0m
+[32m2018-10-03 20:25:57,230 [GSIL] [INFO] Process count: 0[0m
+[32m2018-10-03 20:25:57,231 [GSIL] [INFO] none content for send mail[0m
+[32m2018-10-03 20:25:58,685 [GSIL] [INFO] [".diyou." password] Get page 3 data for 0[0m
+[32m2018-10-03 20:25:58,686 [GSIL] [INFO] Process count: 0[0m
+[32m2018-10-03 20:25:58,687 [GSIL] [INFO] none content for send mail[0m
+[32m2018-10-03 20:25:58,687 [GSIL] [INFO] [".diyou." password] The current rules are processed, the process of normal exit![0m
+[32m2018-10-03 20:49:54,682 [GSIL] [INFO] start monitor github information leakage: butian[0m
+[32m2018-10-03 20:49:54,683 [GSIL] [INFO] rules length: 16[0m
+[32m2018-10-03 20:49:54,696 [GSIL] [INFO] >>>>>>>>>>>>> sc.hnssczx.com > ".hnssczx." >>>>>>[0m
+[32m2018-10-03 20:49:54,696 [GSIL] [INFO] >>>>>>>>>>>>> www.diyou.cn > ".diyou." password >>>>>>[0m
+[32m2018-10-03 20:49:54,697 [GSIL] [INFO] >>>>>>>>>>>>> www.aiyoumi.com > ".aiyoumi." password >>>>>>[0m
+[32m2018-10-03 20:49:54,697 [GSIL] [INFO] >>>>>>>>>>>>> www.chinaamc.com > ".chinaamc." password >>>>>>[0m
+[32m2018-10-03 20:49:54,698 [GSIL] [INFO] >>>>>>>>>>>>> www.lionfund.com.cn > ".lionfund." password >>>>>>[0m
+[32m2018-10-03 20:49:54,698 [GSIL] [INFO] >>>>>>>>>>>>> www.cdpf.org.cn > ".cdpf.org.cn" password >>>>>>[0m
+[32m2018-10-03 20:49:54,698 [GSIL] [INFO] >>>>>>>>>>>>> www.cdpsn.org.cn > ".cdpsn.org.cn" password >>>>>>[0m
+[32m2018-10-03 20:49:54,699 [GSIL] [INFO] >>>>>>>>>>>>> www.tzg.cn > ".tzg.cn" password >>>>>>[0m
+[32m2018-10-03 20:49:54,699 [GSIL] [INFO] >>>>>>>>>>>>> www.guahao.com > ".guahao." password >>>>>>[0m
+[32m2018-10-03 20:49:54,699 [GSIL] [INFO] >>>>>>>>>>>>> www.szcomtop.com > ".szcomtop." password >>>>>>[0m
+[32m2018-10-03 20:49:54,700 [GSIL] [INFO] >>>>>>>>>>>>> www.ayibang.com > ".ayibang." password >>>>>>[0m
+[32m2018-10-03 20:49:54,700 [GSIL] [INFO] >>>>>>>>>>>>> www.epicard.com.cn > ".epicard." password >>>>>>[0m
+[32m2018-10-03 20:49:54,700 [GSIL] [INFO] >>>>>>>>>>>>> www.ypic.cn > ".ypic." password >>>>>>[0m
+[32m2018-10-03 20:49:54,700 [GSIL] [INFO] >>>>>>>>>>>>> www.dyedu.net > ".dyedu." password >>>>>>[0m
+[32m2018-10-03 20:49:54,701 [GSIL] [INFO] >>>>>>>>>>>>> www.cqksy.cn > ".cqksy." password >>>>>>[0m
+[32m2018-10-03 20:49:54,702 [GSIL] [INFO] >>>>>>>>>>>>> www.jwx.com.cn > ".jwx.com.cn" password >>>>>>[0m
+[32m2018-10-03 20:49:56,299 [GSIL] [INFO] ----------------------------[0m
+[32m2018-10-03 20:49:56,302 [GSIL] [INFO] Search keyword: ".tzg.cn" password extension:bak extension:json extension:txt extension:sql extension:ini extension:php extension:java extension:python extension:go extension:js extension:properties [0m
+[32m2018-10-03 20:49:56,303 [GSIL] [INFO] [".tzg.cn" password] Speed Limit Results (Remaining Times / Total Times): (4758, 5000)  Speed limit reset time: 1538572378[0m
+[32m2018-10-03 20:49:56,303 [GSIL] [INFO] [".tzg.cn" password] The expected number of acquisitions: 4(Pages) * 50(Per Page) = 200(Total)[0m
+[32m2018-10-03 20:49:56,382 [GSIL] [INFO] ----------------------------[0m
+[32m2018-10-03 20:49:56,383 [GSIL] [INFO] Search keyword: ".cdpf.org.cn" password extension:bak extension:json extension:txt extension:sql extension:ini extension:php extension:java extension:python extension:go extension:js extension:properties [0m
+[32m2018-10-03 20:49:56,384 [GSIL] [INFO] [".cdpf.org.cn" password] Speed Limit Results (Remaining Times / Total Times): (4758, 5000)  Speed limit reset time: 1538572378[0m
+[32m2018-10-03 20:49:56,385 [GSIL] [INFO] [".cdpf.org.cn" password] The expected number of acquisitions: 4(Pages) * 50(Per Page) = 200(Total)[0m
+[32m2018-10-03 20:49:56,390 [GSIL] [INFO] ----------------------------[0m
+[32m2018-10-03 20:49:56,391 [GSIL] [INFO] Search keyword: ".cdpsn.org.cn" password extension:bak extension:json extension:txt extension:sql extension:ini extension:php extension:java extension:python extension:go extension:js extension:properties [0m
+[32m2018-10-03 20:49:56,392 [GSIL] [INFO] [".cdpsn.org.cn" password] Speed Limit Results (Remaining Times / Total Times): (4758, 5000)  Speed limit reset time: 1538572378[0m
+[32m2018-10-03 20:49:56,392 [GSIL] [INFO] [".cdpsn.org.cn" password] The expected number of acquisitions: 4(Pages) * 50(Per Page) = 200(Total)[0m
+[32m2018-10-03 20:49:56,429 [GSIL] [INFO] ----------------------------[0m
+[32m2018-10-03 20:49:56,430 [GSIL] [INFO] Search keyword: ".aiyoumi." password extension:bak extension:json extension:txt extension:sql extension:ini extension:php extension:java extension:python extension:go extension:js extension:properties [0m
+[32m2018-10-03 20:49:56,431 [GSIL] [INFO] [".aiyoumi." password] Speed Limit Results (Remaining Times / Total Times): (4758, 5000)  Speed limit reset time: 1538572378[0m
+[32m2018-10-03 20:49:56,431 [GSIL] [INFO] [".aiyoumi." password] The expected number of acquisitions: 4(Pages) * 50(Per Page) = 200(Total)[0m
+[32m2018-10-03 20:49:56,450 [GSIL] [INFO] ----------------------------[0m
+[32m2018-10-03 20:49:56,451 [GSIL] [INFO] Search keyword: ".lionfund." password extension:bak extension:json extension:txt extension:sql extension:ini extension:php extension:java extension:python extension:go extension:js extension:properties [0m
+[32m2018-10-03 20:49:56,452 [GSIL] [INFO] [".lionfund." password] Speed Limit Results (Remaining Times / Total Times): (4758, 5000)  Speed limit reset time: 1538572378[0m
+[32m2018-10-03 20:49:56,453 [GSIL] [INFO] [".lionfund." password] The expected number of acquisitions: 4(Pages) * 50(Per Page) = 200(Total)[0m
+[32m2018-10-03 20:49:56,699 [GSIL] [INFO] ----------------------------[0m
+[32m2018-10-03 20:49:56,699 [GSIL] [INFO] ----------------------------[0m
+[32m2018-10-03 20:49:56,700 [GSIL] [INFO] Search keyword: ".chinaamc." password extension:bak extension:json extension:txt extension:sql extension:ini extension:php extension:java extension:python extension:go extension:js extension:properties [0m
+[32m2018-10-03 20:49:56,700 [GSIL] [INFO] Search keyword: ".hnssczx." extension:bak extension:json extension:txt extension:sql extension:ini extension:php extension:java extension:python extension:go extension:js extension:properties [0m
+[32m2018-10-03 20:49:56,701 [GSIL] [INFO] [".chinaamc." password] Speed Limit Results (Remaining Times / Total Times): (4758, 5000)  Speed limit reset time: 1538572378[0m
+[32m2018-10-03 20:49:56,701 [GSIL] [INFO] [".hnssczx."] Speed Limit Results (Remaining Times / Total Times): (4758, 5000)  Speed limit reset time: 1538572378[0m
+[32m2018-10-03 20:49:56,701 [GSIL] [INFO] [".chinaamc." password] The expected number of acquisitions: 4(Pages) * 50(Per Page) = 200(Total)[0m
+[32m2018-10-03 20:49:56,701 [GSIL] [INFO] [".hnssczx."] The expected number of acquisitions: 4(Pages) * 50(Per Page) = 200(Total)[0m
+[32m2018-10-03 20:49:56,709 [GSIL] [INFO] ----------------------------[0m
+[32m2018-10-03 20:49:56,710 [GSIL] [INFO] Search keyword: ".diyou." password extension:bak extension:json extension:txt extension:sql extension:ini extension:php extension:java extension:python extension:go extension:js extension:properties [0m
+[32m2018-10-03 20:49:56,711 [GSIL] [INFO] [".diyou." password] Speed Limit Results (Remaining Times / Total Times): (4758, 5000)  Speed limit reset time: 1538572378[0m
+[32m2018-10-03 20:49:56,712 [GSIL] [INFO] [".diyou." password] The expected number of acquisitions: 4(Pages) * 50(Per Page) = 200(Total)[0m
+[32m2018-10-03 20:49:57,107 [GSIL] [INFO] [".aiyoumi." password] The actual number: 3[0m
+[32m2018-10-03 20:49:57,158 [GSIL] [INFO] [".lionfund." password] The actual number: 3[0m
+[32m2018-10-03 20:49:57,343 [GSIL] [INFO] [".tzg.cn" password] The actual number: 10[0m
+[32m2018-10-03 20:49:57,395 [GSIL] [INFO] [".hnssczx."] The actual number: 15[0m
+[32m2018-10-03 20:49:57,465 [GSIL] [INFO] [".chinaamc." password] The actual number: 127[0m
+[32m2018-10-03 20:49:57,468 [GSIL] [INFO] [".cdpsn.org.cn" password] The actual number: 5[0m
+[32m2018-10-03 20:49:57,473 [GSIL] [INFO] [".cdpf.org.cn" password] The actual number: 6[0m
+[32m2018-10-03 20:49:57,487 [GSIL] [INFO] [".diyou." password] The actual number: 84[0m
+[31m[47m2018-10-03 20:49:57,546 [GSIL] [CRITICAL] GitHub [get_page] exception(code: 403 msg: {'documentation_url': 'https://developer.github.com/v3/#abuse-rate-limits', 'message': 'You have triggered an abuse detection mechanism. Please wait a few minutes before you try again.'} dd2def0815489abb4ca205aa59ae47f5158ada72[0m
+[31m[47m2018-10-03 20:49:57,598 [GSIL] [CRITICAL] GitHub [get_page] exception(code: 403 msg: {'documentation_url': 'https://developer.github.com/v3/#abuse-rate-limits', 'message': 'You have triggered an abuse detection mechanism. Please wait a few minutes before you try again.'} dd2def0815489abb4ca205aa59ae47f5158ada72[0m
+[31m[47m2018-10-03 20:49:57,677 [GSIL] [CRITICAL] GitHub [get_page] exception(code: 403 msg: {'documentation_url': 'https://developer.github.com/v3/#abuse-rate-limits', 'message': 'You have triggered an abuse detection mechanism. Please wait a few minutes before you try again.'} dd2def0815489abb4ca205aa59ae47f5158ada72[0m
+[31m[47m2018-10-03 20:49:57,828 [GSIL] [CRITICAL] GitHub [get_page] exception(code: 403 msg: {'documentation_url': 'https://developer.github.com/v3/#abuse-rate-limits', 'message': 'You have triggered an abuse detection mechanism. Please wait a few minutes before you try again.'} dd2def0815489abb4ca205aa59ae47f5158ada72[0m
+[31m[47m2018-10-03 20:49:57,863 [GSIL] [CRITICAL] GitHub [get_page] exception(code: 403 msg: {'documentation_url': 'https://developer.github.com/v3/#abuse-rate-limits', 'message': 'You have triggered an abuse detection mechanism. Please wait a few minutes before you try again.'} dd2def0815489abb4ca205aa59ae47f5158ada72[0m
+[31m[47m2018-10-03 20:49:57,869 [GSIL] [CRITICAL] GitHub [get_page] exception(code: 403 msg: {'documentation_url': 'https://developer.github.com/v3/#abuse-rate-limits', 'message': 'You have triggered an abuse detection mechanism. Please wait a few minutes before you try again.'} dd2def0815489abb4ca205aa59ae47f5158ada72[0m
+[31m[47m2018-10-03 20:49:57,976 [GSIL] [CRITICAL] GitHub [get_page] exception(code: 403 msg: {'documentation_url': 'https://developer.github.com/v3/#abuse-rate-limits', 'message': 'You have triggered an abuse detection mechanism. Please wait a few minutes before you try again.'} dd2def0815489abb4ca205aa59ae47f5158ada72[0m
+[31m[47m2018-10-03 20:49:58,008 [GSIL] [CRITICAL] GitHub [get_page] exception(code: 403 msg: {'documentation_url': 'https://developer.github.com/v3/#abuse-rate-limits', 'message': 'You have triggered an abuse detection mechanism. Please wait a few minutes before you try again.'} dd2def0815489abb4ca205aa59ae47f5158ada72[0m
+[32m2018-10-03 20:49:59,047 [GSIL] [INFO] ----------------------------[0m
+[32m2018-10-03 20:49:59,048 [GSIL] [INFO] Search keyword: ".szcomtop." password extension:bak extension:json extension:txt extension:sql extension:ini extension:php extension:java extension:python extension:go extension:js extension:properties [0m
+[32m2018-10-03 20:49:59,049 [GSIL] [INFO] [".szcomtop." password] Speed Limit Results (Remaining Times / Total Times): (4758, 5000)  Speed limit reset time: 1538572378[0m
+[32m2018-10-03 20:49:59,050 [GSIL] [INFO] [".szcomtop." password] The expected number of acquisitions: 4(Pages) * 50(Per Page) = 200(Total)[0m
+[32m2018-10-03 20:49:59,071 [GSIL] [INFO] ----------------------------[0m
+[32m2018-10-03 20:49:59,074 [GSIL] [INFO] Search keyword: ".guahao." password extension:bak extension:json extension:txt extension:sql extension:ini extension:php extension:java extension:python extension:go extension:js extension:properties [0m
+[32m2018-10-03 20:49:59,075 [GSIL] [INFO] [".guahao." password] Speed Limit Results (Remaining Times / Total Times): (4758, 5000)  Speed limit reset time: 1538572378[0m
+[32m2018-10-03 20:49:59,075 [GSIL] [INFO] [".guahao." password] The expected number of acquisitions: 4(Pages) * 50(Per Page) = 200(Total)[0m
+[32m2018-10-03 20:49:59,147 [GSIL] [INFO] ----------------------------[0m
+[32m2018-10-03 20:49:59,148 [GSIL] [INFO] Search keyword: ".dyedu." password extension:bak extension:json extension:txt extension:sql extension:ini extension:php extension:java extension:python extension:go extension:js extension:properties [0m
+[32m2018-10-03 20:49:59,149 [GSIL] [INFO] [".dyedu." password] Speed Limit Results (Remaining Times / Total Times): (4758, 5000)  Speed limit reset time: 1538572378[0m
+[32m2018-10-03 20:49:59,149 [GSIL] [INFO] [".dyedu." password] The expected number of acquisitions: 4(Pages) * 50(Per Page) = 200(Total)[0m
+[32m2018-10-03 20:49:59,170 [GSIL] [INFO] ----------------------------[0m
+[32m2018-10-03 20:49:59,171 [GSIL] [INFO] Search keyword: ".ayibang." password extension:bak extension:json extension:txt extension:sql extension:ini extension:php extension:java extension:python extension:go extension:js extension:properties [0m
+[32m2018-10-03 20:49:59,172 [GSIL] [INFO] [".ayibang." password] Speed Limit Results (Remaining Times / Total Times): (4758, 5000)  Speed limit reset time: 1538572378[0m
+[32m2018-10-03 20:49:59,172 [GSIL] [INFO] [".ayibang." password] The expected number of acquisitions: 4(Pages) * 50(Per Page) = 200(Total)[0m
+[32m2018-10-03 20:49:59,344 [GSIL] [INFO] ----------------------------[0m
+[32m2018-10-03 20:49:59,346 [GSIL] [INFO] Search keyword: ".ypic." password extension:bak extension:json extension:txt extension:sql extension:ini extension:php extension:java extension:python extension:go extension:js extension:properties [0m
+[32m2018-10-03 20:49:59,346 [GSIL] [INFO] [".ypic." password] Speed Limit Results (Remaining Times / Total Times): (4758, 5000)  Speed limit reset time: 1538572378[0m
+[32m2018-10-03 20:49:59,347 [GSIL] [INFO] [".ypic." password] The expected number of acquisitions: 4(Pages) * 50(Per Page) = 200(Total)[0m
+[31m[47m2018-10-03 20:49:59,410 [GSIL] [CRITICAL] GitHub [search_code] exception(code: 403 msg: {'documentation_url': 'https://developer.github.com/v3/#abuse-rate-limits', 'message': 'You have triggered an abuse detection mechanism. Please wait a few minutes before you try again.'} dd2def0815489abb4ca205aa59ae47f5158ada72[0m
+[31m[47m2018-10-03 20:49:59,412 [GSIL] [CRITICAL] GitHub [search_code] exception(code: 403 msg: {'documentation_url': 'https://developer.github.com/v3/#abuse-rate-limits', 'message': 'You have triggered an abuse detection mechanism. Please wait a few minutes before you try again.'} dd2def0815489abb4ca205aa59ae47f5158ada72[0m
+[31m[47m2018-10-03 20:49:59,465 [GSIL] [CRITICAL] GitHub [search_code] exception(code: 403 msg: {'documentation_url': 'https://developer.github.com/v3/#abuse-rate-limits', 'message': 'You have triggered an abuse detection mechanism. Please wait a few minutes before you try again.'} dd2def0815489abb4ca205aa59ae47f5158ada72[0m
+[31m[47m2018-10-03 20:49:59,491 [GSIL] [CRITICAL] GitHub [search_code] exception(code: 403 msg: {'documentation_url': 'https://developer.github.com/v3/#abuse-rate-limits', 'message': 'You have triggered an abuse detection mechanism. Please wait a few minutes before you try again.'} dd2def0815489abb4ca205aa59ae47f5158ada72[0m
+[32m2018-10-03 20:49:59,528 [GSIL] [INFO] ----------------------------[0m
+[32m2018-10-03 20:49:59,529 [GSIL] [INFO] Search keyword: ".epicard." password extension:bak extension:json extension:txt extension:sql extension:ini extension:php extension:java extension:python extension:go extension:js extension:properties [0m
+[32m2018-10-03 20:49:59,530 [GSIL] [INFO] [".epicard." password] Speed Limit Results (Remaining Times / Total Times): (4758, 5000)  Speed limit reset time: 1538572378[0m
+[32m2018-10-03 20:49:59,530 [GSIL] [INFO] [".epicard." password] The expected number of acquisitions: 4(Pages) * 50(Per Page) = 200(Total)[0m
+[31m[47m2018-10-03 20:49:59,687 [GSIL] [CRITICAL] GitHub [search_code] exception(code: 403 msg: {'documentation_url': 'https://developer.github.com/v3/#abuse-rate-limits', 'message': 'You have triggered an abuse detection mechanism. Please wait a few minutes before you try again.'} dd2def0815489abb4ca205aa59ae47f5158ada72[0m
+[32m2018-10-03 20:49:59,706 [GSIL] [INFO] ----------------------------[0m
+[32m2018-10-03 20:49:59,706 [GSIL] [INFO] Search keyword: ".cqksy." password extension:bak extension:json extension:txt extension:sql extension:ini extension:php extension:java extension:python extension:go extension:js extension:properties [0m
+[32m2018-10-03 20:49:59,707 [GSIL] [INFO] [".cqksy." password] Speed Limit Results (Remaining Times / Total Times): (4758, 5000)  Speed limit reset time: 1538572378[0m
+[32m2018-10-03 20:49:59,707 [GSIL] [INFO] [".cqksy." password] The expected number of acquisitions: 4(Pages) * 50(Per Page) = 200(Total)[0m
+[31m[47m2018-10-03 20:49:59,842 [GSIL] [CRITICAL] GitHub [search_code] exception(code: 403 msg: {'documentation_url': 'https://developer.github.com/v3/#abuse-rate-limits', 'message': 'You have triggered an abuse detection mechanism. Please wait a few minutes before you try again.'} dd2def0815489abb4ca205aa59ae47f5158ada72[0m
+[31m[47m2018-10-03 20:50:00,142 [GSIL] [CRITICAL] GitHub [search_code] exception(code: 403 msg: {'documentation_url': 'https://developer.github.com/v3/#abuse-rate-limits', 'message': 'You have triggered an abuse detection mechanism. Please wait a few minutes before you try again.'} dd2def0815489abb4ca205aa59ae47f5158ada72[0m
+[32m2018-10-03 21:12:00,606 [GSIL] [INFO] start monitor github information leakage: butian[0m
+[32m2018-10-03 21:12:00,607 [GSIL] [INFO] rules length: 16[0m
+[32m2018-10-03 21:12:00,622 [GSIL] [INFO] >>>>>>>>>>>>> sc.hnssczx.com > ".hnssczx." >>>>>>[0m
+[32m2018-10-03 21:12:00,623 [GSIL] [INFO] >>>>>>>>>>>>> www.diyou.cn > ".diyou." password >>>>>>[0m
+[32m2018-10-03 21:12:00,624 [GSIL] [INFO] >>>>>>>>>>>>> www.aiyoumi.com > ".aiyoumi." password >>>>>>[0m
+[32m2018-10-03 21:12:00,624 [GSIL] [INFO] >>>>>>>>>>>>> www.chinaamc.com > ".chinaamc." password >>>>>>[0m
+[32m2018-10-03 21:12:00,625 [GSIL] [INFO] >>>>>>>>>>>>> www.lionfund.com.cn > ".lionfund." password >>>>>>[0m
+[32m2018-10-03 21:12:00,625 [GSIL] [INFO] >>>>>>>>>>>>> www.cdpf.org.cn > ".cdpf.org.cn" password >>>>>>[0m
+[32m2018-10-03 21:12:00,626 [GSIL] [INFO] >>>>>>>>>>>>> www.cdpsn.org.cn > ".cdpsn.org.cn" password >>>>>>[0m
+[32m2018-10-03 21:12:00,626 [GSIL] [INFO] >>>>>>>>>>>>> www.tzg.cn > ".tzg.cn" password >>>>>>[0m
+[32m2018-10-03 21:12:00,626 [GSIL] [INFO] >>>>>>>>>>>>> www.guahao.com > ".guahao." password >>>>>>[0m
+[32m2018-10-03 21:12:00,627 [GSIL] [INFO] >>>>>>>>>>>>> www.szcomtop.com > ".szcomtop." password >>>>>>[0m
+[32m2018-10-03 21:12:00,627 [GSIL] [INFO] >>>>>>>>>>>>> www.ayibang.com > ".ayibang." password >>>>>>[0m
+[32m2018-10-03 21:12:00,627 [GSIL] [INFO] >>>>>>>>>>>>> www.epicard.com.cn > ".epicard." password >>>>>>[0m
+[32m2018-10-03 21:12:00,627 [GSIL] [INFO] >>>>>>>>>>>>> www.ypic.cn > ".ypic." password >>>>>>[0m
+[32m2018-10-03 21:12:00,628 [GSIL] [INFO] >>>>>>>>>>>>> www.dyedu.net > ".dyedu." password >>>>>>[0m
+[32m2018-10-03 21:12:00,628 [GSIL] [INFO] >>>>>>>>>>>>> www.cqksy.cn > ".cqksy." password >>>>>>[0m
+[32m2018-10-03 21:12:00,629 [GSIL] [INFO] >>>>>>>>>>>>> www.jwx.com.cn > ".jwx.com.cn" password >>>>>>[0m
+[32m2018-10-03 21:12:02,251 [GSIL] [INFO] ----------------------------[0m
+[32m2018-10-03 21:12:02,251 [GSIL] [INFO] ----------------------------[0m
+[32m2018-10-03 21:12:02,252 [GSIL] [INFO] Search keyword: ".diyou." password extension:bak extension:json extension:txt extension:sql extension:ini extension:php extension:java extension:python extension:go extension:js extension:properties [0m
+[32m2018-10-03 21:12:02,252 [GSIL] [INFO] Search keyword: ".hnssczx." extension:bak extension:json extension:txt extension:sql extension:ini extension:php extension:java extension:python extension:go extension:js extension:properties [0m
+[32m2018-10-03 21:12:02,253 [GSIL] [INFO] [".diyou." password] Speed Limit Results (Remaining Times / Total Times): (5000, 5000)  Speed limit reset time: 1538575922[0m
+[32m2018-10-03 21:12:02,253 [GSIL] [INFO] [".hnssczx."] Speed Limit Results (Remaining Times / Total Times): (4758, 5000)  Speed limit reset time: 1538572378[0m
+[32m2018-10-03 21:12:02,254 [GSIL] [INFO] [".diyou." password] The expected number of acquisitions: 4(Pages) * 50(Per Page) = 200(Total)[0m
+[32m2018-10-03 21:12:02,254 [GSIL] [INFO] [".hnssczx."] The expected number of acquisitions: 4(Pages) * 50(Per Page) = 200(Total)[0m
+[32m2018-10-03 21:12:02,559 [GSIL] [INFO] ----------------------------[0m
+[32m2018-10-03 21:12:02,559 [GSIL] [INFO] ----------------------------[0m
+[32m2018-10-03 21:12:02,560 [GSIL] [INFO] Search keyword: ".tzg.cn" password extension:bak extension:json extension:txt extension:sql extension:ini extension:php extension:java extension:python extension:go extension:js extension:properties [0m
+[32m2018-10-03 21:12:02,560 [GSIL] [INFO] Search keyword: ".cdpsn.org.cn" password extension:bak extension:json extension:txt extension:sql extension:ini extension:php extension:java extension:python extension:go extension:js extension:properties [0m
+[32m2018-10-03 21:12:02,561 [GSIL] [INFO] [".tzg.cn" password] Speed Limit Results (Remaining Times / Total Times): (5000, 5000)  Speed limit reset time: 1538575922[0m
+[32m2018-10-03 21:12:02,561 [GSIL] [INFO] [".cdpsn.org.cn" password] Speed Limit Results (Remaining Times / Total Times): (5000, 5000)  Speed limit reset time: 1538575922[0m
+[32m2018-10-03 21:12:02,562 [GSIL] [INFO] [".tzg.cn" password] The expected number of acquisitions: 4(Pages) * 50(Per Page) = 200(Total)[0m
+[32m2018-10-03 21:12:02,562 [GSIL] [INFO] [".cdpsn.org.cn" password] The expected number of acquisitions: 4(Pages) * 50(Per Page) = 200(Total)[0m
+[32m2018-10-03 21:12:02,608 [GSIL] [INFO] ----------------------------[0m
+[32m2018-10-03 21:12:02,609 [GSIL] [INFO] Search keyword: ".chinaamc." password extension:bak extension:json extension:txt extension:sql extension:ini extension:php extension:java extension:python extension:go extension:js extension:properties [0m
+[32m2018-10-03 21:12:02,610 [GSIL] [INFO] [".chinaamc." password] Speed Limit Results (Remaining Times / Total Times): (5000, 5000)  Speed limit reset time: 1538575922[0m
+[32m2018-10-03 21:12:02,611 [GSIL] [INFO] [".chinaamc." password] The expected number of acquisitions: 4(Pages) * 50(Per Page) = 200(Total)[0m
+[32m2018-10-03 21:12:02,641 [GSIL] [INFO] ----------------------------[0m
+[32m2018-10-03 21:12:02,642 [GSIL] [INFO] Search keyword: ".cdpf.org.cn" password extension:bak extension:json extension:txt extension:sql extension:ini extension:php extension:java extension:python extension:go extension:js extension:properties [0m
+[32m2018-10-03 21:12:02,643 [GSIL] [INFO] [".cdpf.org.cn" password] Speed Limit Results (Remaining Times / Total Times): (5000, 5000)  Speed limit reset time: 1538575922[0m
+[32m2018-10-03 21:12:02,644 [GSIL] [INFO] [".cdpf.org.cn" password] The expected number of acquisitions: 4(Pages) * 50(Per Page) = 200(Total)[0m
+[32m2018-10-03 21:12:02,797 [GSIL] [INFO] [".diyou." password] The actual number: 84[0m
+[32m2018-10-03 21:12:03,071 [GSIL] [INFO] [".hnssczx."] The actual number: 15[0m
+[32m2018-10-03 21:12:03,121 [GSIL] [INFO] ----------------------------[0m
+[32m2018-10-03 21:12:03,122 [GSIL] [INFO] Search keyword: ".aiyoumi." password extension:bak extension:json extension:txt extension:sql extension:ini extension:php extension:java extension:python extension:go extension:js extension:properties [0m
+[32m2018-10-03 21:12:03,123 [GSIL] [INFO] [".aiyoumi." password] Speed Limit Results (Remaining Times / Total Times): (5000, 5000)  Speed limit reset time: 1538575922[0m
+[32m2018-10-03 21:12:03,123 [GSIL] [INFO] [".aiyoumi." password] The expected number of acquisitions: 4(Pages) * 50(Per Page) = 200(Total)[0m
+[32m2018-10-03 21:12:03,342 [GSIL] [INFO] [".chinaamc." password] The actual number: 127[0m
+[32m2018-10-03 21:12:03,608 [GSIL] [INFO] [".aiyoumi." password] The actual number: 3[0m
+[32m2018-10-03 21:12:03,676 [GSIL] [INFO] [".cdpsn.org.cn" password] The actual number: 5[0m
+[32m2018-10-03 21:12:03,871 [GSIL] [INFO] [".cdpf.org.cn" password] The actual number: 7[0m
+[32m2018-10-03 21:12:03,876 [GSIL] [INFO] [".tzg.cn" password] The actual number: 10[0m
+[32m2018-10-03 21:12:04,352 [GSIL] [INFO] [".cdpsn.org.cn" password] Get page 0 data for 5[0m
+[32m2018-10-03 21:12:04,725 [GSIL] [INFO] [".cdpf.org.cn" password] Get page 0 data for 7[0m
+[32m2018-10-03 21:12:04,977 [GSIL] [INFO] [".diyou." password] Get page 0 data for 50[0m
+[32m2018-10-03 21:12:04,978 [GSIL] [INFO] [".diyou." password] [0/84] Excluded because of the path, skip![0m
+[32m2018-10-03 21:12:05,237 [GSIL] [INFO] [".aiyoumi." password] Get page 0 data for 1[0m
+[32m2018-10-03 21:12:05,280 [GSIL] [INFO] [".tzg.cn" password] Get page 0 data for 10[0m
+[32m2018-10-03 21:12:05,653 [GSIL] [INFO] [".hnssczx."] Get page 0 data for 15[0m
+[32m2018-10-03 21:12:06,019 [GSIL] [INFO] [".chinaamc." password] Get page 0 data for 50[0m
+[32m2018-10-03 21:12:06,164 [GSIL] [INFO] [".hnssczx."] [0/15] Did not match the code, skip![0m
+[32m2018-10-03 21:12:06,164 [GSIL] [INFO] [".hnssczx."] [1/15] Excluded because of the path, skip![0m
+[32m2018-10-03 21:12:06,165 [GSIL] [INFO] [".hnssczx."] [2/15] Excluded because of the path, skip![0m
+[32m2018-10-03 21:12:06,166 [GSIL] [INFO] [".hnssczx."] [3/15] Processed, skip! (0)[0m
+[32m2018-10-03 21:12:06,166 [GSIL] [INFO] [".hnssczx."] [4/15] Processed, skip! (1)[0m
+[32m2018-10-03 21:12:06,167 [GSIL] [INFO] [".hnssczx."] [5/15] Processed, skip! (2)[0m
+[32m2018-10-03 21:12:06,168 [GSIL] [INFO] [".hnssczx."] [6/15] Processed, skip! (3)[0m
+[32m2018-10-03 21:12:06,169 [GSIL] [INFO] [".hnssczx."] [7/15] Has encountered 4 has been processed, skip the current rules![0m
+[32m2018-10-03 21:12:06,170 [GSIL] [INFO] [".hnssczx."] The current rules are processed, the process of normal exit![0m
+[32m2018-10-03 21:12:06,510 [GSIL] [INFO] [".cdpsn.org.cn" password] [0/5] Did not match the code, skip![0m
+[32m2018-10-03 21:12:06,763 [GSIL] [INFO] [".diyou." password] [1/84] Did not match the code, skip![0m
+[32m2018-10-03 21:12:06,845 [GSIL] [INFO] [".aiyoumi." password] [0/3] Did not match the code, skip![0m
+[32m2018-10-03 21:12:06,846 [GSIL] [INFO] Process count: 0[0m
+[32m2018-10-03 21:12:06,847 [GSIL] [INFO] none content for send mail[0m
+[32m2018-10-03 21:12:06,848 [GSIL] [INFO] [".aiyoumi." password] The current rules are processed, the process of normal exit![0m
+[32m2018-10-03 21:12:06,877 [GSIL] [INFO] [".cdpf.org.cn" password] [0/7] Did not match the code, skip![0m
+[32m2018-10-03 21:12:06,979 [GSIL] [INFO] [".cdpsn.org.cn" password] [1/5] Did not match the code, skip![0m
+[32m2018-10-03 21:12:06,980 [GSIL] [INFO] [".cdpsn.org.cn" password] [2/5] Excluded because of the path, skip![0m
+[32m2018-10-03 21:12:07,157 [GSIL] [INFO] ----------------------------[0m
+[32m2018-10-03 21:12:07,158 [GSIL] [INFO] Search keyword: ".lionfund." password extension:bak extension:json extension:txt extension:sql extension:ini extension:php extension:java extension:python extension:go extension:js extension:properties [0m
+[32m2018-10-03 21:12:07,159 [GSIL] [INFO] [".lionfund." password] Speed Limit Results (Remaining Times / Total Times): (4996, 5000)  Speed limit reset time: 1538575924[0m
+[32m2018-10-03 21:12:07,160 [GSIL] [INFO] [".lionfund." password] The expected number of acquisitions: 4(Pages) * 50(Per Page) = 200(Total)[0m
+[32m2018-10-03 21:12:07,244 [GSIL] [INFO] [".diyou." password] [2/84] Did not match the code, skip![0m
+[32m2018-10-03 21:12:07,446 [GSIL] [INFO] [".tzg.cn" password] [0/10] Did not match the code, skip![0m
+[32m2018-10-03 21:12:07,450 [GSIL] [INFO] [".cdpsn.org.cn" password] [3/5] Did not match the code, skip![0m
+[32m2018-10-03 21:12:07,588 [GSIL] [INFO] ----------------------------[0m
+[32m2018-10-03 21:12:07,589 [GSIL] [INFO] Search keyword: ".guahao." password extension:bak extension:json extension:txt extension:sql extension:ini extension:php extension:java extension:python extension:go extension:js extension:properties [0m
+[32m2018-10-03 21:12:07,590 [GSIL] [INFO] [".guahao." password] Speed Limit Results (Remaining Times / Total Times): (4995, 5000)  Speed limit reset time: 1538575924[0m
+[32m2018-10-03 21:12:07,591 [GSIL] [INFO] [".guahao." password] The expected number of acquisitions: 4(Pages) * 50(Per Page) = 200(Total)[0m
+[32m2018-10-03 21:12:07,840 [GSIL] [INFO] [".cdpf.org.cn" password] [1/7] Did not match the code, skip![0m
+[31m[47m2018-10-03 21:12:07,958 [GSIL] [CRITICAL] GitHub [search_code] exception(code: 403 msg: {'documentation_url': 'https://developer.github.com/v3/#abuse-rate-limits', 'message': 'You have triggered an abuse detection mechanism. Please wait a few minutes before you try again.'} 125b5d2801e2041b4668a9cea56e135dc184f6f7[0m
+[32m2018-10-03 21:12:08,533 [GSIL] [INFO] [".diyou." password] [3/84] Did not match the code, skip![0m
+[32m2018-10-03 21:12:08,587 [GSIL] [INFO] ----------------------------[0m
+[32m2018-10-03 21:12:08,588 [GSIL] [INFO] Search keyword: ".szcomtop." password extension:bak extension:json extension:txt extension:sql extension:ini extension:php extension:java extension:python extension:go extension:js extension:properties [0m
+[32m2018-10-03 21:12:08,589 [GSIL] [INFO] [".szcomtop." password] Speed Limit Results (Remaining Times / Total Times): (4995, 5000)  Speed limit reset time: 1538575924[0m
+[32m2018-10-03 21:12:08,590 [GSIL] [INFO] [".szcomtop." password] The expected number of acquisitions: 4(Pages) * 50(Per Page) = 200(Total)[0m
+[31m[47m2018-10-03 21:12:09,038 [GSIL] [CRITICAL] GitHub [search_code] exception(code: 403 msg: {'documentation_url': 'https://developer.github.com/v3/#abuse-rate-limits', 'message': 'You have triggered an abuse detection mechanism. Please wait a few minutes before you try again.'} 125b5d2801e2041b4668a9cea56e135dc184f6f7[0m
+[32m2018-10-03 21:12:09,140 [GSIL] [INFO] [".cdpsn.org.cn" password] [4/5] Did not match the code, skip![0m
+[32m2018-10-03 21:12:09,141 [GSIL] [INFO] Process count: 0[0m
+[32m2018-10-03 21:12:09,142 [GSIL] [INFO] none content for send mail[0m
+[32m2018-10-03 21:12:09,142 [GSIL] [INFO] [".cdpsn.org.cn" password] The current rules are processed, the process of normal exit![0m
+[32m2018-10-03 21:12:09,383 [GSIL] [INFO] [".diyou." password] [4/84] Did not match the code, skip![0m
+[31m[47m2018-10-03 21:12:09,385 [GSIL] [CRITICAL] GitHub [search_code] exception(code: 403 msg: {'documentation_url': 'https://developer.github.com/v3/#abuse-rate-limits', 'message': 'You have triggered an abuse detection mechanism. Please wait a few minutes before you try again.'} 087e53b14608aa3cf152dae78724a06075073f10[0m
+[32m2018-10-03 21:12:09,507 [GSIL] [INFO] [".cdpf.org.cn" password] [2/7] Did not match the code, skip![0m
+[32m2018-10-03 21:12:09,558 [GSIL] [INFO] [".tzg.cn" password] [1/10] Did not match the code, skip![0m
+[32m2018-10-03 21:12:09,829 [GSIL] [INFO] [".diyou." password] [5/84] Did not match the code, skip![0m
+[32m2018-10-03 21:12:09,932 [GSIL] [INFO] ----------------------------[0m
+[32m2018-10-03 21:12:09,933 [GSIL] [INFO] Search keyword: ".ayibang." password extension:bak extension:json extension:txt extension:sql extension:ini extension:php extension:java extension:python extension:go extension:js extension:properties [0m
+[32m2018-10-03 21:12:09,934 [GSIL] [INFO] [".ayibang." password] Speed Limit Results (Remaining Times / Total Times): (4757, 5000)  Speed limit reset time: 1538572378[0m
+[32m2018-10-03 21:12:09,935 [GSIL] [INFO] [".ayibang." password] The expected number of acquisitions: 4(Pages) * 50(Per Page) = 200(Total)[0m
+[32m2018-10-03 21:12:10,385 [GSIL] [INFO] [".tzg.cn" password] [2/10] Did not match the code, skip![0m
+[32m2018-10-03 21:12:10,447 [GSIL] [INFO] ----------------------------[0m
+[32m2018-10-03 21:12:10,448 [GSIL] [INFO] Search keyword: ".ypic." password extension:bak extension:json extension:txt extension:sql extension:ini extension:php extension:java extension:python extension:go extension:js extension:properties [0m
+[32m2018-10-03 21:12:10,449 [GSIL] [INFO] [".ypic." password] Speed Limit Results (Remaining Times / Total Times): (4994, 5000)  Speed limit reset time: 1538575924[0m
+[32m2018-10-03 21:12:10,449 [GSIL] [INFO] [".ypic." password] The expected number of acquisitions: 4(Pages) * 50(Per Page) = 200(Total)[0m
+[32m2018-10-03 21:12:10,698 [GSIL] [INFO] [".diyou." password] [6/84] Did not match the code, skip![0m
+[31m[47m2018-10-03 21:12:10,765 [GSIL] [CRITICAL] GitHub [search_code] exception(code: 403 msg: {'documentation_url': 'https://developer.github.com/v3/#abuse-rate-limits', 'message': 'You have triggered an abuse detection mechanism. Please wait a few minutes before you try again.'} 125b5d2801e2041b4668a9cea56e135dc184f6f7[0m
+[32m2018-10-03 21:12:10,801 [GSIL] [INFO] [".ayibang." password] The actual number: 8[0m
+[32m2018-10-03 21:12:10,844 [GSIL] [INFO] [".tzg.cn" password] [3/10] Did not match the code, skip![0m
+[32m2018-10-03 21:12:11,116 [GSIL] [INFO] ----------------------------[0m
+[32m2018-10-03 21:12:11,117 [GSIL] [INFO] Search keyword: ".dyedu." password extension:bak extension:json extension:txt extension:sql extension:ini extension:php extension:java extension:python extension:go extension:js extension:properties [0m
+[32m2018-10-03 21:12:11,118 [GSIL] [INFO] [".dyedu." password] Speed Limit Results (Remaining Times / Total Times): (4994, 5000)  Speed limit reset time: 1538575924[0m
+[32m2018-10-03 21:12:11,119 [GSIL] [INFO] [".dyedu." password] The expected number of acquisitions: 4(Pages) * 50(Per Page) = 200(Total)[0m
+[31m[47m2018-10-03 21:12:11,528 [GSIL] [CRITICAL] GitHub [search_code] exception(code: 403 msg: {'documentation_url': 'https://developer.github.com/v3/#abuse-rate-limits', 'message': 'You have triggered an abuse detection mechanism. Please wait a few minutes before you try again.'} 125b5d2801e2041b4668a9cea56e135dc184f6f7[0m
+[32m2018-10-03 21:12:11,585 [GSIL] [INFO] [".diyou." password] [7/84] Did not match the code, skip![0m
+[32m2018-10-03 21:12:11,586 [GSIL] [INFO] [".diyou." password] [8/84] Excluded because of the path, skip![0m
+[32m2018-10-03 21:12:11,724 [GSIL] [INFO] [".ayibang." password] Get page 0 data for 8[0m
+[32m2018-10-03 21:12:11,725 [GSIL] [INFO] [".ayibang." password] [0/8] Excluded because of the path, skip![0m
+[32m2018-10-03 21:12:11,879 [GSIL] [INFO] [".tzg.cn" password] [4/10] Did not match the code, skip![0m
+[32m2018-10-03 21:12:11,903 [GSIL] [INFO] [".cdpf.org.cn" password] [3/7] Did not match the code, skip![0m
+[32m2018-10-03 21:12:12,148 [GSIL] [INFO] ----------------------------[0m
+[32m2018-10-03 21:12:12,149 [GSIL] [INFO] Search keyword: ".epicard." password extension:bak extension:json extension:txt extension:sql extension:ini extension:php extension:java extension:python extension:go extension:js extension:properties [0m
+[32m2018-10-03 21:12:12,150 [GSIL] [INFO] [".epicard." password] Speed Limit Results (Remaining Times / Total Times): (4983, 5000)  Speed limit reset time: 1538575924[0m
+[32m2018-10-03 21:12:12,150 [GSIL] [INFO] [".epicard." password] The expected number of acquisitions: 4(Pages) * 50(Per Page) = 200(Total)[0m
+[32m2018-10-03 21:12:12,338 [GSIL] [INFO] [".tzg.cn" password] [5/10] Did not match the code, skip![0m
+[32m2018-10-03 21:12:12,450 [GSIL] [INFO] [".diyou." password] [9/84] Did not match the code, skip![0m
+[31m[47m2018-10-03 21:12:12,674 [GSIL] [CRITICAL] GitHub [search_code] exception(code: 403 msg: {'documentation_url': 'https://developer.github.com/v3/#abuse-rate-limits', 'message': 'You have triggered an abuse detection mechanism. Please wait a few minutes before you try again.'} 087e53b14608aa3cf152dae78724a06075073f10[0m
+[32m2018-10-03 21:12:12,781 [GSIL] [INFO] [".tzg.cn" password] [6/10] Did not match the code, skip![0m
+[32m2018-10-03 21:12:13,301 [GSIL] [INFO] ----------------------------[0m
+[32m2018-10-03 21:12:13,301 [GSIL] [INFO] [".chinaamc." password] [0/127] Did not match the code, skip![0m
+[32m2018-10-03 21:12:13,302 [GSIL] [INFO] Search keyword: ".jwx.com.cn" password extension:bak extension:json extension:txt extension:sql extension:ini extension:php extension:java extension:python extension:go extension:js extension:properties [0m
+[32m2018-10-03 21:12:13,303 [GSIL] [INFO] [".jwx.com.cn" password] Speed Limit Results (Remaining Times / Total Times): (4979, 5000)  Speed limit reset time: 1538575924[0m
+[32m2018-10-03 21:12:13,303 [GSIL] [INFO] [".jwx.com.cn" password] The expected number of acquisitions: 4(Pages) * 50(Per Page) = 200(Total)[0m
+[32m2018-10-03 21:12:13,655 [GSIL] [INFO] [".cdpf.org.cn" password] [4/7] Did not match the code, skip![0m
+[31m[47m2018-10-03 21:12:13,755 [GSIL] [CRITICAL] GitHub [search_code] exception(code: 403 msg: {'documentation_url': 'https://developer.github.com/v3/#abuse-rate-limits', 'message': 'You have triggered an abuse detection mechanism. Please wait a few minutes before you try again.'} 087e53b14608aa3cf152dae78724a06075073f10[0m
+[32m2018-10-03 21:12:14,128 [GSIL] [INFO] ----------------------------[0m
+[32m2018-10-03 21:12:14,129 [GSIL] [INFO] Search keyword: ".cqksy." password extension:bak extension:json extension:txt extension:sql extension:ini extension:php extension:java extension:python extension:go extension:js extension:properties [0m
+[32m2018-10-03 21:12:14,130 [GSIL] [INFO] [".cqksy." password] Speed Limit Results (Remaining Times / Total Times): (4979, 5000)  Speed limit reset time: 1538575924[0m
+[32m2018-10-03 21:12:14,130 [GSIL] [INFO] [".tzg.cn" password] [7/10] Did not match the code, skip![0m
+[32m2018-10-03 21:12:14,130 [GSIL] [INFO] [".cqksy." password] The expected number of acquisitions: 4(Pages) * 50(Per Page) = 200(Total)[0m
+[32m2018-10-03 21:12:14,398 [GSIL] [INFO] [".cdpf.org.cn" password] [5/7] Did not match the code, skip![0m
+[32m2018-10-03 21:12:14,399 [GSIL] [INFO] [".cdpf.org.cn" password] [6/7] Excluded because of the path, skip![0m
+[32m2018-10-03 21:12:14,399 [GSIL] [INFO] Process count: 0[0m
+[32m2018-10-03 21:12:14,400 [GSIL] [INFO] none content for send mail[0m
+[32m2018-10-03 21:12:14,400 [GSIL] [INFO] [".cdpf.org.cn" password] The current rules are processed, the process of normal exit![0m
+[31m[47m2018-10-03 21:12:14,541 [GSIL] [CRITICAL] GitHub [search_code] exception(code: 403 msg: {'documentation_url': 'https://developer.github.com/v3/#abuse-rate-limits', 'message': 'You have triggered an abuse detection mechanism. Please wait a few minutes before you try again.'} 087e53b14608aa3cf152dae78724a06075073f10[0m
+[32m2018-10-03 21:12:17,268 [GSIL] [INFO] [".diyou." password] [10/84] Did not match the code, skip![0m
+[32m2018-10-03 21:12:17,937 [GSIL] [INFO] [".tzg.cn" password] [8/10] Did not match the code, skip![0m
+[32m2018-10-03 21:12:18,148 [GSIL] [INFO] [".diyou." password] [11/84] Did not match the code, skip![0m
+[32m2018-10-03 21:12:18,289 [GSIL] [INFO] [".chinaamc." password] [1/127] Did not match the code, skip![0m
+[32m2018-10-03 21:12:19,047 [GSIL] [INFO] [".diyou." password] [12/84] Did not match the code, skip![0m
+[32m2018-10-03 21:12:20,105 [GSIL] [INFO] [".diyou." password] [13/84] Did not match the code, skip![0m
+[32m2018-10-03 21:12:20,454 [GSIL] [INFO] [".chinaamc." password] [2/127] Did not match the code, skip![0m
+[32m2018-10-03 21:12:20,954 [GSIL] [INFO] [".diyou." password] [14/84] Did not match the code, skip![0m
+[32m2018-10-03 21:12:21,407 [GSIL] [INFO] [".diyou." password] [15/84] Did not match the code, skip![0m
+[32m2018-10-03 21:12:21,826 [GSIL] [INFO] [".diyou." password] [16/84] Did not match the code, skip![0m
+[32m2018-10-03 21:12:22,188 [GSIL] [INFO] [".diyou." password] [17/84] Did not match the code, skip![0m
+[32m2018-10-03 21:12:22,535 [GSIL] [INFO] [".diyou." password] [18/84] Did not match the code, skip![0m
+[32m2018-10-03 21:12:22,890 [GSIL] [INFO] [".diyou." password] [19/84] Did not match the code, skip![0m
+[32m2018-10-03 21:12:23,279 [GSIL] [INFO] [".diyou." password] [20/84] Did not match the code, skip![0m
+[32m2018-10-03 21:12:23,413 [GSIL] [INFO] [".chinaamc." password] [3/127] Did not match the code, skip![0m
+[32m2018-10-03 21:12:24,051 [GSIL] [INFO] [".diyou." password] [21/84] Did not match the code, skip![0m
+[32m2018-10-03 21:12:24,397 [GSIL] [INFO] [".diyou." password] [22/84] Did not match the code, skip![0m
+[32m2018-10-03 21:12:24,642 [GSIL] [INFO] [".tzg.cn" password] [9/10] Did not match the code, skip![0m
+[32m2018-10-03 21:12:24,643 [GSIL] [INFO] Process count: 0[0m
+[32m2018-10-03 21:12:24,643 [GSIL] [INFO] none content for send mail[0m
+[32m2018-10-03 21:12:24,644 [GSIL] [INFO] [".tzg.cn" password] The current rules are processed, the process of normal exit![0m
+[32m2018-10-03 21:12:24,755 [GSIL] [INFO] [".diyou." password] [23/84] Did not match the code, skip![0m
+[32m2018-10-03 21:12:25,047 [GSIL] [INFO] [".ayibang." password] [1/8] Did not match the code, skip![0m
+[32m2018-10-03 21:12:25,048 [GSIL] [INFO] [".ayibang." password] [2/8] Excluded because of the path, skip![0m
+[32m2018-10-03 21:12:25,165 [GSIL] [INFO] [".diyou." password] [24/84] Did not match the code, skip![0m
+[32m2018-10-03 21:12:26,215 [GSIL] [INFO] [".diyou." password] [25/84] Did not match the code, skip![0m
+[32m2018-10-03 21:12:26,223 [GSIL] [INFO] [".chinaamc." password] [4/127] Did not match the code, skip![0m
+[32m2018-10-03 21:12:27,155 [GSIL] [INFO] [".diyou." password] [26/84] Did not match the code, skip![0m
+[32m2018-10-03 21:12:28,110 [GSIL] [INFO] [".chinaamc." password] [5/127] Did not match the code, skip![0m
+[32m2018-10-03 21:12:28,467 [GSIL] [INFO] [".diyou." password] [27/84] Did not match the code, skip![0m
+[32m2018-10-03 21:12:30,600 [GSIL] [INFO] [".diyou." password] [28/84] Did not match the code, skip![0m
+[32m2018-10-03 21:12:30,882 [GSIL] [INFO] [".chinaamc." password] [6/127] Did not match the code, skip![0m
+[32m2018-10-03 21:12:32,276 [GSIL] [INFO] [".diyou." password] [29/84] Did not match the code, skip![0m
+[32m2018-10-03 21:12:32,850 [GSIL] [INFO] [".ayibang." password] [3/8] Did not match the code, skip![0m
+[32m2018-10-03 21:12:33,178 [GSIL] [INFO] [".diyou." password] [30/84] Did not match the code, skip![0m
+[32m2018-10-03 21:12:33,971 [GSIL] [INFO] [".diyou." password] [31/84] Did not match the code, skip![0m
+[32m2018-10-03 21:12:34,942 [GSIL] [INFO] [".diyou." password] [32/84] Did not match the code, skip![0m
+[32m2018-10-03 21:12:35,647 [GSIL] [INFO] [".diyou." password] [33/84] Did not match the code, skip![0m
+[32m2018-10-03 21:12:36,209 [GSIL] [INFO] [".chinaamc." password] [7/127] Did not match the code, skip![0m
+[32m2018-10-03 21:12:36,309 [GSIL] [INFO] [".diyou." password] [34/84] Did not match the code, skip![0m
+[32m2018-10-03 21:12:37,989 [GSIL] [INFO] [".diyou." password] [35/84] Did not match the code, skip![0m
+[32m2018-10-03 21:12:38,727 [GSIL] [INFO] [".diyou." password] [36/84] Did not match the code, skip![0m
+[32m2018-10-03 21:12:38,863 [GSIL] [INFO] [".ayibang." password] [4/8] Did not match the code, skip![0m
+[32m2018-10-03 21:12:40,487 [GSIL] [INFO] [".chinaamc." password] [8/127] Did not match the code, skip![0m
+[32m2018-10-03 21:12:45,193 [GSIL] [INFO] [".ayibang." password] [5/8] Did not match the code, skip![0m
+[32m2018-10-03 21:12:56,687 [GSIL] [INFO] [".ayibang." password] [6/8] Did not match the code, skip![0m
+[32m2018-10-03 21:12:56,792 [GSIL] [INFO] [".chinaamc." password] [9/127] Did not match the code, skip![0m
+[32m2018-10-03 21:13:03,623 [GSIL] [INFO] [".diyou." password] [37/84] Did not match the code, skip![0m
+[32m2018-10-03 21:13:03,623 [GSIL] [INFO] [".diyou." password] [38/84] Excluded because of the path, skip![0m
+[32m2018-10-03 21:13:03,624 [GSIL] [INFO] [".diyou." password] [39/84] Excluded because of the path, skip![0m
+[32m2018-10-03 21:13:03,625 [GSIL] [INFO] [".diyou." password] [40/84] Excluded because of the path, skip![0m
+[32m2018-10-03 21:13:03,625 [GSIL] [INFO] [".diyou." password] [41/84] Excluded because of the path, skip![0m
+[32m2018-10-03 21:13:03,626 [GSIL] [INFO] [".diyou." password] [42/84] Excluded because of the path, skip![0m
+[32m2018-10-03 21:13:03,626 [GSIL] [INFO] [".diyou." password] [43/84] Excluded because of the path, skip![0m
+[32m2018-10-03 21:13:03,627 [GSIL] [INFO] [".diyou." password] [44/84] Excluded because of the path, skip![0m
+[32m2018-10-03 21:13:03,627 [GSIL] [INFO] [".diyou." password] [45/84] Excluded because of the path, skip![0m
+[32m2018-10-03 21:13:03,628 [GSIL] [INFO] [".diyou." password] [46/84] Excluded because of the path, skip![0m
+[32m2018-10-03 21:13:03,628 [GSIL] [INFO] [".diyou." password] [47/84] Excluded because of the path, skip![0m
+[32m2018-10-03 21:13:03,629 [GSIL] [INFO] [".diyou." password] [48/84] Excluded because of the path, skip![0m
+[32m2018-10-03 21:13:03,630 [GSIL] [INFO] [".diyou." password] [49/84] Excluded because of the path, skip![0m
+[32m2018-10-03 21:13:03,630 [GSIL] [INFO] Process count: 0[0m
+[32m2018-10-03 21:13:03,631 [GSIL] [INFO] none content for send mail[0m
+[32m2018-10-03 21:13:05,194 [GSIL] [INFO] [".diyou." password] Get page 1 data for 34[0m
+[32m2018-10-03 21:13:05,195 [GSIL] [INFO] [".diyou." password] [50/84] Excluded because of the path, skip![0m
+[32m2018-10-03 21:13:05,195 [GSIL] [INFO] [".diyou." password] [51/84] Excluded because of the path, skip![0m
+[32m2018-10-03 21:13:05,196 [GSIL] [INFO] [".diyou." password] [52/84] Excluded because of the path, skip![0m
+[32m2018-10-03 21:13:05,196 [GSIL] [INFO] [".diyou." password] [53/84] Excluded because of the path, skip![0m
+[32m2018-10-03 21:13:05,197 [GSIL] [INFO] [".diyou." password] [54/84] Excluded because of the path, skip![0m
+[32m2018-10-03 21:13:05,197 [GSIL] [INFO] [".diyou." password] [55/84] Excluded because of the path, skip![0m
+[32m2018-10-03 21:13:05,198 [GSIL] [INFO] [".diyou." password] [56/84] Excluded because of the path, skip![0m
+[32m2018-10-03 21:13:05,198 [GSIL] [INFO] [".diyou." password] [57/84] Excluded because of the path, skip![0m
+[32m2018-10-03 21:13:05,198 [GSIL] [INFO] [".diyou." password] [58/84] Excluded because of the path, skip![0m
+[32m2018-10-03 21:13:05,199 [GSIL] [INFO] [".diyou." password] [59/84] Excluded because of the path, skip![0m
+[32m2018-10-03 21:13:05,199 [GSIL] [INFO] [".diyou." password] [60/84] Excluded because of the path, skip![0m
+[32m2018-10-03 21:13:05,200 [GSIL] [INFO] [".diyou." password] [61/84] Excluded because of the path, skip![0m
+[32m2018-10-03 21:13:05,200 [GSIL] [INFO] [".diyou." password] [62/84] Excluded because of the path, skip![0m
+[32m2018-10-03 21:13:05,201 [GSIL] [INFO] [".diyou." password] [63/84] Excluded because of the path, skip![0m
+[32m2018-10-03 21:13:05,201 [GSIL] [INFO] [".diyou." password] [64/84] Excluded because of the path, skip![0m
+[32m2018-10-03 21:13:05,201 [GSIL] [INFO] [".diyou." password] [65/84] Excluded because of the path, skip![0m
+[32m2018-10-03 21:13:07,973 [GSIL] [INFO] [".chinaamc." password] [10/127] Did not match the code, skip![0m
+[32m2018-10-03 21:13:12,942 [GSIL] [INFO] [".diyou." password] [66/84] Did not match the code, skip![0m
+[32m2018-10-03 21:13:15,555 [GSIL] [INFO] [".diyou." password] [67/84] Did not match the code, skip![0m
+[32m2018-10-03 21:13:20,278 [GSIL] [INFO] [".chinaamc." password] [11/127] Did not match the code, skip![0m
+[32m2018-10-03 21:13:23,532 [GSIL] [INFO] [".diyou." password] [68/84] Did not match the code, skip![0m
+[32m2018-10-03 21:13:25,718 [GSIL] [INFO] [".ayibang." password] [7/8] Did not match the code, skip![0m
+[32m2018-10-03 21:13:25,719 [GSIL] [INFO] Process count: 0[0m
+[32m2018-10-03 21:13:25,719 [GSIL] [INFO] none content for send mail[0m
+[32m2018-10-03 21:13:25,720 [GSIL] [INFO] [".ayibang." password] The current rules are processed, the process of normal exit![0m
+[32m2018-10-03 21:13:28,357 [GSIL] [INFO] [".diyou." password] [69/84] Did not match the code, skip![0m
+[32m2018-10-03 21:13:29,580 [GSIL] [INFO] [".diyou." password] [70/84] Did not match the code, skip![0m
+[32m2018-10-03 21:13:33,505 [GSIL] [INFO] [".diyou." password] [71/84] Did not match the code, skip![0m
+[32m2018-10-03 21:13:35,427 [GSIL] [INFO] [".chinaamc." password] [12/127] Did not match the code, skip![0m
+[32m2018-10-03 21:13:36,717 [GSIL] [INFO] [".chinaamc." password] [13/127] Did not match the code, skip![0m
+[32m2018-10-03 21:13:37,074 [GSIL] [INFO] [".diyou." password] [72/84] Did not match the code, skip![0m
+[32m2018-10-03 21:13:43,089 [GSIL] [INFO] [".diyou." password] [73/84] Did not match the code, skip![0m
+[32m2018-10-03 21:13:44,285 [GSIL] [INFO] [".chinaamc." password] [14/127] Did not match the code, skip![0m
+[32m2018-10-03 21:13:44,421 [GSIL] [INFO] [".diyou." password] [74/84] Did not match the code, skip![0m
+[32m2018-10-03 21:13:45,093 [GSIL] [INFO] [".diyou." password] [75/84] Did not match the code, skip![0m
+[32m2018-10-03 21:13:45,470 [GSIL] [INFO] [".diyou." password] [76/84] Did not match the code, skip![0m
+[32m2018-10-03 21:13:45,829 [GSIL] [INFO] [".diyou." password] [77/84] Did not match the code, skip![0m
+[32m2018-10-03 21:13:46,196 [GSIL] [INFO] [".chinaamc." password] [15/127] Did not match the code, skip![0m
+[32m2018-10-03 21:13:46,597 [GSIL] [INFO] [".diyou." password] [78/84] Did not match the code, skip![0m
+[32m2018-10-03 21:13:48,864 [GSIL] [INFO] [".chinaamc." password] [16/127] Did not match the code, skip![0m
+[32m2018-10-03 21:13:51,707 [GSIL] [INFO] [".chinaamc." password] [17/127] Did not match the code, skip![0m
+[32m2018-10-03 21:13:52,788 [GSIL] [INFO] [".chinaamc." password] [18/127] Did not match the code, skip![0m
+[32m2018-10-03 21:13:53,664 [GSIL] [INFO] [".diyou." password] [79/84] Did not match the code, skip![0m
+[32m2018-10-03 21:13:55,772 [GSIL] [INFO] [".chinaamc." password] [19/127] Did not match the code, skip![0m
+[32m2018-10-03 21:13:55,852 [GSIL] [INFO] [".diyou." password] [80/84] Did not match the code, skip![0m
+[32m2018-10-03 21:13:56,308 [GSIL] [INFO] [".diyou." password] [81/84] Did not match the code, skip![0m
+[32m2018-10-03 21:13:56,311 [GSIL] [INFO] [".diyou." password] [82/84] Excluded because of the path, skip![0m
+[32m2018-10-03 21:13:56,312 [GSIL] [INFO] [".diyou." password] [83/84] Excluded because of the path, skip![0m
+[32m2018-10-03 21:13:56,313 [GSIL] [INFO] Process count: 0[0m
+[32m2018-10-03 21:13:56,313 [GSIL] [INFO] none content for send mail[0m
+[32m2018-10-03 21:13:56,889 [GSIL] [INFO] [".diyou." password] Get page 2 data for 0[0m
+[32m2018-10-03 21:13:56,890 [GSIL] [INFO] Process count: 0[0m
+[32m2018-10-03 21:13:56,891 [GSIL] [INFO] none content for send mail[0m
+[32m2018-10-03 21:13:57,425 [GSIL] [INFO] [".diyou." password] Get page 3 data for 0[0m
+[32m2018-10-03 21:13:57,426 [GSIL] [INFO] Process count: 0[0m
+[32m2018-10-03 21:13:57,427 [GSIL] [INFO] none content for send mail[0m
+[32m2018-10-03 21:13:57,428 [GSIL] [INFO] [".diyou." password] The current rules are processed, the process of normal exit![0m
+[32m2018-10-03 21:13:59,717 [GSIL] [INFO] [".chinaamc." password] [20/127] Did not match the code, skip![0m
+[32m2018-10-03 21:14:07,908 [GSIL] [INFO] [".chinaamc." password] [21/127] Did not match the code, skip![0m
+[32m2018-10-03 21:14:14,872 [GSIL] [INFO] [".chinaamc." password] [22/127] Did not match the code, skip![0m
+[32m2018-10-03 21:14:27,782 [GSIL] [INFO] [".chinaamc." password] [23/127] Did not match the code, skip![0m
+[32m2018-10-03 21:14:44,177 [GSIL] [INFO] [".chinaamc." password] [24/127] Did not match the code, skip![0m
+[32m2018-10-03 21:14:58,194 [GSIL] [INFO] [".chinaamc." password] [25/127] Did not match the code, skip![0m
+[32m2018-10-03 21:15:03,657 [GSIL] [INFO] [".chinaamc." password] [26/127] Did not match the code, skip![0m
+[32m2018-10-03 21:15:09,786 [GSIL] [INFO] [".chinaamc." password] [27/127] Did not match the code, skip![0m
+[32m2018-10-03 21:15:20,926 [GSIL] [INFO] [".chinaamc." password] [28/127] Did not match the code, skip![0m
+[32m2018-10-03 21:15:33,522 [GSIL] [INFO] [".chinaamc." password] [29/127] Did not match the code, skip![0m
+[32m2018-10-03 21:15:39,969 [GSIL] [INFO] [".chinaamc." password] [30/127] Did not match the code, skip![0m
+[32m2018-10-03 21:15:44,858 [GSIL] [INFO] [".chinaamc." password] [31/127] Did not match the code, skip![0m
+[32m2018-10-03 21:15:50,830 [GSIL] [INFO] [".chinaamc." password] [32/127] Did not match the code, skip![0m
+[32m2018-10-03 21:15:57,452 [GSIL] [INFO] [".chinaamc." password] [33/127] Did not match the code, skip![0m
+[32m2018-10-03 21:16:05,987 [GSIL] [INFO] [".chinaamc." password] [34/127] Did not match the code, skip![0m
+[32m2018-10-03 21:16:13,873 [GSIL] [INFO] [".chinaamc." password] [35/127] Did not match the code, skip![0m
+[32m2018-10-03 21:16:25,546 [GSIL] [INFO] [".chinaamc." password] [36/127] Did not match the code, skip![0m
+[32m2018-10-03 21:16:30,894 [GSIL] [INFO] [".chinaamc." password] [37/127] Did not match the code, skip![0m
+[32m2018-10-03 21:16:31,269 [GSIL] [INFO] [".chinaamc." password] [38/127] Did not match the code, skip![0m
+[32m2018-10-03 21:16:35,888 [GSIL] [INFO] [".chinaamc." password] [39/127] Did not match the code, skip![0m
+[32m2018-10-03 21:16:36,701 [GSIL] [INFO] [".chinaamc." password] [40/127] Did not match the code, skip![0m
+[32m2018-10-03 21:16:39,352 [GSIL] [INFO] [".chinaamc." password] [41/127] Did not match the code, skip![0m
+[32m2018-10-03 21:16:43,966 [GSIL] [INFO] [".chinaamc." password] [42/127] Did not match the code, skip![0m
+[32m2018-10-03 21:16:46,944 [GSIL] [INFO] [".chinaamc." password] [43/127] Did not match the code, skip![0m
+[32m2018-10-03 21:16:53,093 [GSIL] [INFO] [".chinaamc." password] [44/127] Did not match the code, skip![0m
+[32m2018-10-03 21:16:59,025 [GSIL] [INFO] [".chinaamc." password] [45/127] Did not match the code, skip![0m
+[32m2018-10-03 21:17:05,066 [GSIL] [INFO] [".chinaamc." password] [46/127] Did not match the code, skip![0m
+[32m2018-10-03 21:17:08,541 [GSIL] [INFO] [".chinaamc." password] [47/127] Did not match the code, skip![0m
+[32m2018-10-03 21:17:13,463 [GSIL] [INFO] [".chinaamc." password] [48/127] Did not match the code, skip![0m
+[32m2018-10-03 21:17:19,107 [GSIL] [INFO] [".chinaamc." password] [49/127] Did not match the code, skip![0m
+[32m2018-10-03 21:17:19,107 [GSIL] [INFO] Process count: 0[0m
+[32m2018-10-03 21:17:19,108 [GSIL] [INFO] none content for send mail[0m
+[32m2018-10-03 21:17:21,817 [GSIL] [INFO] [".chinaamc." password] Get page 1 data for 50[0m
+[32m2018-10-03 21:17:26,177 [GSIL] [INFO] [".chinaamc." password] [50/127] Did not match the code, skip![0m
+[32m2018-10-03 21:17:33,229 [GSIL] [INFO] [".chinaamc." password] [51/127] Did not match the code, skip![0m
+[32m2018-10-03 21:17:40,633 [GSIL] [INFO] [".chinaamc." password] [52/127] Did not match the code, skip![0m
+[32m2018-10-03 21:17:46,409 [GSIL] [INFO] [".chinaamc." password] [53/127] Did not match the code, skip![0m
+[32m2018-10-03 21:17:52,493 [GSIL] [INFO] [".chinaamc." password] [54/127] Did not match the code, skip![0m
+[32m2018-10-03 21:17:55,859 [GSIL] [INFO] [".chinaamc." password] [55/127] Did not match the code, skip![0m
+[32m2018-10-03 21:18:03,538 [GSIL] [INFO] [".chinaamc." password] [56/127] Did not match the code, skip![0m
+[32m2018-10-03 21:18:10,158 [GSIL] [INFO] [".chinaamc." password] [57/127] Did not match the code, skip![0m
+[32m2018-10-03 21:18:19,823 [GSIL] [INFO] [".chinaamc." password] [58/127] Did not match the code, skip![0m
+[32m2018-10-03 21:18:31,907 [GSIL] [INFO] [".chinaamc." password] [59/127] Did not match the code, skip![0m
+[32m2018-10-03 21:18:41,901 [GSIL] [INFO] [".chinaamc." password] [60/127] Did not match the code, skip![0m
+[32m2018-10-03 21:18:50,544 [GSIL] [INFO] [".chinaamc." password] [61/127] Did not match the code, skip![0m
+[32m2018-10-03 21:18:52,715 [GSIL] [INFO] [".chinaamc." password] [62/127] Did not match the code, skip![0m
+[32m2018-10-03 21:18:57,612 [GSIL] [INFO] [".chinaamc." password] [63/127] Did not match the code, skip![0m
+[32m2018-10-03 21:19:04,464 [GSIL] [INFO] [".chinaamc." password] [64/127] Did not match the code, skip![0m
+[32m2018-10-03 21:19:07,024 [GSIL] [INFO] [".chinaamc." password] [65/127] Did not match the code, skip![0m
+[32m2018-10-03 21:19:12,064 [GSIL] [INFO] [".chinaamc." password] [66/127] Did not match the code, skip![0m
+[32m2018-10-03 21:19:19,372 [GSIL] [INFO] [".chinaamc." password] [67/127] Did not match the code, skip![0m
+[32m2018-10-03 21:19:25,717 [GSIL] [INFO] [".chinaamc." password] [68/127] Did not match the code, skip![0m
+[32m2018-10-03 21:19:31,245 [GSIL] [INFO] [".chinaamc." password] [69/127] Did not match the code, skip![0m
+[32m2018-10-03 21:19:37,372 [GSIL] [INFO] [".chinaamc." password] [70/127] Did not match the code, skip![0m
+[32m2018-10-03 21:19:48,540 [GSIL] [INFO] [".chinaamc." password] [71/127] Did not match the code, skip![0m
+[32m2018-10-03 21:19:57,307 [GSIL] [INFO] [".chinaamc." password] [72/127] Did not match the code, skip![0m
+[32m2018-10-03 21:20:05,507 [GSIL] [INFO] [".chinaamc." password] [73/127] Did not match the code, skip![0m
+[32m2018-10-03 21:20:14,191 [GSIL] [INFO] [".chinaamc." password] [74/127] Did not match the code, skip![0m
+[32m2018-10-03 21:20:19,523 [GSIL] [INFO] [".chinaamc." password] [75/127] Did not match the code, skip![0m
+[32m2018-10-03 21:20:29,195 [GSIL] [INFO] [".chinaamc." password] [76/127] Did not match the code, skip![0m
+[32m2018-10-03 21:20:36,456 [GSIL] [INFO] [".chinaamc." password] [77/127] Did not match the code, skip![0m
+[32m2018-10-03 21:20:37,647 [GSIL] [INFO] [".chinaamc." password] [78/127] Did not match the code, skip![0m
+[32m2018-10-03 21:20:42,470 [GSIL] [INFO] [".chinaamc." password] [79/127] Did not match the code, skip![0m
+[32m2018-10-03 21:20:49,998 [GSIL] [INFO] [".chinaamc." password] [80/127] Did not match the code, skip![0m
+[32m2018-10-03 21:20:59,054 [GSIL] [INFO] [".chinaamc." password] [81/127] Did not match the code, skip![0m
+[32m2018-10-03 21:21:10,808 [GSIL] [INFO] [".chinaamc." password] [82/127] Did not match the code, skip![0m
+[32m2018-10-03 21:21:18,618 [GSIL] [INFO] [".chinaamc." password] [83/127] Did not match the code, skip![0m
+[32m2018-10-03 21:21:30,895 [GSIL] [INFO] [".chinaamc." password] [84/127] Did not match the code, skip![0m
+[32m2018-10-03 21:21:41,669 [GSIL] [INFO] [".chinaamc." password] [85/127] Did not match the code, skip![0m
+[32m2018-10-03 21:21:48,028 [GSIL] [INFO] [".chinaamc." password] [86/127] Did not match the code, skip![0m
+[32m2018-10-03 21:22:01,517 [GSIL] [INFO] [".chinaamc." password] [87/127] Did not match the code, skip![0m
+[32m2018-10-03 21:22:26,201 [GSIL] [INFO] [".chinaamc." password] [88/127] Did not match the code, skip![0m
+[32m2018-10-03 21:22:26,202 [GSIL] [INFO] [".chinaamc." password] [89/127] Excluded because of the path, skip![0m
+[32m2018-10-03 21:22:34,170 [GSIL] [INFO] [".chinaamc." password] [90/127] Did not match the code, skip![0m
+[32m2018-10-03 21:22:43,005 [GSIL] [INFO] [".chinaamc." password] [91/127] Did not match the code, skip![0m
+[32m2018-10-03 21:22:46,194 [GSIL] [INFO] [".chinaamc." password] [92/127] Did not match the code, skip![0m
+[32m2018-10-03 21:22:49,745 [GSIL] [INFO] [".chinaamc." password] [93/127] Did not match the code, skip![0m
+[32m2018-10-03 21:22:58,255 [GSIL] [INFO] [".chinaamc." password] [94/127] Did not match the code, skip![0m
+[32m2018-10-03 21:23:03,503 [GSIL] [INFO] [".chinaamc." password] [95/127] Did not match the code, skip![0m
+[32m2018-10-03 21:23:07,024 [GSIL] [INFO] [".chinaamc." password] [96/127] Did not match the code, skip![0m
+[32m2018-10-03 21:23:11,149 [GSIL] [INFO] [".chinaamc." password] [97/127] Did not match the code, skip![0m
+[32m2018-10-03 21:23:15,319 [GSIL] [INFO] [".chinaamc." password] [98/127] Did not match the code, skip![0m
+[32m2018-10-03 21:23:29,936 [GSIL] [INFO] [".chinaamc." password] [99/127] Did not match the code, skip![0m
+[32m2018-10-03 21:23:29,937 [GSIL] [INFO] Process count: 0[0m
+[32m2018-10-03 21:23:29,937 [GSIL] [INFO] none content for send mail[0m
+[32m2018-10-03 21:23:31,478 [GSIL] [INFO] [".chinaamc." password] Get page 2 data for 27[0m
+[32m2018-10-03 21:23:38,497 [GSIL] [INFO] [".chinaamc." password] [100/127] Did not match the code, skip![0m
+[32m2018-10-03 21:23:42,622 [GSIL] [INFO] [".chinaamc." password] [101/127] Did not match the code, skip![0m
+[32m2018-10-03 21:23:45,470 [GSIL] [INFO] [".chinaamc." password] [102/127] Did not match the code, skip![0m
+[32m2018-10-03 21:23:49,386 [GSIL] [INFO] [".chinaamc." password] [103/127] Did not match the code, skip![0m
+[32m2018-10-03 21:24:00,811 [GSIL] [INFO] [".chinaamc." password] [104/127] Did not match the code, skip![0m
+[32m2018-10-03 21:24:07,461 [GSIL] [INFO] [".chinaamc." password] [105/127] Did not match the code, skip![0m
+[32m2018-10-03 21:24:08,811 [GSIL] [INFO] [".chinaamc." password] [106/127] Did not match the code, skip![0m
+[32m2018-10-03 21:24:10,407 [GSIL] [INFO] [".chinaamc." password] [107/127] Did not match the code, skip![0m
+[32m2018-10-03 21:24:17,114 [GSIL] [INFO] [".chinaamc." password] [108/127] Did not match the code, skip![0m
+[32m2018-10-03 21:24:19,465 [GSIL] [INFO] [".chinaamc." password] [109/127] Did not match the code, skip![0m
+[32m2018-10-03 21:24:22,035 [GSIL] [INFO] [".chinaamc." password] [110/127] Did not match the code, skip![0m
+[32m2018-10-03 21:24:27,763 [GSIL] [INFO] [".chinaamc." password] [111/127] Did not match the code, skip![0m
+[32m2018-10-03 21:24:27,764 [GSIL] [INFO] [".chinaamc." password] [112/127] Excluded because of the path, skip![0m
+[32m2018-10-03 21:24:37,148 [GSIL] [INFO] [".chinaamc." password] [113/127] Did not match the code, skip![0m
+[32m2018-10-03 21:24:43,206 [GSIL] [INFO] [".chinaamc." password] [114/127] Did not match the code, skip![0m
+[32m2018-10-03 21:24:48,656 [GSIL] [INFO] [".chinaamc." password] [115/127] Did not match the code, skip![0m
+[32m2018-10-03 21:24:53,139 [GSIL] [INFO] [".chinaamc." password] [116/127] Did not match the code, skip![0m
+[32m2018-10-03 21:24:55,829 [GSIL] [INFO] [".chinaamc." password] [117/127] Did not match the code, skip![0m
+[32m2018-10-03 21:25:01,508 [GSIL] [INFO] [".chinaamc." password] [118/127] Did not match the code, skip![0m
+[32m2018-10-03 21:25:08,604 [GSIL] [INFO] [".chinaamc." password] [119/127] Did not match the code, skip![0m
+[32m2018-10-03 21:25:14,880 [GSIL] [INFO] [".chinaamc." password] [120/127] Did not match the code, skip![0m
+[32m2018-10-03 21:25:20,241 [GSIL] [INFO] [".chinaamc." password] [121/127] Did not match the code, skip![0m
+[32m2018-10-03 21:25:25,752 [GSIL] [INFO] [".chinaamc." password] [122/127] Did not match the code, skip![0m
+[32m2018-10-03 21:25:30,864 [GSIL] [INFO] [".chinaamc." password] [123/127] Did not match the code, skip![0m
+[32m2018-10-03 21:25:35,351 [GSIL] [INFO] [".chinaamc." password] [124/127] Did not match the code, skip![0m
+[32m2018-10-03 21:25:44,037 [GSIL] [INFO] [".chinaamc." password] [125/127] Did not match the code, skip![0m
+[32m2018-10-03 21:25:49,835 [GSIL] [INFO] [".chinaamc." password] [126/127] Did not match the code, skip![0m
+[32m2018-10-03 21:25:49,836 [GSIL] [INFO] Process count: 0[0m
+[32m2018-10-03 21:25:49,836 [GSIL] [INFO] none content for send mail[0m
+[32m2018-10-03 21:25:50,886 [GSIL] [INFO] [".chinaamc." password] Get page 3 data for 0[0m
+[32m2018-10-03 21:25:50,887 [GSIL] [INFO] Process count: 0[0m
+[32m2018-10-03 21:25:50,888 [GSIL] [INFO] none content for send mail[0m
+[32m2018-10-03 21:25:50,888 [GSIL] [INFO] [".chinaamc." password] The current rules are processed, the process of normal exit![0m
+[32m2018-10-06 20:34:22,281 [GSIL] [INFO] start monitor github information leakage: butian[0m
+[32m2018-10-06 20:34:22,283 [GSIL] [INFO] rules length: 16[0m
+[32m2018-10-06 20:34:22,340 [GSIL] [INFO] >>>>>>>>>>>>> sc.hnssczx.com > ".hnssczx." >>>>>>[0m
+[32m2018-10-06 20:34:22,345 [GSIL] [INFO] >>>>>>>>>>>>> www.diyou.cn > ".diyou." password >>>>>>[0m
+[32m2018-10-06 20:34:22,350 [GSIL] [INFO] >>>>>>>>>>>>> www.aiyoumi.com > ".aiyoumi." password >>>>>>[0m
+[32m2018-10-06 20:34:22,354 [GSIL] [INFO] >>>>>>>>>>>>> www.chinaamc.com > ".chinaamc." password >>>>>>[0m
+[32m2018-10-06 20:34:22,363 [GSIL] [INFO] >>>>>>>>>>>>> www.lionfund.com.cn > ".lionfund." password >>>>>>[0m
+[32m2018-10-06 20:34:22,367 [GSIL] [INFO] >>>>>>>>>>>>> www.cdpf.org.cn > ".cdpf.org.cn" password >>>>>>[0m
+[32m2018-10-06 20:34:22,374 [GSIL] [INFO] >>>>>>>>>>>>> www.cdpsn.org.cn > ".cdpsn.org.cn" password >>>>>>[0m
+[32m2018-10-06 20:34:22,377 [GSIL] [INFO] >>>>>>>>>>>>> www.tzg.cn > ".tzg.cn" password >>>>>>[0m
+[32m2018-10-06 20:34:22,379 [GSIL] [INFO] >>>>>>>>>>>>> www.guahao.com > ".guahao." password >>>>>>[0m
+[32m2018-10-06 20:34:22,381 [GSIL] [INFO] >>>>>>>>>>>>> www.szcomtop.com > ".szcomtop." password >>>>>>[0m
+[32m2018-10-06 20:34:22,384 [GSIL] [INFO] >>>>>>>>>>>>> www.ayibang.com > ".ayibang." password >>>>>>[0m
+[32m2018-10-06 20:34:22,386 [GSIL] [INFO] >>>>>>>>>>>>> www.epicard.com.cn > ".epicard." password >>>>>>[0m
+[32m2018-10-06 20:34:22,389 [GSIL] [INFO] >>>>>>>>>>>>> www.ypic.cn > ".ypic." password >>>>>>[0m
+[32m2018-10-06 20:34:22,391 [GSIL] [INFO] >>>>>>>>>>>>> www.dyedu.net > ".dyedu." password >>>>>>[0m
+[32m2018-10-06 20:34:22,393 [GSIL] [INFO] >>>>>>>>>>>>> www.cqksy.cn > ".cqksy." password >>>>>>[0m
+[32m2018-10-06 20:34:22,396 [GSIL] [INFO] >>>>>>>>>>>>> www.jwx.com.cn > ".jwx.com.cn" password >>>>>>[0m
+[32m2018-10-06 20:34:24,646 [GSIL] [INFO] ----------------------------[0m
+[32m2018-10-06 20:34:24,890 [GSIL] [INFO] ----------------------------[0m
+[32m2018-10-06 20:34:25,409 [GSIL] [INFO] ----------------------------[0m
+[32m2018-10-06 20:34:25,928 [GSIL] [INFO] ----------------------------[0m
+[32m2018-10-06 20:34:26,186 [GSIL] [INFO] ----------------------------[0m
+[32m2018-10-06 20:34:26,291 [GSIL] [INFO] ----------------------------[0m
+[32m2018-10-06 20:34:26,301 [GSIL] [INFO] ----------------------------[0m
+[32m2018-10-06 20:34:31,281 [GSIL] [INFO] ----------------------------[0m
+[32m2018-10-06 20:38:09,392 [GSIL] [INFO] Search keyword: ".cdpsn.org.cn" password extension:bak extension:json extension:txt extension:sql extension:ini extension:php extension:java extension:python extension:go extension:js extension:properties [0m
+[32m2018-10-06 20:39:57,875 [GSIL] [INFO] [".cdpsn.org.cn" password] Speed Limit Results (Remaining Times / Total Times): (5000, 5000)  Speed limit reset time: 1538832864[0m
+[32m2018-10-06 20:39:58,185 [GSIL] [INFO] [".cdpsn.org.cn" password] The expected number of acquisitions: 4(Pages) * 50(Per Page) = 200(Total)[0m
+[32m2018-10-06 21:18:28,216 [GSIL] [INFO] start monitor github information leakage: butian[0m
+[31m[47m2018-10-06 21:18:28,217 [GSIL] [CRITICAL] get rules failed, rule types not found![0m
+[32m2018-10-06 21:18:46,326 [GSIL] [INFO] start monitor github information leakage: butian[0m
+[31m[47m2018-10-06 21:18:46,327 [GSIL] [CRITICAL] get rules failed, rule types not found![0m
+[32m2018-10-06 21:19:13,413 [GSIL] [INFO] start monitor github information leakage: github.dorks[0m
+[32m2018-10-06 21:19:13,415 [GSIL] [INFO] rules length: 1[0m
+[32m2018-10-06 21:19:13,416 [GSIL] [INFO] >>>>>>>>>>>>> edu.cn > ".edu.cn" extension:pem private >>>>>>[0m
+[32m2018-10-06 21:19:15,075 [GSIL] [INFO] ----------------------------[0m
+[32m2018-10-06 21:19:15,076 [GSIL] [INFO] Search keyword: ".edu.cn" extension:pem private [0m
+[32m2018-10-06 21:19:15,076 [GSIL] [INFO] [".edu.cn" extension:pem private] Speed Limit Results (Remaining Times / Total Times): (5000, 5000)  Speed limit reset time: 1538835554[0m
+[32m2018-10-06 21:19:15,076 [GSIL] [INFO] [".edu.cn" extension:pem private] The expected number of acquisitions: 4(Pages) * 50(Per Page) = 200(Total)[0m
+[32m2018-10-06 21:19:15,752 [GSIL] [INFO] [".edu.cn" extension:pem private] The actual number: 4[0m
+[32m2018-10-06 21:19:16,530 [GSIL] [INFO] [".edu.cn" extension:pem private] Get page 0 data for 4[0m
+[32m2018-10-06 21:19:16,986 [GSIL] [INFO] [".edu.cn" extension:pem private] [0/4] Did not match the code, skip![0m
+[32m2018-10-06 21:19:17,813 [GSIL] [INFO] [".edu.cn" extension:pem private] [1/4] Did not match the code, skip![0m
+[32m2018-10-06 21:19:18,754 [GSIL] [INFO] [".edu.cn" extension:pem private] [2/4] Did not match the code, skip![0m
+[32m2018-10-06 21:19:19,197 [GSIL] [INFO] [".edu.cn" extension:pem private] [3/4] Did not match the code, skip![0m
+[32m2018-10-06 21:19:19,198 [GSIL] [INFO] Process count: 0[0m
+[32m2018-10-06 21:19:19,198 [GSIL] [INFO] none content for send mail[0m
+[32m2018-10-06 21:19:19,198 [GSIL] [INFO] [".edu.cn" extension:pem private] The current rules are processed, the process of normal exit![0m
+[32m2018-10-06 21:24:11,615 [GSIL] [INFO] start monitor github information leakage: github.dorks[0m
+[32m2018-10-06 21:24:11,616 [GSIL] [INFO] rules length: 2[0m
+[32m2018-10-06 21:24:11,616 [GSIL] [INFO] >>>>>>>>>>>>> edu.cn > ".edu.cn" extension:pem private >>>>>>[0m
+[32m2018-10-06 21:24:14,793 [GSIL] [INFO] ----------------------------[0m
+[32m2018-10-06 21:24:14,803 [GSIL] [INFO] Search keyword: ".edu.cn" extension:pem private [0m
+[32m2018-10-06 21:24:14,804 [GSIL] [INFO] [".edu.cn" extension:pem private] Speed Limit Results (Remaining Times / Total Times): (4996, 5000)  Speed limit reset time: 1538835556[0m
+[32m2018-10-06 21:24:14,804 [GSIL] [INFO] [".edu.cn" extension:pem private] The expected number of acquisitions: 4(Pages) * 50(Per Page) = 200(Total)[0m
+[32m2018-10-06 21:24:15,442 [GSIL] [INFO] [".edu.cn" extension:pem private] The actual number: 4[0m
+[32m2018-10-06 21:24:16,074 [GSIL] [INFO] [".edu.cn" extension:pem private] Get page 0 data for 4[0m
+[32m2018-10-06 21:24:16,567 [GSIL] [INFO] [".edu.cn" extension:pem private] [0/4] Did not match the code, skip![0m
+[32m2018-10-06 21:24:18,395 [GSIL] [INFO] [".edu.cn" extension:pem private] [1/4] Did not match the code, skip![0m
+[32m2018-10-06 21:24:20,207 [GSIL] [INFO] [".edu.cn" extension:pem private] [2/4] Did not match the code, skip![0m
+[32m2018-10-06 21:24:20,995 [GSIL] [INFO] [".edu.cn" extension:pem private] [3/4] Did not match the code, skip![0m
+[32m2018-10-06 21:24:20,995 [GSIL] [INFO] Process count: 0[0m
+[32m2018-10-06 21:24:20,995 [GSIL] [INFO] none content for send mail[0m
+[32m2018-10-06 21:24:20,996 [GSIL] [INFO] [".edu.cn" extension:pem private] The current rules are processed, the process of normal exit![0m
+[32m2018-10-06 21:24:21,039 [GSIL] [INFO] >>>>>>>>>>>>> edu.cn > ".edu.cn" filename:.dockercfg auth >>>>>>[0m
+[32m2018-10-06 21:24:25,002 [GSIL] [INFO] ----------------------------[0m
+[32m2018-10-06 21:24:25,008 [GSIL] [INFO] Search keyword: ".edu.cn" filename:.dockercfg auth [0m
+[32m2018-10-06 21:24:25,008 [GSIL] [INFO] [".edu.cn" filename:.dockercfg auth] Speed Limit Results (Remaining Times / Total Times): (4992, 5000)  Speed limit reset time: 1538835556[0m
+[32m2018-10-06 21:24:25,009 [GSIL] [INFO] [".edu.cn" filename:.dockercfg auth] The expected number of acquisitions: 4(Pages) * 50(Per Page) = 200(Total)[0m
+[32m2018-10-06 21:24:26,389 [GSIL] [INFO] [".edu.cn" filename:.dockercfg auth] The actual number: 3[0m
+[32m2018-10-06 21:24:27,034 [GSIL] [INFO] [".edu.cn" filename:.dockercfg auth] Get page 0 data for 0[0m
+[32m2018-10-06 21:24:27,035 [GSIL] [INFO] Process count: 0[0m
+[32m2018-10-06 21:24:27,035 [GSIL] [INFO] none content for send mail[0m
+[32m2018-10-06 21:24:27,035 [GSIL] [INFO] [".edu.cn" filename:.dockercfg auth] The current rules are processed, the process of normal exit![0m
+[32m2018-10-06 21:38:58,156 [GSIL] [INFO] start monitor github information leakage: github.dorks[0m
+[32m2018-10-06 21:38:58,157 [GSIL] [INFO] rules length: 2[0m
+[32m2018-10-06 21:38:58,157 [GSIL] [INFO] >>>>>>>>>>>>> edu.cn > ".edu.cn" extension:pem private >>>>>>[0m
+[32m2018-10-06 21:39:00,128 [GSIL] [INFO] ----------------------------[0m
+[32m2018-10-06 21:39:37,061 [GSIL] [INFO] Search keyword: ".edu.cn" extension:pem private [0m
+[32m2018-10-06 21:40:24,951 [GSIL] [INFO] [".edu.cn" extension:pem private] Speed Limit Results (Remaining Times / Total Times): (5000, 5000)  Speed limit reset time: 1538836739[0m
+[32m2018-10-06 21:40:25,230 [GSIL] [INFO] [".edu.cn" extension:pem private] The expected number of acquisitions: 4(Pages) * 50(Per Page) = 200(Total)[0m
+[32m2018-10-06 21:41:50,270 [GSIL] [INFO] [".edu.cn" extension:pem private] The actual number: 4[0m
+[32m2018-10-06 21:44:12,700 [GSIL] [INFO] [".edu.cn" extension:pem private] Get page 0 data for 4[0m
+[32m2018-10-06 21:50:23,036 [GSIL] [INFO] [".edu.cn" extension:pem private] [0/4] Did not match the code, skip![0m
+[32m2018-10-06 21:50:29,878 [GSIL] [INFO] start monitor github information leakage: github.dorks[0m
+[32m2018-10-06 21:50:29,879 [GSIL] [INFO] rules length: 2[0m
+[32m2018-10-06 21:50:29,879 [GSIL] [INFO] >>>>>>>>>>>>> edu.cn > ".edu.cn" extension:pem private >>>>>>[0m
+[32m2018-10-06 21:50:33,640 [GSIL] [INFO] ----------------------------[0m
+[32m2018-10-06 21:50:33,641 [GSIL] [INFO] Search keyword: ".edu.cn" extension:pem private [0m
+[32m2018-10-06 21:50:33,641 [GSIL] [INFO] [".edu.cn" extension:pem private] Speed Limit Results (Remaining Times / Total Times): (4992, 5000)  Speed limit reset time: 1538835556[0m
+[32m2018-10-06 21:50:33,642 [GSIL] [INFO] [".edu.cn" extension:pem private] The expected number of acquisitions: 4(Pages) * 50(Per Page) = 200(Total)[0m
+[32m2018-10-06 21:50:34,638 [GSIL] [INFO] [".edu.cn" extension:pem private] The actual number: 4[0m
+[32m2018-10-06 21:50:36,450 [GSIL] [INFO] [".edu.cn" extension:pem private] Get page 0 data for 4[0m
+[32m2018-10-06 21:50:37,600 [GSIL] [INFO] [".edu.cn" extension:pem private] [0/4] Did not match the code, skip![0m
+[32m2018-10-06 21:50:39,105 [GSIL] [INFO] [".edu.cn" extension:pem private] [1/4] Did not match the code, skip![0m
+[32m2018-10-06 21:50:39,936 [GSIL] [INFO] [".edu.cn" extension:pem private] [2/4] Did not match the code, skip![0m
+[32m2018-10-06 21:50:41,010 [GSIL] [INFO] [".edu.cn" extension:pem private] [3/4] Did not match the code, skip![0m
+[32m2018-10-06 21:50:41,010 [GSIL] [INFO] Process count: 0[0m
+[32m2018-10-06 21:50:41,011 [GSIL] [INFO] none content for send mail[0m
+[32m2018-10-06 21:50:41,011 [GSIL] [INFO] [".edu.cn" extension:pem private] The current rules are processed, the process of normal exit![0m
+[32m2018-10-06 21:50:41,015 [GSIL] [INFO] >>>>>>>>>>>>> edu.cn > ".edu.cn" filename:.dockercfg auth >>>>>>[0m
+[32m2018-10-06 21:50:42,626 [GSIL] [INFO] ----------------------------[0m
+[32m2018-10-06 21:50:42,627 [GSIL] [INFO] Search keyword: ".edu.cn" filename:.dockercfg auth [0m
+[32m2018-10-06 21:50:42,627 [GSIL] [INFO] [".edu.cn" filename:.dockercfg auth] Speed Limit Results (Remaining Times / Total Times): (5000, 5000)  Speed limit reset time: 1538837442[0m
+[32m2018-10-06 21:50:42,627 [GSIL] [INFO] [".edu.cn" filename:.dockercfg auth] The expected number of acquisitions: 4(Pages) * 50(Per Page) = 200(Total)[0m
+[32m2018-10-06 21:50:44,066 [GSIL] [INFO] [".edu.cn" filename:.dockercfg auth] The actual number: 3[0m
+[32m2018-10-06 21:50:44,646 [GSIL] [INFO] [".edu.cn" filename:.dockercfg auth] Get page 0 data for 0[0m
+[32m2018-10-06 21:50:44,648 [GSIL] [INFO] Process count: 0[0m
+[32m2018-10-06 21:50:44,648 [GSIL] [INFO] none content for send mail[0m
+[32m2018-10-06 21:50:44,649 [GSIL] [INFO] [".edu.cn" filename:.dockercfg auth] The current rules are processed, the process of normal exit![0m
+[32m2018-10-06 21:59:11,277 [GSIL] [INFO] start monitor github information leakage: github.dorks[0m
+[32m2018-10-06 21:59:11,277 [GSIL] [INFO] rules length: 2[0m
+[32m2018-10-06 21:59:11,277 [GSIL] [INFO] >>>>>>>>>>>>> edu.cn > ".edu.cn" filename:wp-config.php >>>>>>[0m
+[32m2018-10-06 21:59:12,951 [GSIL] [INFO] ----------------------------[0m
+[32m2018-10-06 21:59:12,952 [GSIL] [INFO] Search keyword: ".edu.cn" filename:wp-config.php [0m
+[32m2018-10-06 21:59:12,952 [GSIL] [INFO] [".edu.cn" filename:wp-config.php] Speed Limit Results (Remaining Times / Total Times): (4988, 5000)  Speed limit reset time: 1538835556[0m
+[32m2018-10-06 21:59:12,952 [GSIL] [INFO] [".edu.cn" filename:wp-config.php] The expected number of acquisitions: 4(Pages) * 50(Per Page) = 200(Total)[0m
+[32m2018-10-06 21:59:13,569 [GSIL] [INFO] [".edu.cn" filename:wp-config.php] The actual number: 3[0m
+[32m2018-10-06 21:59:15,354 [GSIL] [INFO] [".edu.cn" filename:wp-config.php] Get page 0 data for 1[0m
+[32m2018-10-06 21:59:17,003 [GSIL] [INFO] [".edu.cn" filename:wp-config.php] [0/3] Did not match the code, skip![0m
+[32m2018-10-06 21:59:17,003 [GSIL] [INFO] Process count: 0[0m
+[32m2018-10-06 21:59:17,003 [GSIL] [INFO] none content for send mail[0m
+[32m2018-10-06 21:59:17,003 [GSIL] [INFO] [".edu.cn" filename:wp-config.php] The current rules are processed, the process of normal exit![0m
+[32m2018-10-06 21:59:17,006 [GSIL] [INFO] >>>>>>>>>>>>> edu.cn > ".edu.cn" filename:.dockercfg auth >>>>>>[0m
+[32m2018-10-06 21:59:19,846 [GSIL] [INFO] ----------------------------[0m
+[32m2018-10-06 21:59:19,847 [GSIL] [INFO] Search keyword: ".edu.cn" filename:.dockercfg auth [0m
+[32m2018-10-06 21:59:19,847 [GSIL] [INFO] [".edu.cn" filename:.dockercfg auth] Speed Limit Results (Remaining Times / Total Times): (4999, 5000)  Speed limit reset time: 1538836955[0m
+[32m2018-10-06 21:59:19,847 [GSIL] [INFO] [".edu.cn" filename:.dockercfg auth] The expected number of acquisitions: 4(Pages) * 50(Per Page) = 200(Total)[0m
+[32m2018-10-06 21:59:20,426 [GSIL] [INFO] [".edu.cn" filename:.dockercfg auth] The actual number: 3[0m
+[32m2018-10-06 21:59:20,997 [GSIL] [INFO] [".edu.cn" filename:.dockercfg auth] Get page 0 data for 0[0m
+[32m2018-10-06 21:59:20,998 [GSIL] [INFO] Process count: 0[0m
+[32m2018-10-06 21:59:20,998 [GSIL] [INFO] none content for send mail[0m
+[32m2018-10-06 21:59:20,998 [GSIL] [INFO] [".edu.cn" filename:.dockercfg auth] The current rules are processed, the process of normal exit![0m
+[32m2018-10-06 22:24:12,874 [GSIL] [INFO] start monitor github information leakage: github.dorks[0m
+[32m2018-10-06 22:24:12,876 [GSIL] [INFO] rules length: 2[0m
+[32m2018-10-06 22:24:12,877 [GSIL] [INFO] >>>>>>>>>>>>> edu.cn > ".edu.cn" >>>>>>[0m
+[32m2018-10-06 22:24:15,085 [GSIL] [INFO] ----------------------------[0m
+[32m2018-10-06 22:24:32,982 [GSIL] [INFO] Search keyword: ".edu.cn" extension:php  filename:wp-config.php [0m
+[32m2018-10-06 22:24:47,221 [GSIL] [INFO] [".edu.cn"] Speed Limit Results (Remaining Times / Total Times): (4999, 5000)  Speed limit reset time: 1538836955[0m
+[32m2018-10-06 22:24:47,673 [GSIL] [INFO] [".edu.cn"] The expected number of acquisitions: 4(Pages) * 50(Per Page) = 200(Total)[0m
+[32m2018-10-06 22:24:51,044 [GSIL] [INFO] [".edu.cn"] The actual number: 3[0m
+[32m2018-10-06 22:24:53,863 [GSIL] [INFO] [".edu.cn"] Get page 0 data for 1[0m
+[32m2018-10-06 22:25:09,683 [GSIL] [INFO] [".edu.cn"] [0/3] Processing is complete, the next one![0m
+[32m2018-10-06 22:25:09,683 [GSIL] [INFO] Process count: 1[0m
+[32m2018-10-06 22:25:14,717 [GSIL] [INFO] [".edu.cn"] The current rules are processed, the process of normal exit![0m
+[32m2018-10-06 22:25:14,720 [GSIL] [INFO] >>>>>>>>>>>>> edu.cn > ".edu.cn" filename:.dockercfg auth >>>>>>[0m
+[32m2018-10-06 22:25:20,598 [GSIL] [INFO] ----------------------------[0m
+[32m2018-10-06 22:25:22,450 [GSIL] [INFO] Search keyword: ".edu.cn" filename:.dockercfg auth  filename:wp-config.php [0m
+[32m2018-10-06 22:25:22,451 [GSIL] [INFO] [".edu.cn" filename:.dockercfg auth] Speed Limit Results (Remaining Times / Total Times): (5000, 5000)  Speed limit reset time: 1538839516[0m
+[32m2018-10-06 22:25:22,451 [GSIL] [INFO] [".edu.cn" filename:.dockercfg auth] The expected number of acquisitions: 4(Pages) * 50(Per Page) = 200(Total)[0m
+[32m2018-10-06 22:25:23,465 [GSIL] [INFO] [".edu.cn" filename:.dockercfg auth] The actual number: 3[0m
+[32m2018-10-06 22:25:24,077 [GSIL] [INFO] [".edu.cn" filename:.dockercfg auth] Get page 0 data for 1[0m
+[32m2018-10-06 22:25:25,109 [GSIL] [INFO] [".edu.cn" filename:.dockercfg auth] [0/3] Processed, skip! (0)[0m
+[32m2018-10-06 22:25:25,110 [GSIL] [INFO] Process count: 0[0m
+[32m2018-10-06 22:25:25,110 [GSIL] [INFO] none content for send mail[0m
+[32m2018-10-06 22:25:25,111 [GSIL] [INFO] [".edu.cn" filename:.dockercfg auth] The current rules are processed, the process of normal exit![0m
+[32m2018-10-06 22:37:08,621 [GSIL] [INFO] start monitor github information leakage: github.dorks[0m
+[31m[47m2018-10-06 22:37:08,621 [GSIL] [CRITICAL] get rules failed, rule types not found![0m
+[32m2018-10-06 22:37:34,482 [GSIL] [INFO] start monitor github information leakage: edu.cn[0m
+[32m2018-10-06 22:37:34,482 [GSIL] [INFO] rules length: 2[0m
+[32m2018-10-06 22:37:34,482 [GSIL] [INFO] >>>>>>>>>>>>> npmrc > ".edu.cn" >>>>>>[0m
+[32m2018-10-06 22:37:36,722 [GSIL] [INFO] ----------------------------[0m
+[32m2018-10-06 22:37:36,723 [GSIL] [INFO] Search keyword: ".edu.cn" extension:php  filename:wp-config.php [0m
+[32m2018-10-06 22:37:36,723 [GSIL] [INFO] [".edu.cn"] Speed Limit Results (Remaining Times / Total Times): (4998, 5000)  Speed limit reset time: 1538836955[0m
+[32m2018-10-06 22:37:36,723 [GSIL] [INFO] [".edu.cn"] The expected number of acquisitions: 4(Pages) * 50(Per Page) = 200(Total)[0m
+[32m2018-10-06 22:37:38,674 [GSIL] [INFO] [".edu.cn"] The actual number: 3[0m
+[32m2018-10-06 22:37:39,308 [GSIL] [INFO] [".edu.cn"] Get page 0 data for 1[0m
+[32m2018-10-06 22:37:39,309 [GSIL] [INFO] [".edu.cn"] [0/3] Processed, skip! (0)[0m
+[32m2018-10-06 22:37:39,309 [GSIL] [INFO] Process count: 0[0m
+[32m2018-10-06 22:37:39,309 [GSIL] [INFO] none content for send mail[0m
+[32m2018-10-06 22:37:39,309 [GSIL] [INFO] [".edu.cn"] The current rules are processed, the process of normal exit![0m
+[32m2018-10-06 22:37:39,312 [GSIL] [INFO] >>>>>>>>>>>>> config > ".edu.cn" auths >>>>>>[0m
+[32m2018-10-06 22:37:42,446 [GSIL] [INFO] ----------------------------[0m
+[32m2018-10-06 22:37:42,447 [GSIL] [INFO] Search keyword: ".edu.cn" auths extension:json  filename:config.json [0m
+[32m2018-10-06 22:37:42,447 [GSIL] [INFO] [".edu.cn" auths] Speed Limit Results (Remaining Times / Total Times): (5000, 5000)  Speed limit reset time: 1538840262[0m
+[32m2018-10-06 22:37:42,447 [GSIL] [INFO] [".edu.cn" auths] The expected number of acquisitions: 4(Pages) * 50(Per Page) = 200(Total)[0m
+[32m2018-10-06 22:37:43,991 [GSIL] [INFO] [".edu.cn" auths] The actual number: 3[0m
+[32m2018-10-06 22:37:44,668 [GSIL] [INFO] [".edu.cn" auths] Get page 0 data for 0[0m
+[32m2018-10-06 22:37:44,670 [GSIL] [INFO] Process count: 0[0m
+[32m2018-10-06 22:37:44,671 [GSIL] [INFO] none content for send mail[0m
+[32m2018-10-06 22:37:44,671 [GSIL] [INFO] [".edu.cn" auths] The current rules are processed, the process of normal exit![0m
+[32m2018-10-06 23:13:31,796 [GSIL] [INFO] start monitor github information leakage: edu.cn[0m
+[32m2018-10-06 23:18:51,591 [GSIL] [INFO] start monitor github information leakage: edu.cn[0m
+[32m2018-10-06 23:19:42,510 [GSIL] [INFO] start monitor github information leakage: edu.cn[0m
+[32m2018-10-06 23:23:05,335 [GSIL] [INFO] start monitor github information leakage: edu.cn[0m
+[32m2018-10-06 23:25:50,003 [GSIL] [INFO] start monitor github information leakage: edu.cn[0m
+[32m2018-10-06 23:25:50,003 [GSIL] [INFO] rules length: 7[0m
+[32m2018-10-06 23:25:50,003 [GSIL] [INFO] >>>>>>>>>>>>> edu1 > ".edu.cn" auth >>>>>>[0m
+[32m2018-10-06 23:25:53,627 [GSIL] [INFO] ----------------------------[0m
+[32m2018-10-06 23:25:53,628 [GSIL] [INFO] Search keyword: ".edu.cn" auth  filename:.npmrc [0m
+[32m2018-10-06 23:25:53,628 [GSIL] [INFO] [".edu.cn" auth] Speed Limit Results (Remaining Times / Total Times): (5000, 5000)  Speed limit reset time: 1538843152[0m
+[32m2018-10-06 23:25:53,628 [GSIL] [INFO] [".edu.cn" auth] The expected number of acquisitions: 4(Pages) * 50(Per Page) = 200(Total)[0m
+[32m2018-10-06 23:25:54,583 [GSIL] [INFO] [".edu.cn" auth] The actual number: 3[0m
+[32m2018-10-06 23:26:01,289 [GSIL] [INFO] [".edu.cn" auth] Get page 0 data for 0[0m
+[32m2018-10-06 23:26:01,289 [GSIL] [INFO] Process count: 0[0m
+[32m2018-10-06 23:26:01,290 [GSIL] [INFO] none content for send mail[0m
+[32m2018-10-06 23:26:01,290 [GSIL] [INFO] [".edu.cn" auth] The current rules are processed, the process of normal exit![0m
+[32m2018-10-06 23:26:01,293 [GSIL] [INFO] >>>>>>>>>>>>> edu2 > ".edu.cn" auth >>>>>>[0m
+[32m2018-10-06 23:26:04,183 [GSIL] [INFO] ----------------------------[0m
+[32m2018-10-06 23:26:04,183 [GSIL] [INFO] Search keyword: ".edu.cn" auth  filename:.dockercfg [0m
+[32m2018-10-06 23:26:04,184 [GSIL] [INFO] [".edu.cn" auth] Speed Limit Results (Remaining Times / Total Times): (5000, 5000)  Speed limit reset time: 1538843163[0m
+[32m2018-10-06 23:26:04,184 [GSIL] [INFO] [".edu.cn" auth] The expected number of acquisitions: 4(Pages) * 50(Per Page) = 200(Total)[0m
+[32m2018-10-06 23:26:04,731 [GSIL] [INFO] [".edu.cn" auth] The actual number: 3[0m
+[32m2018-10-06 23:26:06,999 [GSIL] [INFO] [".edu.cn" auth] Get page 0 data for 0[0m
+[32m2018-10-06 23:26:06,999 [GSIL] [INFO] Process count: 0[0m
+[32m2018-10-06 23:26:07,000 [GSIL] [INFO] none content for send mail[0m
+[32m2018-10-06 23:26:07,000 [GSIL] [INFO] [".edu.cn" auth] The current rules are processed, the process of normal exit![0m
+[32m2018-10-06 23:26:07,003 [GSIL] [INFO] >>>>>>>>>>>>> edu3 > ".edu.cn" private >>>>>>[0m
+[32m2018-10-06 23:26:11,928 [GSIL] [INFO] ----------------------------[0m
+[32m2018-10-06 23:26:11,928 [GSIL] [INFO] Search keyword: ".edu.cn" private extension:pem  [0m
+[32m2018-10-06 23:26:11,929 [GSIL] [INFO] [".edu.cn" private] Speed Limit Results (Remaining Times / Total Times): (5000, 5000)  Speed limit reset time: 1538843169[0m
+[32m2018-10-06 23:26:11,929 [GSIL] [INFO] [".edu.cn" private] The expected number of acquisitions: 4(Pages) * 50(Per Page) = 200(Total)[0m
+[32m2018-10-06 23:26:13,400 [GSIL] [INFO] [".edu.cn" private] The actual number: 4[0m
+[32m2018-10-06 23:26:14,905 [GSIL] [INFO] [".edu.cn" private] Get page 0 data for 4[0m
+[32m2018-10-06 23:26:16,630 [GSIL] [INFO] [".edu.cn" private] [0/4] Did not match the code, skip![0m
+[32m2018-10-06 23:26:17,949 [GSIL] [INFO] [".edu.cn" private] [1/4] Did not match the code, skip![0m
+[32m2018-10-06 23:26:19,141 [GSIL] [INFO] [".edu.cn" private] [2/4] Did not match the code, skip![0m
+[32m2018-10-06 23:26:19,948 [GSIL] [INFO] [".edu.cn" private] [3/4] Did not match the code, skip![0m
+[32m2018-10-06 23:26:19,948 [GSIL] [INFO] Process count: 0[0m
+[32m2018-10-06 23:26:19,948 [GSIL] [INFO] none content for send mail[0m
+[32m2018-10-06 23:26:19,949 [GSIL] [INFO] [".edu.cn" private] The current rules are processed, the process of normal exit![0m
+[32m2018-10-06 23:26:19,952 [GSIL] [INFO] >>>>>>>>>>>>> edu4 > ".edu.cn" private >>>>>>[0m
+[32m2018-10-06 23:26:22,567 [GSIL] [INFO] ----------------------------[0m
+[32m2018-10-06 23:26:22,567 [GSIL] [INFO] Search keyword: ".edu.cn" private extension:ppk  [0m
+[32m2018-10-06 23:26:22,568 [GSIL] [INFO] [".edu.cn" private] Speed Limit Results (Remaining Times / Total Times): (5000, 5000)  Speed limit reset time: 1538843182[0m
+[32m2018-10-06 23:26:22,568 [GSIL] [INFO] [".edu.cn" private] The expected number of acquisitions: 4(Pages) * 50(Per Page) = 200(Total)[0m
+[31m[47m2018-10-06 23:26:24,503 [GSIL] [CRITICAL] GitHub [search_code] exception(code: 403 msg: {'documentation_url': 'https://developer.github.com/v3/#abuse-rate-limits', 'message': 'You have triggered an abuse detection mechanism. Please wait a few minutes before you try again.'} 125b5d2801e2041b4668a9cea56e135dc184f6f7[0m
+[32m2018-10-06 23:26:24,506 [GSIL] [INFO] >>>>>>>>>>>>> edu5 > ".edu.cn" >>>>>>[0m
+[32m2018-10-06 23:26:26,128 [GSIL] [INFO] ----------------------------[0m
+[32m2018-10-06 23:26:26,128 [GSIL] [INFO] Search keyword: ".edu.cn"  filename:id_rsa [0m
+[32m2018-10-06 23:26:26,129 [GSIL] [INFO] [".edu.cn"] Speed Limit Results (Remaining Times / Total Times): (5000, 5000)  Speed limit reset time: 1538843185[0m
+[32m2018-10-06 23:26:26,129 [GSIL] [INFO] [".edu.cn"] The expected number of acquisitions: 4(Pages) * 50(Per Page) = 200(Total)[0m
+[31m[47m2018-10-06 23:26:27,002 [GSIL] [CRITICAL] GitHub [search_code] exception(code: 403 msg: {'documentation_url': 'https://developer.github.com/v3/#abuse-rate-limits', 'message': 'You have triggered an abuse detection mechanism. Please wait a few minutes before you try again.'} 125b5d2801e2041b4668a9cea56e135dc184f6f7[0m
+[32m2018-10-06 23:26:27,005 [GSIL] [INFO] >>>>>>>>>>>>> edu6 > ".edu.cn" mysql dump >>>>>>[0m
+[32m2018-10-06 23:26:30,679 [GSIL] [INFO] ----------------------------[0m
+[32m2018-10-06 23:26:30,679 [GSIL] [INFO] Search keyword: ".edu.cn" mysql dump extension:sql  [0m
+[32m2018-10-06 23:26:30,680 [GSIL] [INFO] [".edu.cn" mysql dump] Speed Limit Results (Remaining Times / Total Times): (5000, 5000)  Speed limit reset time: 1538843190[0m
+[32m2018-10-06 23:26:30,680 [GSIL] [INFO] [".edu.cn" mysql dump] The expected number of acquisitions: 4(Pages) * 50(Per Page) = 200(Total)[0m
+[31m[47m2018-10-06 23:26:31,946 [GSIL] [CRITICAL] GitHub [search_code] exception(code: 403 msg: {'documentation_url': 'https://developer.github.com/v3/#abuse-rate-limits', 'message': 'You have triggered an abuse detection mechanism. Please wait a few minutes before you try again.'} 125b5d2801e2041b4668a9cea56e135dc184f6f7[0m
+[32m2018-10-06 23:26:31,949 [GSIL] [INFO] >>>>>>>>>>>>> edu7 > ".edu.cn" aws_access_key_id >>>>>>[0m
+[32m2018-10-06 23:26:34,044 [GSIL] [INFO] ----------------------------[0m
+[32m2018-10-06 23:26:34,045 [GSIL] [INFO] Search keyword: ".edu.cn" aws_access_key_id  filename:credentials [0m
+[32m2018-10-06 23:26:34,045 [GSIL] [INFO] [".edu.cn" aws_access_key_id] Speed Limit Results (Remaining Times / Total Times): (5000, 5000)  Speed limit reset time: 1538843193[0m
+[32m2018-10-06 23:26:34,045 [GSIL] [INFO] [".edu.cn" aws_access_key_id] The expected number of acquisitions: 4(Pages) * 50(Per Page) = 200(Total)[0m
+[32m2018-10-06 23:26:35,452 [GSIL] [INFO] [".edu.cn" aws_access_key_id] The actual number: 3[0m
+[32m2018-10-06 23:26:36,182 [GSIL] [INFO] [".edu.cn" aws_access_key_id] Get page 0 data for 0[0m
+[32m2018-10-06 23:26:36,183 [GSIL] [INFO] Process count: 0[0m
+[32m2018-10-06 23:26:36,183 [GSIL] [INFO] none content for send mail[0m
+[32m2018-10-06 23:26:36,183 [GSIL] [INFO] [".edu.cn" aws_access_key_id] The current rules are processed, the process of normal exit![0m

@@ -1,0 +1,74 @@
+{
+    "edu.cn": {
+        "edu1": {
+            "\".edu.cn\" _auth": {
+                "filename": ".npmrc"
+                }
+        },
+        "edu2": {
+            "\".edu.cn\" auth": {
+                "filename": ".dockercfg"
+                }
+        },
+        "edu3": {
+            "\".edu.cn\" private": {
+                "ext": "pem"
+                }
+        },
+        "edu4": {
+            "\".edu.cn\" private": {
+                "ext": "ppk"
+                }
+        },
+        "edu5": {
+            "\".edu.cn\"": {
+                "filename": "id_rsa"
+                }
+        },
+        "edu6": {
+            "\".edu.cn\" mysql dump": {
+                "ext": "sql"
+                }
+        },
+        "edu7": {
+            "\".edu.cn\" aws_access_key_id": {
+                "filename": "credentials"
+                }
+        },
+        "edu8": {
+            "\".edu.cn\"": {
+                "filename": ".s3cfg"
+                }
+        },
+        "edu9": {
+            "\".edu.cn\"": {
+                "filename": "wp-config.php"
+                }
+        },
+        "edu10": {
+            "\".edu.cn\"": {
+                "filename": ".htpasswd"
+                }
+        },
+        "edu11": {
+            "\".edu.cn\" DB_USERNAME": {
+                "filename": ".env"
+                }
+        },
+        "edu12": {
+            "\".edu.cn\"": {
+                "filename": ".git-credentials"
+                }
+        },
+        "edu13": {
+            "\".edu.cn\" password": {
+                "filename": ".bashrc"
+                }
+        },
+        "edu14": {
+            "\".edu.cn\" aws": {
+                "filename": ".bash_profile"
+                }
+        }
+    }
+}

@@ -1,0 +1,100 @@
+{
+    "butian": {
+        "sc.hnssczx.com": {
+            "\".hnssczx.\"": {
+                "mode": "normal-match",
+                "ext": "bak,json,txt,sql,ini,php,java,python,go,js,properties"
+            }
+        },
+        "www.diyou.cn": {
+            "\".diyou.\" password": {
+                "mode": "normal-match",
+                "ext": "bak,json,txt,sql,ini,php,java,python,go,js,properties"
+            }
+        },
+        "www.aiyoumi.com": {
+            "\".aiyoumi.\" password":{
+                "mode": "normal-match",
+                "ext": "bak,json,txt,sql,ini,php,java,python,go,js,properties"
+            }
+        },
+        "www.chinaamc.com": {
+            "\".chinaamc.\" password":{
+                "mode": "normal-match",
+                "ext": "bak,json,txt,sql,ini,php,java,python,go,js,properties"
+            }
+        },
+        "www.lionfund.com.cn": {
+            "\".lionfund.\" password":{
+                "mode": "normal-match",
+                "ext": "bak,json,txt,sql,ini,php,java,python,go,js,properties"
+            }
+        },
+        "www.cdpf.org.cn": {
+            "\".cdpf.org.cn\" password":{
+                "mode": "normal-match",
+                "ext": "bak,json,txt,sql,ini,php,java,python,go,js,properties"
+            }
+        },
+        "www.cdpsn.org.cn": {
+            "\".cdpsn.org.cn\" password":{
+                "mode": "normal-match",
+                "ext": "bak,json,txt,sql,ini,php,java,python,go,js,properties"
+            }
+        },
+        "www.tzg.cn": {
+            "\".tzg.cn\" password":{
+                "mode": "normal-match",
+                "ext": "bak,json,txt,sql,ini,php,java,python,go,js,properties"
+            }
+        },
+        "www.guahao.com": {
+            "\".guahao.\" password":{
+                "mode": "normal-match",
+                "ext": "bak,json,txt,sql,ini,php,java,python,go,js,properties"
+            }
+        },
+        "www.szcomtop.com": {
+            "\".szcomtop.\" password":{
+                "mode": "normal-match",
+                "ext": "bak,json,txt,sql,ini,php,java,python,go,js,properties"
+            }
+        },
+        "www.ayibang.com": {
+            "\".ayibang.\" password":{
+                "mode": "normal-match",
+                "ext": "bak,json,txt,sql,ini,php,java,python,go,js,properties"
+            }
+        },
+        "www.epicard.com.cn": {
+            "\".epicard.\" password":{
+                "mode": "normal-match",
+                "ext": "bak,json,txt,sql,ini,php,java,python,go,js,properties"
+            }
+        },
+        "www.ypic.cn": {
+            "\".ypic.\" password":{
+                "mode": "normal-match",
+                "ext": "bak,json,txt,sql,ini,php,java,python,go,js,properties"
+            }
+        },
+        "www.dyedu.net": {
+            "\".dyedu.\" password":{
+                "mode": "normal-match",
+                "ext": "bak,json,txt,sql,ini,php,java,python,go,js,properties"
+            }
+        },
+        "www.cqksy.cn": {
+            "\".cqksy.\" password":{
+                "mode": "normal-match",
+                "ext": "bak,json,txt,sql,ini,php,java,python,go,js,properties"
+            }
+        },
+        "www.jwx.com.cn": {
+            "\".jwx.com.cn\" password":{
+                "mode": "normal-match",
+                "ext": "bak,json,txt,sql,ini,php,java,python,go,js,properties"
+            }
+        }
+    }
+}
