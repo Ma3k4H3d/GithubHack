@@ -1,0 +1,7 @@
+GSIL/logs/
+GSIL/.idea/
+GSIL/.cache/
+GSIL/*.pyc
+GSIL/config.gsil
+GSIL/rules.gsil
+GSIL/rules.gsil.butian
