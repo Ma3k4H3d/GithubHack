@@ -1,0 +1,3 @@
+x-patrol/*.js linguist-language=golang
+x-patrol/*.css linguist-language=golang
+x-patrol/*.html linguist-language=golang
